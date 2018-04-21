@@ -1,4 +1,9 @@
 ---
+# MOD REDESIGN IN PROGRESS
+## The mod is currently being redesigned for the South China Sea expansion. All files have been removed from this site until this is complete. Thank you for your patience.
+
+
+---
 ## WELCOME TO THE NEW PLAYABLE SUBS & MORE MOD
 * This Github repository is the official development center for the New Playable Subs & More mod for Cold Waters. In this repository, we have two versions of the mod - the official stable release version and the development version.
 

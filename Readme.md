@@ -50,7 +50,7 @@ _Important & urgent information for the mod developers will appear in this secti
 * **IMPORTANT: When submitting a final pull request for your latest changes to be merged into the master branch, please list all of the changes you made in the comments, as this will become the official change log for each public release.**
 
 -----
-### Rules & Guidelines For New Content
+## Developer Rules & Guidelines For New Content
 * **All new subs must be personally approved by CaptainX3.** The new goal of the mod is not to provide as many units as possible, but instead to provide a smaller number of high quality units.
 * New subs must be unique and not similar to existing subs. We're generally not looking for multiple revisions of the same sub class. (Example: We don't need an Oscar I, we have an Oscar II that works fine)
 * New subs must fall within the standard time frame of the game, 1984 to present day. We will not be including old WWII subs and such.

@@ -9,6 +9,13 @@
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
 -----
+## SUBMITTING ISSUES, BUG REPORTS, & SUGGESTIONS
+
+* Everyone is welcome to use the Github Issues system to submit issues, bug reports, and suggestions. We have a system set up to handle and respond to these issues from our end.
+* We have created a label system to tag all issues. All issues will initially be assigned a Category label, which will have a white background (except for bug reports, which will have a red background). Once the mod developers review an issue, they'll assign a Status label to it. This label indicates the current status of the issue and if any further comments are needed.
+* Keep an eye on issues you submit, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.
+
+-----
 ## FIRST TIME INSTALLATION INSTRUCTIONS
 * STEP 1: [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to open the Releases page.
 
@@ -35,13 +42,6 @@
 * STEP 4: Drag the **override** folder you extracted into this directory.
 
 * STEP 5: You're done. Run the game and enjoy all of the new stuff!
-
------
-## SUBMITTING ISSUES, BUG REPORTS, & SUGGESTIONS
-
-* Everyone is welcome to use the Github Issues system to submit issues, bug reports, and suggestions. We have a system set up to handle and respond to these issues from our end.
-* We have created a label system to tag all issues. All issues will initially be assigned a Category label, which will have a white background (except for bug reports, which will have a red background). Once the mod developers review an issue, they'll assign a Status label to it. This label indicates the current status of the issue and if any further comments are needed.
-* Keep an eye on issues you submit, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.
 
 -----
 # Developer Announcements

@@ -1,0 +1,12 @@
+Image=campaign/images/pact surface raiders 3
+MissionLocation=Baltic Sea. 300 miles due East of Bornholm Island.
+Briefing=Swedish radar installation reports a contact at 55°21'20.8"N 16°59'24.6"E. You are sent to investigate. As you arrive in the area, hostile forces are on full alert.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Identify and engage the Soviet missile cruisers attempting to break out of the Denmark Strait
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Engage escort vessels
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)

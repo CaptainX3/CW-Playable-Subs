@@ -1,0 +1,14 @@
+Image=campaign/images/pact warship tender 2
+MissionLocation=300 miles due West of Stockholm. Baltic Sea.
+Briefing=Satellite has confirmed that a Soviet invasion fleet has set sail from Leningrad, possibly to attempt an amphibious assault on Stockholm.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Prevent the Soviet amphibious assault
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Engage main vessels of the escort fleet
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)

@@ -1,0 +1,11 @@
+Image=campaign/images/OutOfOrder.jpg
+MissionLocation=The Atlantic Ocean
+Briefing=
+Briefing=You’ve been lurking deep in the Atlantic, waiting for a NATO Convoy, and your chance has finally come!
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all convoy ships
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink all escorts
+

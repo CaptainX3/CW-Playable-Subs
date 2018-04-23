@@ -1,0 +1,15 @@
+Image=campaign/images/OutOfOrder.jpg
+MissionLocation=North Atlantic
+Briefing=A nuclear attack has been launched against the United States. 
+Briefing=You are ordered to immediately perform a retaliatory nuclear strike.
+Briefing=
+Briefing=Primary Objective:
+Briefing=Transit to SLBM launch area.
+Briefing=Fire 10 SLBMs into the deployment zone.
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Survive.
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By goldfish716. Included with permission.)

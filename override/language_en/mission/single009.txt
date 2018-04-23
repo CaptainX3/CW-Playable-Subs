@@ -1,0 +1,12 @@
+Image=campaign/images/212a.jpg
+MissionLocation=Norwegian Sea
+Briefing=Your government is interested in testing the capabilities of its new hyper-modern attack submarine against a worthy enemy.
+Briefing=
+Briefing=You are stalking a nearby enemy sub with capabilities similar to your own. Teach them a lesson!
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the enemy submarine.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Avoid Detection
+Briefing=- Survive

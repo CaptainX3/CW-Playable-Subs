@@ -1,0 +1,33 @@
+//The Duel - 1968 (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=15 DEC 1968
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Rain
+SeaState=Moderate Breeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=wp_ssn_november|wp_ssn_victor1|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey|wp_ssbn_yankee|wp_ssgn_charlie1|wp_ssgn_echo2|wp_ssg_juliet|wp_ssgn_oscar|wp_ssb_golf|plan_ss_ming|plan_ss_romeo|plan_ssk_song|plan_ssbn_xia
+FormationCruiseSpeed=12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio_vls,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio

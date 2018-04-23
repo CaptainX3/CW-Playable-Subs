@@ -1,0 +1,60 @@
+//Convoy Strike (NATO)
+
+UseTerrain=TRUE
+MapCoordinates=1985,1478
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=14 Jan 1983
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=10-10,3-3,0-2
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE,FALSE
+EnemyShipClasses=wp_bdk_alligator|wp_pb_don|wp_pb_ugra|wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_ms_kommunist|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan|wp_fv_trawler,wp_bpk_udaloy|wp_bpk_udaloy2|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1|wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_skr_riga|wp_mpk_grisha3|wp_mpk_poti,wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ssn_november|wp_ssn_novemberii|wp_ss_kilo|wp_ss_kilo2|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=30,100
+PlayerHeading=112
+PlayerDepthInFeet=50
+
+//Group1 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+EnemyWaypoints=2,-74|92,-12
+EnemyWaypoints=7,-79|92,-12
+EnemyWaypoints=12,-84|92,-12
+EnemyWaypoints=17,-89|92,-12
+EnemyWaypoints=22,-94|92,-12
+EnemyWaypoints=27,-99|92,-12
+EnemyWaypoints=32,-104|92,-12
+EnemyWaypoints=37,-109|92,-12
+
+//Group2 Waypoints.
+EnemyWaypoints=-8,-54|92,-1
+EnemyWaypoints=-3,-59|92,-1
+EnemyWaypoints=2,-64|92,-1
+
+//Group3 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio_vls,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio

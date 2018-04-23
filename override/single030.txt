@@ -1,0 +1,70 @@
+//Second Strike 
+
+UseTerrain=TRUE
+MapCoordinates=3165,1066
+MapFromCampaign=North Atlantic
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=19 Jun 2004
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+
+//Enemy Ships
+NumberOfEnemyUnits=16-16
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=wp_ssbn_typhoon|wp_ssbn_delta4|wp_ssbn_delta3|wp_ssgn_oscar|wp_ssgn_charlie2|wp_ssgn_charlie1|wp_ssn_sierra|wp_ssn_alfa|wp_ssn_victor3|wp_ssn_victor2|wp_ssn_victor1|wp_ssn_november|wp_ss_kilo|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey|wp_takr_kiev|wp_rkr_kirov|wp_kr_sverdlov|wp_pkr_moskva|wp_bpk_udaloy|wp_bpk_kara|wp_bpk_kresta2|wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_skr_riga|wp_mpk_grisha3|wp_mpk_poti|wp_pb_don|wp_pb_ugra|wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan
+
+FormationCruiseSpeed=12
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=1800,1800
+PlayerHeading=240
+PlayerDepthInFeet=45
+PlayerTelegraph=2
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+
+EnemyWaypoints=1500,1801|1200,1501|1600,1801
+EnemyWaypoints=1500,1602|1600,1502|1400,1202
+EnemyWaypoints=1500,1703|1600,1103|1600,1203
+EnemyWaypoints=1600,1504|1700,1804|1100,1804
+EnemyWaypoints=1600,1655|1500,1805|1200,1105
+EnemyWaypoints=1500,1756|1600,1406|1700,1706
+EnemyWaypoints=1500,1796|1600,1607|1500,1207
+EnemyWaypoints=1600,1558|1100,1208|1800,1408
+EnemyWaypoints=1100,1710|1200,1510|1600,1509
+EnemyWaypoints=1100,1750|1200,1550|1600,1510
+EnemyWaypoints=1700,1797|1600,1011|1400,1211
+EnemyWaypoints=1500,1711|1700,1112|1600,1212
+EnemyWaypoints=1500,1798|1600,1713|1100,1513
+EnemyWaypoints=1600,1799|1800,1714|1800,1114
+EnemyWaypoints=1500,1612|1500,1415|1700,1815
+EnemyWaypoints=1500,1713|1600,1616|1500,1216
+
+MissionPosition=400,400
+MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=2
+AircraftType=wp_il-38_may
+
+//Position and Radius
+AircraftSearchArea=1400,1700,500
+AircraftSearchArea=1700,1400,500
+
+PlayerVessels=usn_ssbn_ohio,uk_ssbn_resolution,uk_ssbn_vanguard,fra_ssbn_redoubtable

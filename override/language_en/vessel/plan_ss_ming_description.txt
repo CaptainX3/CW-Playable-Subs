@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Ming
+Description=[PLAN] Ming Class SS
+History=Self Noise Rating: 125 db\nEscape Depth: 600 ft\n\nThe Ming is a heavily redesigned Romeo class submarine and compared to its predecessor is faster and quieter. Since the late 80's, these boats have been fitted with French high-performance digital sonars and advanced firecontrol equipment that enables them to fire the YU-3 homing torpedo.
+
+[Player Ship Instances]
+PlayerClassNames=SS-356,SS-357,SS-358,SS-359,SS-360,SS-361,SS-362,SS-363,SS-305,SS-306,SS-307,SS-308
+
+PlayerClassHullNumbers=356,357,358,359,360,361,362,363,305,306,307,308

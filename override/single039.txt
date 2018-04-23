@@ -1,0 +1,60 @@
+//Convoy Strike (RUS)
+
+UseTerrain=TRUE
+MapCoordinates=1985,1478
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=14 Jan 1983
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=10-10,3-3,0-2
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE,FALSE
+EnemyShipClasses=usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_vtr_transport|usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_fv_trawler,usn_bpk_perry|usn_bpk_perry_late|usn_bpk_knox|usn_bpk_spruance|usn_bpk_adams|usn_bpk_farragut|usn_bpk_garcia|usn_bpk_belknap|usn_bpk_belknap_late|usn_kr_iowa|usn_kr_iowa_late,usn_ssn_los_angeles_688i|usn_ssn_seawolf|usn_ssn_virginia|usn_ss_stingray|usn_ssn_narwhal|usn_ssn_sturgeon|usn_ssn_permit|usn_ssn_skipjack|usn_ss_barbel|usn_ssn_nautilus|usn_ssn_nautilus_imp|uk_ssn_astute|uk_ssn_trafalgar|uk_ssn_swiftsure|uk_ssn_dreadnought|uk_ssn_valliant|uk_ssn_churchill|uk_ss_upholder|uk_ss_oberon|pak_ss_agosta
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=30,100
+PlayerHeading=112
+PlayerDepthInFeet=0
+
+//Group1 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+EnemyWaypoints=2,-74|92,-12
+EnemyWaypoints=7,-79|92,-12
+EnemyWaypoints=12,-84|92,-12
+EnemyWaypoints=17,-89|92,-12
+EnemyWaypoints=22,-94|92,-12
+EnemyWaypoints=27,-99|92,-12
+EnemyWaypoints=32,-104|92,-12
+EnemyWaypoints=37,-109|92,-12
+
+//Group2 Waypoints.
+EnemyWaypoints=-8,-54|92,-1
+EnemyWaypoints=-3,-59|92,-1
+EnemyWaypoints=2,-64|92,-1
+
+//Group3 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=rus_mpk_poti_player,rus_rkr_kirov_player

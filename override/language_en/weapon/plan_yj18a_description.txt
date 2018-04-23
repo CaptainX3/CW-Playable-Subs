@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=YJ-18A
+WeaponDescriptiveName=YJ-18A Land-Attack Missile
+WeaponDescription=The YJ-18A is a second-generation Chinese land-attack missile. It is derived from the Kh-55 missile.

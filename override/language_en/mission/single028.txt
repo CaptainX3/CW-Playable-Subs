@@ -1,0 +1,18 @@
+Image=campaign/images/_ROROs coming in high seas
+MissionLocation=Atlantic Ocean
+Briefing=After several uneventful days, sonar reports a lone contact.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all contacts
+Briefing=
+Briefing=(It could be ANYTHING, including neutrals!)
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By Ramius. Included with permission.)
+
+
+

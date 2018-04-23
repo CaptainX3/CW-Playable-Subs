@@ -1,0 +1,70 @@
+//Second Strike (RUS)
+
+UseTerrain=TRUE
+MapCoordinates=3165,1066
+MapFromCampaign=North Atlantic
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=19 Jun 2004
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+
+//Enemy Ships
+NumberOfEnemyUnits=16-16
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=usn_bpk_perry|usn_bpk_perry_late|usn_bpk_knox|usn_bpk_spruance|usn_bpk_adams|usn_bpk_farragut|usn_bpk_garcia|usn_ssn_los_angeles|usn_ssn_los_angeles_2|usn_ssn_los_angeles_688i|usn_ssn_seawolf|usn_ssn_virginia|usn_ssn_narwhal|usn_ssn_sturgeon|usn_ssn_permit|usn_ssn_skipjack|usn_ssn_nautilus|usn_ssn_nautilus_imp|uk_ssn_astute|uk_ssn_trafalgar|uk_ssn_swiftsure|uk_ss_upholder|uk_ss_oberon|ger_ssn_212a|fra_ssn_rubis|swe_ss_gotland|aus_ss_collins|HNLMS_SS_Dolfijn|HNLMS_SS_Walrus|pak_ss_agosta
+
+FormationCruiseSpeed=12
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=1800,1800
+PlayerHeading=240
+PlayerDepthInFeet=45
+PlayerTelegraph=2
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+
+EnemyWaypoints=1500,1801|1200,1501|1600,1801
+EnemyWaypoints=1500,1602|1600,1502|1400,1202
+EnemyWaypoints=1500,1703|1600,1103|1600,1203
+EnemyWaypoints=1600,1504|1700,1804|1100,1804
+EnemyWaypoints=1600,1655|1500,1805|1200,1105
+EnemyWaypoints=1500,1756|1600,1406|1700,1706
+EnemyWaypoints=1500,1796|1600,1607|1500,1207
+EnemyWaypoints=1600,1558|1100,1208|1800,1408
+EnemyWaypoints=1100,1710|1200,1510|1600,1509
+EnemyWaypoints=1100,1750|1200,1550|1600,1510
+EnemyWaypoints=1700,1797|1600,1011|1400,1211
+EnemyWaypoints=1500,1711|1700,1112|1600,1212
+EnemyWaypoints=1500,1798|1600,1713|1100,1513
+EnemyWaypoints=1600,1799|1800,1714|1800,1114
+EnemyWaypoints=1500,1612|1500,1415|1700,1815
+EnemyWaypoints=1500,1713|1600,1616|1500,1216
+
+MissionPosition=400,400
+MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=2
+AircraftType=wp_il-38_may
+
+//Position and Radius
+AircraftSearchArea=1400,1700,500
+AircraftSearchArea=1700,1400,500
+
+PlayerVessels=rus_ssbn_yankee,rus_ssbn_delta3,rus_ssbn_delta4,rus_ssbn_borei,rus_ssbn_typhoon,rus_ssbn_redoctober,rus_ssbn_redoctober_silent,rus_ssbn_borei,chn_ssbn_type092

@@ -1,0 +1,14 @@
+Image=campaign/images/nato submarine 2
+MissionLocation=Denmark Strait. 200 miles due North of Reykjavik.
+Briefing=You are attempting to break through the Denmark Strait when sonar reports a contact.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Identify and neutralize the contact
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Break through the Denmark Strait
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)

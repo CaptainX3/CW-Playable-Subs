@@ -1,0 +1,16 @@
+Image=campaign/images/pact naval 2
+MissionLocation=200 miles due North-East of Reykjavik.
+Briefing=SOSUS reports a large group of contacts at 66°08'12.7"N 24°56'30.8"W. You are sent to investigate.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Identify and neutralize any enemy forces
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Avoid detection
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)
+
+

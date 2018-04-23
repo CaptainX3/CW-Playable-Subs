@@ -1,0 +1,51 @@
+//JAN MAYEN
+UseTerrain=TRUE
+MapCoordinates=1985,1474
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=05 Jan 1970
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=TRUE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+//|
+NumberOfEnemyUnits=2-2,2-2,1-1
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_bpk_farragut|usn_bpk_garcia,civ_fv_trawler,usn_ss_tang|usn_ss_guppyIIa
+FormationCruiseSpeed=6
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=100,100
+PlayerHeading=270
+PlayerDepthInFeet=150
+
+
+//Group1 Waypoints.
+EnemyWaypoints=55,75|55,0
+EnemyWaypoints=50,70|50,0
+//Group2 Waypoints.FV
+EnemyWaypoints=80,80|0,0
+EnemyWaypoints=80,70|0,5
+//Group3 Waypoints.DE SM
+EnemyWaypoints=-300,0|-250,0
+
+MissionPosition=-320,50
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=usn_sh3d
+NumberOfAircraft=1
+AircraftType=usn_p3a
+
+PlayerVessels=rus_ssan_p748

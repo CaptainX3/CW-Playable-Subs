@@ -1,0 +1,52 @@
+//Creeping Hunter (USSR)
+
+UseTerrain=TRUE
+MapCoordinates=1478,1586
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=02 OCT 1987
+Hemisphere=North
+Time=1400
+UsePresetEnvironment=FALSE
+Weather=Broken
+SeaState=ModerateBreeze
+DuctStrength=VeryWeak
+LayerStrength=Moderate
+
+//Enemy Ships
+UsePresetPositions=TRUE
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+EnemyUnitMissionCritical=TRUE,TRUE,TRUE,TRUE
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyShipClasses=usn_ssn_los_angeles_688i,usn_ssn_narwhal,usn_ss_guppyIIa,usn_ssn_los_angeles
+FormationCruiseSpeed=5
+
+//Gruppe I - Unterseebooten.
+EnemyWaypoints=-424,388|-332,88|144,-80
+
+//Gruppe II - Unterseebooten.
+EnemyWaypoints=-384,-116|-252,88|144,-80
+
+//Gruppe III - Unterseebooten.
+EnemyWaypoints=300,72|-24,148|-268,104
+
+//Gruppe IV - Unterseebooten.
+EnemyWaypoints=-112,-204|-176,68|-132,280
+
+PlayerPosition=0,0
+PlayerHeading=270
+PlayerDepthInFeet=600
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_tu-142_bear
+
+//Flugzeug
+
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio_vls,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio,plan_ssn_han,plan_ssn_shang,plan_ss_kilo,plan_ss_ming,plan_ss_romeo,plan_ssk_song,plan_ssbn_xia,dprk_ss_romeo,vnm_ss_kilo,wp_ssn_akula1,wp_ssn_akula2,wp_ssn_alfa,wp_ssn_alfa2,wp_ssn_mike,wp_ssn_november,wp_ssn_novemberii,wp_ssn_sierra,wp_ssn_victor1,wp_ssn_victor2,wp_ssn_victor3,wp_ss_foxtrot,wp_ss_kilo,wp_ss_kilo2,wp_ss_lada,wp_ss_romeo,wp_ss_tango,wp_ss_whiskey,wp_ssbn_borei,wp_ssbn_delta4,wp_ssbn_delta3,wp_ssb_golf,wp_ssbn_redoctober,wp_ssbn_redoctober_silent,wp_ssbn_typhoon,wp_ssbn_typhoon_vls,wp_ssbn_yankee,wp_ssgn_charlie1,wp_ssgn_charlie2,wp_ssgn_echo2,wp_ssg_juliet,wp_ssgn_oscar,wp_ssgn_yasen

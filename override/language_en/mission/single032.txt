@@ -1,0 +1,10 @@
+Image=campaign/images/pact naval 1
+MissionLocation=Central Norwegian Sea
+Briefing=You have been shadowing and observing a major top secret Russian exercise involving their new carrier battlegroup. Unfortunately, your night shift commanding officer has just made a mistake and the Russians now know you're nearby and are hunting you with extreme prejudice.
+Briefing=
+Briefing=Primary Objective:
+Briefing=- Survive
+Briefing=
+Briefing=Secondary Objectives:
+Briefing=- Sink the Enemy Carrier
+Briefing=- Avoid Neutral Shipping

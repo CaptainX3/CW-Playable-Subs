@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Oyashio
+Description=[JPN] Oyashio Class SS
+History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nThe Oyashio Class is a series of Japanese diesel-electric attack submarines operated by the JMSDF. The submarines entered service in the late 1990s. The submarines are larger than the earlier Harushio Class, to provide space for a flank sonar array. There are a total of 11 boats in the class - the last boat was commissioned in 2008. Boats of this class carry the Type 59 torpedo and the Harpoon anti-ship missile.
+
+[Player Ship Instances]
+PlayerClassNames=Oyashio,Michishio,Uzushio,Makishio,Isoshio,Narushio,Kuroshio,Takashio,Yaeshio,Setoshio,Mochishio
+
+PlayerClassHullNumbers=SS-590,SS-591,SS-592,SS-593,SS-594,SS-595,SS-596,SS-597,SS-598,SS-599,SS-600

@@ -1,0 +1,8 @@
+Image=campaign/images/city nuke
+MissionLocation=Near the Iceland coast
+Briefing=An experimental Typhoon class submarine, the Red October, has gone rogue and threatens to launch a nuclear attack on the United States. You must stop it at all costs.
+Briefing=
+Briefing=We have been provided the sonar signature for the rogue submarine, but be aware that it is using a new silent drive technology and will be very difficult to detect. It has been reported that its sonar signature can be easily mistaken for a biologic. Use discretion and avoid firing on ocean life.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the Red October

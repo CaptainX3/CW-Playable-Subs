@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=S-10 Granat
+WeaponDescriptiveName=S-10 Granat
+WeaponDescription=The S-10 Granat is a turbojet-powered, submarine-launched anti-ship missile used by the Russian navy. The rough equivalent to the US Harpoon missile, the Granat features a larger warhead but roughly the same range as the Harpoon. 

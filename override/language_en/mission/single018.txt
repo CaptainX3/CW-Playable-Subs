@@ -1,0 +1,9 @@
+Image=campaign/images/under ice
+MissionLocation=Somewhere north of Spitsbergen
+Briefing=Hunt and kill a Soviet Typhoon-class boomer and evade its high-tech escorts.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the Typhoon
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Escape

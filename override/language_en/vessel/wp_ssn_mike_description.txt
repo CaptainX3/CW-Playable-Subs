@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Mike
+Description=[RUS] Mike Class SSN
+History=Self Noise Rating: 152 db\nEscape Depth: 600 ft\n\nK-278 Komsomolets was the only Project 685 Plavnik (Плавник, meaning "fin", also known by its NATO reporting name of "Mike" Class) nuclear-powered attack submarine of the Soviet Navy. On 4 August 1984 K-278 reached a record submergence depth of 1,020 metres (3,350 feet) in the Norwegian Sea. The boat sank in 1989 and is currently resting on the floor of the Barents Sea, one mile deep, with its nuclear reactor and two nuclear warheads still on board. The single Project 685 was developed to test technologies for Soviet 4th generation nuclear submarines. Although primarily intended as a developmental model, it was fully combat capable, but sank after a fire broke out in the aft engineering compartment on its first operational patrol.
+
+[Player Ship Instances]
+PlayerClassNames=Komsomolets
+
+PlayerClassHullNumbers=K-278

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=53-65M
+WeaponDescriptiveName=53-65M Torpedo
+WeaponDescription=The 53-65 torpedo family are Russian made, wake-homing torpedoes designed to destroy surface ships. The 53-65 became operational in 1965, while the 53-65K and 53-65M both became operational in 1969. The 53-65KE is an exported version. China received an unknown number of 53-65KE torpedoes from Russia after purchasing 4 Kilo class submarines in the 1990s.In came it is simulated as conventional passive homing torpedo.

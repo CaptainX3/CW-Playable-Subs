@@ -1,0 +1,42 @@
+//Revenge Is A Dish... (NATO)
+
+UseTerrain=TRUE
+MapCoordinates=1714,895
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=05 Jan 1970
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=FALSE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=DEFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=rus_ssn_akula1|rus_ssn_akula2|rus_ssn_yasen|rus_ssn_sierra|rus_ssn_alfa|rus_ssn_alfa2|rus_ssn_mike|rus_ssn_victor1|rus_ssn_victor2|rus_ssn_victor3|rus_ssn_november|rus_ssn_novemberii|rus_ssgn_oscar1|rus_ssgn_oscar|rus_ssgn_charlie1|rus_ssgn_charlie2|rus_ssgn_echo1|rus_ssgn_echo2|rus_ssgn_papa|rus_ssg_juliet|rus_ssan_p748|rus_ss_kilo|rus_ss_kilo2|rus_ss_lada|rus_ss_tango|rus_ss_foxtrot|rus_ss_romeo|rus_ss_whiskey|rus_ss_whiskeylb
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=20,4
+PlayerHeading=90
+PlayerDepthInFeet=0
+
+//Group1 Waypoints.
+EnemyWaypoints=-16,120|140,36|56,-128|-112,-28|-16,116
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=usn_bpk_perry_late_player,usn_kr_iowa_late_player

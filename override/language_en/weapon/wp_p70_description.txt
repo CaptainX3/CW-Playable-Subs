@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-7 (Ship)
+WeaponDescriptiveName=SS-N-7 (P-70) Ametist
+WeaponDescription=The P-70 Ametist (NATO reporting name SS-N-7 Starbright, GRAU designation 4K66; Russian: П-70 «Аметист» 'Amethyst') was an anti-ship missile carried by Soviet and Indian Charlie-I submarines, as well as the Soviet Papa class submarine.\nFolding wings were added to reduce the size of the missile, and the missile can be launched at a maximum depth of 30 m (98 ft).

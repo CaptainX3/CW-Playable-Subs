@@ -1,0 +1,6 @@
+Image=campaign/images/pact surface raiders 2
+MissionLocation=Denmark Strait, near Iceland
+Briefing=You've made contact with a Soviet open-ocean ASW group, including a helicopter carrier, that is attempting to break out into the North Atlantic with intent to hunt our Polaris submarines there. 
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the Moskva.

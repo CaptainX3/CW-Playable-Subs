@@ -1,0 +1,10 @@
+Image=campaign/images/oilrig.jpg
+MissionLocation=Statfjord Oil Field, North Sea
+Briefing=The enemy have recently gained control of these oil rigs. 
+Briefing=It is essential that we regain control as they are utilized as resupply bases for our submarines.
+Briefing=
+Briefing=<b>Primary Objective:</b>
+Briefing=Embark a Special Forces team and then make best speed towards the insertion position to re-take <b>OUR</b> essential assets.
+Briefing=
+Briefing=<b>Secondary Objective:</b>
+Briefing=Locate and destroy <b>ANY</b> enemy forces.

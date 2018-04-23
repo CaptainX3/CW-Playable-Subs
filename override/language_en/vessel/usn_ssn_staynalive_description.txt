@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=USS Stayin' Alive
+Description=[USA] Jive Turkey Class SSN (Disco Era)
+History=<b>FANTASY DESIGN</b>\nSelf Noise Rating: 125 db\nEscape Depth: 1200 ft\n\nConjured up from the depths of the mind of a man who never left the 80's, the Jive Turkey class nuclear attack submarine is an interesting abstraction that could never have been conceived by a sane mind. Although it is the standard size of a Los Angeles class, it defies the laws of physics and is much more manuverable, and seemingly ignorning all reality, it contains a crew of over 22,000, despite being only 115 meters long. While slightly slower in top speed than a modern sub, it does feature a fairly impressive weapons array and sensor suite, especially when you consider that everything on it was invented 30 years after it was built.\n\n<b>A special gift for Jive Turkey from CaptainX3 - September 20, 2017 - Thanks for the entertainment!</b>
+
+[Player Ship Instances]
+PlayerClassNames=Stayin' Alive
+
+PlayerClassHullNumbers=SSN-1983

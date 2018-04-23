@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Virginia
+Description=[USA] Virginia Class SSN
+History=Self Noise Rating: 107 db\nEscape Depth: 600 ft\n\nAlso known as the SSN-774 class, the Virginia is a class of nuclear-powered fast attack submarines in service with the United States Navy. Virginia Class submarines are designed for a broad spectrum of open-ocean and littoral (shallow coastal water) missions. They were conceived as a less expensive alternative to the Seawolf Class attack submarines, designed during the Cold War era. They are replacing older Los Angeles Class submarines. Virginia Class submarines will be acquired through 2043, and are expected to remain in service past 2060.
+
+[Player Ship Instances]
+PlayerClassNames=Virginia,Texas,Hawaii,North Carolina,New Hampshire,New Mexico,Missouri,California,Mississippi,Minnesota
+
+PlayerClassHullNumbers=SSN-774,SSN-775,SSN-776,SSN-777,SSN-778,SSN-779,SSN-780,SSN-781,SSN-782,SSN-783

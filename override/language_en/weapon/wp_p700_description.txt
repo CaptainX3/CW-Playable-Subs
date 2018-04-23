@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=P-700 (Ship)
+WeaponDescriptiveName=P-700 Granit
+WeaponDescription=The P-700 Granit is a Russian naval anti-ship cruise missile. It comes in surface-to-surface and submarine-launched variants. It boasts a larger warhead (750kg vs 450kg) and a longer range (80000 yards vs 60000 yards) than the equivalent US cruise missiles.\nThe P-700 was designed in the 1970s to replace the P-70 Ametist and P-120 Malakhit, both effective missiles but with too short a range in the face of improving weapons of U.S. Navy carrier battle groups. The missile was partially derived from the P-500 Bazalt.

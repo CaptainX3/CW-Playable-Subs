@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=P-500 (Land)
+WeaponDescriptiveName=P-500 Bazalt
+WeaponDescription=The P-500 Bazalt is a turbojet-powered, submarine-launched cruise missile used by the Russian navy. It boasts a larger warhead (750kg vs 450kg) and a longer range (80000 yards vs 60000 yards) than the equivalent US cruise missiles.

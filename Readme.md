@@ -1,5 +1,4 @@
----
-# IMPORTANT NOTES ABOUT THE FIRST POST-EXPANSION RELEASE
+## IMPORTANT NOTES ABOUT THE FIRST POST-EXPANSION RELEASE
 
 * This is the first release of the mod since the South China Sea expansion. I threw it together as fast as I could in order to get something playable out to the public, so there will likely be minor bugs and issues.
 * **YOU MUST OPT IN TO THE BETA BUILD ON STEAM!!** The mod will not work at all unless you open Steam, select Cold Waters, right click on it and select Properties, click on the Betas tab, and choose the beta build. This will download the current build of the SCS expansion.

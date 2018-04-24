@@ -1,51 +1,39 @@
-//JAN MAYEN
+//The Great Escape
+
 UseTerrain=TRUE
-MapCoordinates=1985,1474
+MapCoordinates=2267,1563
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
 
 //Environment
-Date=05 Jan 1970
+Date=10 NOV 1984
 Hemisphere=North
-Time=1700
-UsePresetEnvironment=TRUE
-Weather=Snow
-SeaState=FreshBreeze
-DuctStrength=RANDOM
-LayerStrength=RANDOM
+Time=0400
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
 
 //Enemy Ships
-//|
-NumberOfEnemyUnits=2-2,2-2,1-1
-CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
-EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-EnemyShipClasses=usn_bpk_farragut|usn_bpk_garcia,civ_fv_trawler,usn_ss_tang|usn_ss_guppyIIa
-FormationCruiseSpeed=6
-
-//Ship positions and headings, otherwise build into a formation
-UsePresetPositions=TRUE
-PlayerPosition=100,100
-PlayerHeading=270
-PlayerDepthInFeet=150
-
-
-//Group1 Waypoints.
-EnemyWaypoints=55,75|55,0
-EnemyWaypoints=50,70|50,0
-//Group2 Waypoints.FV
-EnemyWaypoints=80,80|0,0
-EnemyWaypoints=80,70|0,5
-//Group3 Waypoints.DE SM
-EnemyWaypoints=-300,0|-250,0
-
-MissionPosition=-320,50
+NumberOfEnemyUnits=1-1,5-10,2-6
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE
+EnemyShipClasses=wp_takr_kiev,wp_rkr_kirov|wp_kr_sverdlov|wp_bpk_udaloy|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1|wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_skr_riga|wp_mpk_grisha3|wp_mpk_poti|wp_bdk_ropucha,wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_november|wp_ssn_novemberii|wp_ssn_sierra|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssgn_charlie1|wp_ssgn_charlie2|wp_ssgn_echo2|wp_ssg_juliet|wp_ssgn_oscar|wp_ssgn_yasen|plan_ssn_han|plan_ss_kilo|plan_ss_ming|plan_ss_romeo|plan_ssk_song
+FormationCruiseSpeed=10
 
 //Enemy Aircraft
-NumberOfHelicopters=1
-HelicopterType=usn_sh3d
-NumberOfAircraft=1
-AircraftType=usn_p3a
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
 
-PlayerVessels=rus_ssan_p748
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio_vls,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio,plan_ssn_han,plan_ssn_shang,plan_ss_kilo,plan_ss_ming,plan_ss_romeo,plan_ssk_song,plan_ssbn_xia,dprk_ss_romeo,vnm_ss_kilo,wp_ssn_akula1,wp_ssn_akula2,wp_ssn_alfa,wp_ssn_alfa2,wp_ssn_mike,wp_ssn_november,wp_ssn_novemberii,wp_ssn_sierra,wp_ssn_victor1,wp_ssn_victor2,wp_ssn_victor3,wp_ss_foxtrot,wp_ss_kilo,wp_ss_kilo2,wp_ss_lada,wp_ss_romeo,wp_ss_tango,wp_ss_whiskey,wp_ssbn_borei,wp_ssbn_delta4,wp_ssbn_delta3,wp_ssb_golf,wp_ssbn_redoctober,wp_ssbn_redoctober_silent,wp_ssbn_typhoon,wp_ssbn_typhoon_vls,wp_ssbn_yankee,wp_ssgn_charlie1,wp_ssgn_charlie2,wp_ssgn_echo2,wp_ssg_juliet,wp_ssgn_oscar,wp_ssgn_yasen
+
+
+
+
+
+

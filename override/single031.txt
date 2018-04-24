@@ -1,70 +1,60 @@
-//Second Strike (RUS)
+//Convoy Strike (NATO)
 
 UseTerrain=TRUE
-MapCoordinates=3165,1066
-MapFromCampaign=North Atlantic
+MapCoordinates=1985,1478
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
 
 //Environment
-Date=19 Jun 2004
+Date=14 Jan 1983
 Hemisphere=North
 Time=1100
-UsePresetEnvironment=FALSE
-Weather=Clear
-SeaState=LightBreeze
-DuctStrength=Moderate
-LayerStrength=Moderate
-
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
 
 //Enemy Ships
-NumberOfEnemyUnits=16-16
-CombatBehaviour=OFFENSIVE
-EnemyShipClasses=usn_bpk_perry|usn_bpk_perry_late|usn_bpk_knox|usn_bpk_spruance|usn_bpk_adams|usn_bpk_farragut|usn_bpk_garcia|usn_ssn_los_angeles|usn_ssn_los_angeles_2|usn_ssn_los_angeles_688i|usn_ssn_seawolf|usn_ssn_virginia|usn_ssn_narwhal|usn_ssn_sturgeon|usn_ssn_permit|usn_ssn_skipjack|usn_ssn_nautilus|usn_ssn_nautilus_imp|uk_ssn_astute|uk_ssn_trafalgar|uk_ssn_swiftsure|uk_ss_upholder|uk_ss_oberon|ger_ssn_212a|fra_ssn_rubis|swe_ss_gotland|aus_ss_collins|HNLMS_SS_Dolfijn|HNLMS_SS_Walrus|pak_ss_agosta
-
-FormationCruiseSpeed=12
+NumberOfEnemyUnits=10-10,3-3,0-2
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE,FALSE
+EnemyShipClasses=wp_bdk_alligator|wp_pb_don|wp_pb_ugra|wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_ms_kommunist|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan|wp_fv_trawler,wp_bpk_udaloy|wp_bpk_udaloy2|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1|wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_skr_riga|wp_mpk_grisha3|wp_mpk_poti,wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ssn_november|wp_ssn_novemberii|wp_ss_kilo|wp_ss_kilo2|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey
+FormationCruiseSpeed=15
 
 //Ship positions and headings, otherwise build into a formation
 UsePresetPositions=TRUE
-PlayerPosition=1800,1800
-PlayerHeading=240
-PlayerDepthInFeet=45
-PlayerTelegraph=2
+PlayerPosition=30,100
+PlayerHeading=112
+PlayerDepthInFeet=50
 
-//AI Nav Waypoints
-//Array of Vector 2 positions
-//Must be enough for maximum number of enemy ships
+//Group1 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+EnemyWaypoints=2,-74|92,-12
+EnemyWaypoints=7,-79|92,-12
+EnemyWaypoints=12,-84|92,-12
+EnemyWaypoints=17,-89|92,-12
+EnemyWaypoints=22,-94|92,-12
+EnemyWaypoints=27,-99|92,-12
+EnemyWaypoints=32,-104|92,-12
+EnemyWaypoints=37,-109|92,-12
 
-EnemyWaypoints=1500,1801|1200,1501|1600,1801
-EnemyWaypoints=1500,1602|1600,1502|1400,1202
-EnemyWaypoints=1500,1703|1600,1103|1600,1203
-EnemyWaypoints=1600,1504|1700,1804|1100,1804
-EnemyWaypoints=1600,1655|1500,1805|1200,1105
-EnemyWaypoints=1500,1756|1600,1406|1700,1706
-EnemyWaypoints=1500,1796|1600,1607|1500,1207
-EnemyWaypoints=1600,1558|1100,1208|1800,1408
-EnemyWaypoints=1100,1710|1200,1510|1600,1509
-EnemyWaypoints=1100,1750|1200,1550|1600,1510
-EnemyWaypoints=1700,1797|1600,1011|1400,1211
-EnemyWaypoints=1500,1711|1700,1112|1600,1212
-EnemyWaypoints=1500,1798|1600,1713|1100,1513
-EnemyWaypoints=1600,1799|1800,1714|1800,1114
-EnemyWaypoints=1500,1612|1500,1415|1700,1815
-EnemyWaypoints=1500,1713|1600,1616|1500,1216
+//Group2 Waypoints.
+EnemyWaypoints=-8,-54|92,-1
+EnemyWaypoints=-3,-59|92,-1
+EnemyWaypoints=2,-64|92,-1
 
-MissionPosition=400,400
-MissionPositionColor=LAND_STRIKE
+//Group3 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
 
 //Enemy Aircraft
 NumberOfHelicopters=0
-HelicopterType=wp_helix
-NumberOfAircraft=2
-AircraftType=wp_il-38_may
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
 
-//Position and Radius
-AircraftSearchArea=1400,1700,500
-AircraftSearchArea=1700,1400,500
-
-PlayerVessels=rus_ssbn_yankee,rus_ssbn_delta3,rus_ssbn_delta4,rus_ssbn_borei,rus_ssbn_typhoon,rus_ssbn_redoctober,rus_ssbn_redoctober_silent,rus_ssbn_borei,chn_ssbn_type092
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio_vls,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio,plan_ssn_han,plan_ssn_shang,plan_ss_kilo,plan_ss_ming,plan_ss_romeo,plan_ssk_song,plan_ssbn_xia,dprk_ss_romeo,vnm_ss_kilo,wp_ssn_akula1,wp_ssn_akula2,wp_ssn_alfa,wp_ssn_alfa2,wp_ssn_mike,wp_ssn_november,wp_ssn_novemberii,wp_ssn_sierra,wp_ssn_victor1,wp_ssn_victor2,wp_ssn_victor3,wp_ss_foxtrot,wp_ss_kilo,wp_ss_kilo2,wp_ss_lada,wp_ss_romeo,wp_ss_tango,wp_ss_whiskey,wp_ssbn_borei,wp_ssbn_delta4,wp_ssbn_delta3,wp_ssb_golf,wp_ssbn_redoctober,wp_ssbn_redoctober_silent,wp_ssbn_typhoon,wp_ssbn_typhoon_vls,wp_ssbn_yankee,wp_ssgn_charlie1,wp_ssgn_charlie2,wp_ssgn_echo2,wp_ssg_juliet,wp_ssgn_oscar,wp_ssgn_yasen

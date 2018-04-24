@@ -4,8 +4,8 @@
 <color=Red>The Duel - 1984 (RUS)</color>
 <color=Cyan>The Hunted (NATO)</color>
 <color=Red>The Hunted (RUS)</color>
-<color=Orange>The Hunt For Red October</color>
-<color=Orange>The Escape of Red October</color>
+<color=Green>The Hunt For Red October</color>
+<color=Green>The Escape of Red October</color>
 <color=Orange>The Giants</color>
 <color=White>In The Presence Of Wolves</color>
 <color=White>Action In The North Atlantic</color>
@@ -13,7 +13,7 @@
 <color=White>Beating The Odds</color>
 <color=White>Skirmish In The Denmark Strait</color>
 <color=White>The Bastion Gambit</color>
-<color=White>Junks On Parade</color>
+<color=White>Junks On Patrol</color>
 <color=White>Strike From The Sea</color>
 <color=White>Stalking The Red Bear</color>
 <color=Orange>The Sole Seeker</color>
@@ -26,6 +26,6 @@
 <color=Orange>The Lone Sabre</color>
 <color=Orange>Creeping Hunter</color>
 <color=Orange>Earn Your Keep</color>
-<color=Cyan>The Great Escape (NATO)</color>
-<color=Cyan>Oil Rig Insertion (NATO)</color>
-<color=Cyan>Convoy Strike (NATO)</color>
+<color=Orange>The Great Escape</color>
+<color=Orange>Oil Rig Insertion</color>
+<color=Orange>Convoy Strike</color>

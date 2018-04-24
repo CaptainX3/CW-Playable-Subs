@@ -113,6 +113,15 @@
 * Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the campaign singature libraries have been left as they were in vanilla, since none of the new subs in this mod will appear in the campaigns.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
 
+## Single Missions List
+
+* Single missions in the mod are color coded as follows:
+  * White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
+  * Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
+  * Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and a unique objective.
+  * Red - These are custom missions playable by only the Red side (Russia, China, etc)
+  * Blue - These are custom missions playable only by the Blue side (USA, UK, etc)
+
 ---
 ## First Time Installation Instructions
 

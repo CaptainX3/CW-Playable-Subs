@@ -1,9 +1,0 @@
-Image=campaign/images/OutOfOrder.jpg
-MissionLocation=Statfjord Oil Field, North Sea
-Briefing=Intel suggests that the enemy are using these oil rigs as resupply bases for their submarines. 
-Briefing=
-Briefing=<b>Primary Objective:</b>
-Briefing=Embark a SPETSNAZ regiment and then make best speed towards the insertion position.
-Briefing=
-Briefing=<b>Secondary Objective:</b>
-Briefing=Locate and destroy ANY enemy forces.

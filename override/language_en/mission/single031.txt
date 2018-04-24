@@ -1,15 +1,12 @@
-Image=campaign/images/OutOfOrder.jpg
-MissionLocation=North Atlantic
-Briefing=A nuclear attack has been launched against Mother Russia. 
-Briefing=You are ordered to immediately perform a retaliatory nuclear strike.
+Image=campaign/images/pact surface raiders 3
+MissionLocation=Near Jan Mayen
 Briefing=
-Briefing=Primary Objective:
-Briefing=Transit to SLBM launch area.
-Briefing=Fire 10 SLBMs into the deployment zone.
+Briefing=You have been hiding off of the northern coast of Jan Mayen for several days. A large convoy with escorts is now approaching the southeast side of the island. They don't know you're here. Take them by surprise!
 Briefing=
-Briefing=Secondary Objective:
-Briefing=Survive.
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all convoy ships
 Briefing=
-Briefing=
-Briefing=
-Briefing=(Mission Submitted By goldfish716. Included with permission.)
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink all escorts
+Briefing=- Survive
+

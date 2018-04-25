@@ -7,7 +7,7 @@
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=usn_mk48_adcap
-WeaponSprite=weapons/sprites/usn_mk48_sprite
+WeaponSprite=hud/default/usn_mk48_adcap_sprite.png
 WeaponType=TORPEDO
 Warhead=550
 SurfaceLaunched=FALSE
@@ -55,7 +55,7 @@ AudioLoop=FALSE
 
 
 WeaponObjectReference=usn_mk48_adcap_swimout
-WeaponSprite=weapons/sprites/usn_mk48_sprite
+WeaponSprite=hud/default/usn_mk48_adcap_swimout_sprite.png
 WeaponType=TORPEDO
 Warhead=550
 SurfaceLaunched=FALSE

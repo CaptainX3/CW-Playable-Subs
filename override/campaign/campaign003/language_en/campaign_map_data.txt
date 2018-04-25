@@ -135,7 +135,7 @@ LabelName=NORTH\nKOREA
 //LabelName=RUSSIA
 Size=26
 LabelPosition=-262,65
-LabelName=PEOPLES REPUBLIC\nOF\nCHINA
+LabelName=PEOPLE'S REPUBLIC\nOF\nCHINA
 
 [OCEANS AND SEAS LABELS]
 Color=43,71,97,255
@@ -159,3 +159,17 @@ LabelPosition=-321.1,-130.1
 LabelName=GULF\nOF\nTONKIN
 LabelPosition=-453.1,-329
 LabelName=GULF\nOF\nTHAILAND
+
+Color=43,71,97,255
+Outline=FALSE
+Size=12
+Font=3
+LabelPosition=15,-115
+LabelName=LUZON STRAIT
+
+Color=43,71,97,255
+Outline=FALSE
+Size=10
+Font=3
+LabelPosition=-45,-14
+LabelName=TAIWAN\nSTRAIT

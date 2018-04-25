@@ -362,7 +362,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=30
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/usn_ugm84
 Material=weapons/assets/usn_ugm84_mat
@@ -415,7 +415,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -468,7 +468,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=FALSE
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -630,6 +630,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/plan_yu-1
 Material=weapons/assets/plan_yu-1_mat
@@ -677,6 +678,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/plan_yu-5
 Material=weapons/assets/plan_yu-5_mat
@@ -724,6 +726,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/plan_yu-7
 Material=weapons/assets/plan_yu-7_mat
@@ -820,6 +823,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_set-40
 Material=weapons/assets/wp_set-65_mat
@@ -874,6 +878,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=SKIM
 MinCameraDistance=0.5
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/plan_cy-1
 Material=weapons/assets/plan_cy-1_mat
@@ -938,7 +943,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=FALSE
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -992,7 +997,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -1180,6 +1185,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_test-71
 Material=weapons/assets/wp_test-71_mat
@@ -1227,6 +1233,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_test-71
 Material=weapons/assets/wp_test-71_mat
@@ -1274,6 +1281,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_test-71
 Material=weapons/assets/wp_test-71_mat
@@ -1320,6 +1328,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_umgt-1
 Material=weapons/assets/wp_umgt-1_mat
@@ -1365,6 +1374,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_at-1
 Material=weapons/assets/wp_set-65_mat
@@ -1409,6 +1419,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_at-2
 Material=weapons/assets/wp_umgt-1_mat
@@ -1455,6 +1466,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_set-40
 Material=weapons/assets/wp_set-65_mat
@@ -1498,6 +1510,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_set-65
 Material=weapons/assets/wp_set-65_mat
@@ -1543,6 +1556,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_set-65
 Material=weapons/assets/wp_set-65_mat
@@ -1589,6 +1603,7 @@ HomeSettings=PASSIVE,ACTIVE
 AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=SHALLOW,DEEP
 MinCameraDistance=0.5
+ResupplyTime=15
 [Model]
 ModelFile=weapons/assets/wp_uset-80
 Material=weapons/assets/wp_uset-80_mat
@@ -1613,12 +1628,6 @@ AudioPitch=1.2
 AudioLoop=FALSE
 [/Model]
 
-
-
-
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - RUSSIA MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=russian_moss
 WeaponSprite=weapons/sprites/usn_moss_sprite
@@ -1662,6 +1671,13 @@ AudioDistance=1,25
 AudioPitch=1
 AudioLoop=TRUE
 [/Model]
+
+
+
+
+// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// - RUSSIA MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 WeaponObjectReference=wp_ss-n-15
@@ -1737,7 +1753,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/wp_ss-n-14
 Material=weapons/assets/wp_ss-n-14_mat
@@ -1788,7 +1804,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE
 DepthSettings=SKIM
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -1842,7 +1858,7 @@ HomeSettings=ACTIVE
 AttackSettings=WIDE
 DepthSettings=SKIM
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -1897,7 +1913,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=FALSE
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -1952,7 +1968,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=FALSE
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -2006,7 +2022,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -2114,7 +2130,7 @@ HomeSettings=FALSE
 AttackSettings=WIDE,NARROW
 DepthSettings=SKIM,POP-UP
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -2168,7 +2184,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=FALSE
 MinCameraDistance=0.5
-ResupplyTime=60
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/usn_tasm
 Material=weapons/assets/usn_tasm_mat
@@ -2222,6 +2238,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=SKIM
 MinCameraDistance=0.5
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/wp_ss-n-14
 Material=weapons/assets/wp_ss-n-14_mat
@@ -2273,6 +2290,7 @@ HomeSettings=FALSE
 AttackSettings=FALSE
 DepthSettings=SKIM
 MinCameraDistance=0.5
+ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/wp_ss-n-16
 Material=weapons/assets/wp_ss-n-16_mat

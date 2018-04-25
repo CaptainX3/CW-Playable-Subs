@@ -98,11 +98,11 @@ ModelFile=ships/wp_ssgn_yasen/wp_ssgn_yasen
 MeshPosition=0,0,0
 MeshRotation=0,0,0
 
-Material=ships/wp_ssgn_yasen/wp_ssgn_yasen_mat
+MeshHullCollider=wp_ssgn_yasen_coll_hull
 MeshSuperstructureCollider=wp_ssgn_yasen_coll_ss
 
 Material=ships/wp_ssgn_yasen/wp_ssgn_yasen_mat
-MaterialTextures=vessels/textures/darkgrey.png
+MaterialTextures=vessels/textures/uk_ssn_astute.png
 Mesh=wp_ssgn_yasen
 MeshPosition=0,0,-0.8452
 MeshRudder=wp_ssgn_yasen_rudder
@@ -368,7 +368,6 @@ Mesh=Mk37
 MeshPosition=0.05,0,-0.9328
 MeshRotation=10,20,0
 Mesh=Mk37
-
 
 [Weapon Systems]
 //Torpedo Mounts

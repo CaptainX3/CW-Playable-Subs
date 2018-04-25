@@ -1,4 +1,4 @@
-Image=campaign/images/212a.jpg
+Image=campaign/images/pact wolfpack 3
 MissionLocation=Norwegian Sea
 Briefing=Your government is interested in testing the capabilities of its new hyper-modern attack submarine against a worthy enemy.
 Briefing=

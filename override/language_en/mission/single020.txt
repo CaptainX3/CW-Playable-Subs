@@ -1,4 +1,4 @@
-Image=campaign/images/cuban missiles
+Image=campaign/images/nato carrier loss
 MissionLocation=Atlantic Sea. 4000 miles North-East from Cuba.
 Briefing=The USS Essex has been torpedoed by a Soviet submarine. All methods of negotiation have failed. You are to consider all Soviet vessels hostile. Weapons free.
 Briefing=

@@ -1,4 +1,4 @@
-Image=campaign/images/oilrig.jpg
+Image=campaign/images/oilrigs
 MissionLocation=Statfjord Oil Field, North Sea
 Briefing=The enemy have recently gained control of these oil rigs. 
 Briefing=It is essential that we regain control as they are utilized as resupply bases for our submarines.

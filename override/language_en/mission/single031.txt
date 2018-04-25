@@ -1,4 +1,4 @@
-Image=campaign/images/pact surface raiders 3
+Image=campaign/images/plan landing 2
 MissionLocation=Near Jan Mayen
 Briefing=
 Briefing=You have been hiding off of the northern coast of Jan Mayen for several days. A large convoy with escorts is now approaching the southeast side of the island. They don't know you're here. Take them by surprise!

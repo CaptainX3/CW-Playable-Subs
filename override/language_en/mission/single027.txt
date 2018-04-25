@@ -1,4 +1,4 @@
-Image=campaign/images/nato submarine 2
+Image=campaign/images/nato submarine
 MissionLocation=Denmark Strait. 200 miles due North of Reykjavik.
 Briefing=You are attempting to break through the Denmark Strait when sonar reports a contact.
 Briefing=

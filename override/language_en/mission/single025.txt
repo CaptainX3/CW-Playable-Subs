@@ -1,4 +1,4 @@
-Image=campaign/images/pact warship tender 2
+Image=campaign/images/pact landing sunk
 MissionLocation=300 miles due West of Stockholm. Baltic Sea.
 Briefing=Satellite has confirmed that a Soviet invasion fleet has set sail from Leningrad, possibly to attempt an amphibious assault on Stockholm.
 Briefing=

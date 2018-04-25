@@ -2,7 +2,6 @@
 
 * This is the first release of the mod since the South China Sea expansion. I threw it together as fast as I could in order to get something playable out to the public, so there will likely be minor bugs and issues.
 * **YOU MUST OPT IN TO THE BETA BUILD ON STEAM!!** The mod will not work at all unless you open Steam, select Cold Waters, right click on it and select Properties, click on the Betas tab, and choose the beta build. This will download the current build of the SCS expansion.
-* Some of the single missions that were in previous versions of the mod have been disabled since they use assets no longer in the mod. Some of these may be eventually restored, others won't return.
 * The developer of the original Russian campaigns has been inactive for a very long time, so those campaigns are not present in this version of the mod. Unless someone else makes a Russian campaign for the mod, it won't have one until I can learn how to do it myself.
 * Some subs may have misplaced masts, missing damage control images, or other issues. Please use the Issues tab on this page to report anything that you find that is wrong. PLEASE read over previous issues first and make sure your bug hasn't already been reported.
 * At this time, we will **not** be adjusting any stats for weapons or sensors. That will be done after all subs are working and bug free.

@@ -1,0 +1,12 @@
+NextAction=END
+Image=campaign/images/submarineflag.png
+Photo=campaign/images/photos/larryking.png
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><PLAYERNAME> speaks about war below the sea</b>
+Sentence1=National hero and sub commander <PLAYERNAME> of the <PLAYERVESSELNAVY> <PLAYERVESSELNAME>, who was instrumental in NATO's defeat of the Soviet threat, will talk about the war on Larry King Live tonight.
+Sentence2="I am thankful to be able to discuss the war like this tonight, in freedom and good health," said <PLAYERNAME> to the press earlier today. "Many of my colleagues died for a good cause, and we are here to make sure their sacrifices are not forgotten, and that we can create a new world with a lasting peace."

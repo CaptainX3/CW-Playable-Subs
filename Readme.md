@@ -10,18 +10,15 @@
 ---
 # TABLE OF CONTENTS
 
-* [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
-* [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
-
-* [Current List of All Playable Submarines](#current-list-of-all-playable-submarines)
-* [Other Important Changes](#other-important-changes)
-
-* [**First Time Installation Instructions**](#first-time-installation-instructions)
-* [**Updating the Mod**](#updating-the-mod)
-
-* [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
-* [Donations](#donations)
-* [Info For Mod Developers](#information-for-mod-developers)
+* ### [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
+* ### [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
+* ### [Current List of All Playable Submarines](#current-list-of-all-playable-submarines)
+* ### [Other Important Changes](#other-important-changes)
+* ### [**First Time Installation Instructions**](#first-time-installation-instructions)
+* ### [**Updating the Mod**](#updating-the-mod)
+* ### [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
+* ### [Donations](#donations)
+* ### [Info For Mod Developers](#information-for-mod-developers)
 
 ---
 ## Welcome to the New Playable Subs Mod

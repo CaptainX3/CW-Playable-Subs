@@ -210,7 +210,7 @@ Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button
 ---
 ---
 # Information For Mod Developers
----
+
 ## Developer Announcements
 _Important & urgent information for the mod developers will appear in this section._
 

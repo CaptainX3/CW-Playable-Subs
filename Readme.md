@@ -28,7 +28,7 @@
 
 * [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to download the latest official, stable public release of the mod. This is the release that most users need to download. It will be updated periodically to reflect the latest major changes after they have been completed and are verified working.
 
-* The development version of the mod is what you're seeing on the main page. **The development version of the mod is a constantly changing work in progress between mutiple developers, and is not guaranteed to be completely working or bug free. For most users, we recommend that you stick to the latest official release version linked above.** If you would like to try the latest development version of the mod, you can click the green "Clone or Download" button above and choose "Download ZIP" and then install the mod normally.
+* The development version of the mod is what you're seeing on the main page. **The development version of the mod is a constantly changing work in progress between mutiple developers, and is not guaranteed to be completely working or bug free. For most users, we recommend that you stick to the latest official release version linked above.** If you would like to try the latest development version of the mod, you can scroll down to the First Time Installation (Development Version) instructions below.
 
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 

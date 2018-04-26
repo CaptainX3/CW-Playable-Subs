@@ -8,7 +8,7 @@ WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 NumberOfEnemyUnits=1-1,1-1,1-1,1-1
 CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_ss_kilo|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_fv_trawler|wp_ss_whiskey
+EnemyShipClasses=wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_november|wp_ssn_novemberii|wp_ssn_sierra|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssgn_charlie1|wp_ssgn_charlie2|wp_ssgn_echo2|wp_ssg_juliet|wp_ssgn_oscar|wp_ssgn_yasen,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_fv_trawler
 FormationCruiseSpeed=8
 
 //Ship positions and headings, otherwise build into a formation

@@ -20,4 +20,4 @@ RequiresWeapon=
 NumberOfEnemyUnits=2-3,1-2,0-2
 CombatBehaviour=OFFENSIVE,DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,TRUE,FALSE
-EnemyShipClasses=wp_bpk_kanin|wp_skr_krivak1|wp_mpk_grisha3,wp_pb_don|wp_pb_ugra,wp_ssn_victor3|wp_ssn_victor2|wp_ssn_victor1|wp_ssn_alfa|wp_ssn_november|wp_ss_tango
+EnemyShipClasses=wp_bpk_kanin|wp_skr_krivak1|wp_mpk_grisha3,wp_pb_don|wp_pb_ugra,wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_november|wp_ssn_novemberii|wp_ssn_sierra|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ssgn_charlie1|wp_ssgn_charlie2|wp_ssgn_echo2|wp_ssgn_oscar|wp_ssgn_yasen

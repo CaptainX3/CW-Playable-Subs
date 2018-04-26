@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=2-4
 CombatBehaviour=OFFENSIVE
 EnemyUnitMissionCritical=TRUE
-EnemyShipClasses=wp_ss_foxtrot|wp_ss_tango|wp_ss_romeo|wp_ss_whiskey
+EnemyShipClasses=wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssg_juliet
 EventWin=SS_WOLFPACK_win
 EventFail=SS_WOLFPACK_fail

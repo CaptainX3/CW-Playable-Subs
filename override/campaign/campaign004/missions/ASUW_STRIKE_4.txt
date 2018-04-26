@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=2-3,1-1,0-2
 CombatBehaviour=OFFENSIVE,DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,TRUE,FALSE
-EnemyShipClasses=wp_bpk_udaloy|wp_bpk_kresta2|wp_bpk_kara|wp_skr_krivak1,wp_rkr_kirov|wp_em_sovremenny,wp_ssn_victor3|wp_ssn_victor2
+EnemyShipClasses=wp_bpk_udaloy|wp_bpk_kresta2|wp_bpk_kara|wp_skr_krivak1,wp_rkr_kirov|wp_em_sovremenny,wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_november|wp_ssn_novemberii|wp_ssn_sierra|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssgn_charlie1|wp_ssgn_charlie2|wp_ssgn_echo2|wp_ssg_juliet|wp_ssgn_oscar|wp_ssgn_yasen
 EventWin=ASUW_STRIKE_CARRIER_win
 EventFail=ASUW_STRIKE_CARRIER_fail

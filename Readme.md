@@ -1,13 +1,3 @@
-# IMPORTANT NOTES ABOUT THE FIRST RELEASE
-
-* This is the first release of the mod since the South China Sea expansion. I threw it together as fast as I could in order to get something playable out to the public, so there will likely be minor bugs and issues.
-* **YOU MUST OPT IN TO THE BETA BUILD ON STEAM!!** The mod will not work at all unless you open Steam, select Cold Waters, right click on it and select Properties, click on the Betas tab, and choose the beta build. This will download the current build of the SCS expansion.
-* The developer of the original Russian campaigns has been inactive for a very long time, so those campaigns are not present in this version of the mod. Unless someone else makes a Russian campaign for the mod, it won't have one until I can learn how to do it myself.
-* Some subs may have misplaced masts, missing damage control images, or other issues. Please use the Issues tab on this page to report anything that you find that is wrong. PLEASE read over previous issues first and make sure your bug hasn't already been reported.
-* At this time, we will **not** be adjusting any stats for weapons or sensors. That will be done after all subs are working and bug free.
-* Be aware that some subs may not be 100% accurate. We'll fix what we can later, but most likely a lot of things will never be 100% accurate. Realism will always take a back seat to gameplay, when we have to decide between the two. This mod is not intending to be a completely accurate simulation, and never will be.
-
----
 # TABLE OF CONTENTS
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
@@ -122,6 +112,7 @@
 
 ## Other Important Changes
 
+* The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the campaign singature libraries have been left as they were in vanilla, since none of the new subs in this mod will appear in the campaigns.

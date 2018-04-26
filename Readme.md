@@ -14,7 +14,8 @@
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of All Playable Submarines](#current-list-of-all-playable-submarines)
 * [Other Important Changes](#other-important-changes)
-* [**First Time Installation Instructions**](#first-time-installation-instructions)
+* [**First Time Installation - Release Version**](#first-time-installation-release-version)
+* [**First Time Installation - Development Version**](#first-time-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
@@ -136,7 +137,7 @@
   * Blue - These are custom missions playable only by the Blue side (USA, UK, etc)
 
 ---
-## First Time Installation Instructions
+## First Time Installation (Release Version)
 
 * STEP 1: [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to open the Releases page.
 
@@ -153,13 +154,30 @@
 * STEP 7: You're done. Run the game and enjoy all of the new stuff!
 
 ---
+## First Time Installation (Development Version)
+
+* STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
+
+* STEP 2: Click the "Download ZIP" option.
+
+* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
+
+* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract **ONLY the override folder** to your desktop or wherever you can easily access it.
+
+* STEP 5: On your computer, navigate to the following directory: **C:\Program Files (x86)\Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets**. In this directory you should see only a single folder called **default**
+
+* STEP 6: Drag the **override** folder you just extracted into this directory, so that now you see two folders, **default** and **override**.
+
+* STEP 7: You're done. Run the game and enjoy all of the new stuff!
+
+---
 ## Updating The Mod
 
-* STEP 1: Follow STEPS 1 thru 4 from above.
+* STEP 1: Follow STEPS 1 thru 4 for whichever version you want to download (Development or Release).
 
 * STEP 2: On your computer, navigate to the following directory: **C:\Program Files (x86)\Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets**. In this directory you should see two folders, **default** and **override**.
 
-* STEP 3: DELETE the **override** folder completely so that only the **default** folder is left. DO NOT drag your new override folder and overwrite the old one - you WILL get major bugs this way!
+* STEP 3: DELETE the **override** folder completely so that only the **default** folder is left. **DO NOT drag your new override folder and overwrite the old one - you WILL get major bugs this way!**
 
 * STEP 4: Drag the **override** folder you extracted into this directory.
 

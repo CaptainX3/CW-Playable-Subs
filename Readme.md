@@ -8,7 +8,21 @@
 * Be aware that some subs may not be 100% accurate. We'll fix what we can later, but most likely a lot of things will never be 100% accurate. Realism will always take a back seat to gameplay, when we have to decide between the two. This mod is not intending to be a completely accurate simulation, and never will be.
 
 ---
-## Welcome to the New Playable Subs & More Mod
+# TABLE OF CONTENTS
+
+* [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
+* [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
+* [Current List of All Playable Submarines](#current-list-of-all-playable-submarines)
+* [Other Important Changes](#other-important-changes)
+* [First Time Installation Instructions](#first-time-installation-instructions)
+* [Updating the Mod](#updating-the-mod)
+* [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
+* [Donations](#donations)
+* [Info For Mod Developers](#information-for-mod-developers)
+
+---
+## Welcome to the New Playable Subs Mod
+
 * This Github repository is the official development center for the New Playable Subs & More mod for Cold Waters. In this repository, we have two versions of the mod - the official stable release version and the development version.
 
 * [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to download the latest official, stable public release of the mod. This is the release that most users need to download. It will be updated periodically to reflect the latest major changes after they have been completed and are verified working.
@@ -18,7 +32,7 @@
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
 ---
-## Submitting Bug Reports & Suggestions
+## Submitting Bug Reports and Suggestions
 
 * Everyone is welcome to use the Github Issues system to submit issues, bug reports, and suggestions. We have a system set up to handle and respond to these issues from our end.
 * We have created a label system to tag all issues. All issues will initially be assigned a Category label, which will have a white background (except for bug reports, which will have a red background). Once the mod developers review an issue, they'll assign a Status label to it. This label indicates the current status of the issue and if any further comments are needed.
@@ -112,7 +126,7 @@
 * Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the campaign singature libraries have been left as they were in vanilla, since none of the new subs in this mod will appear in the campaigns.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
 
-## Single Missions List
+## Single Missions List Color Coding
 
 * Single missions in the mod are color coded as follows:
   * White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
@@ -195,8 +209,9 @@ Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button
 
 ---
 ---
+# Information For Mod Developers
 ---
-# Developer Announcements
+## Developer Announcements
 _Important & urgent information for the mod developers will appear in this section._
 
 * **IMPORTANT: When submitting a final pull request for your latest changes to be merged into the master branch, please list all of the changes you made in the comments, as this will become the official change log for each public release.**

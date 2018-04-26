@@ -153,10 +153,10 @@ TorpedoSpawnPosition=0.0662,-0.02946,0.5365
 TorpedoEffectPosition=0.0662,-0.02946,0.5365
 
 //VLS Launch Position
-MeshPosition=0.0108,0.0717,0.626
+MeshPosition=0.008,0.072,0.626
 MeshRotation=-90,0,0
-TorpedoSpawnPosition=0.0357,0.0785,0.4816
-TorpedoEffectPosition=0.0357,0.0785,0.4816
+TorpedoSpawnPosition=0.008,0.072,0.626
+TorpedoEffectPosition=0.008,0.072,0.626
 
 //Noisemaker Mount
 MeshRotation=0,0,0

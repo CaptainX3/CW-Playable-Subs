@@ -133,38 +133,38 @@ MeshMast=plan_ssn_han_radar_mast
 //Tube 1
 MeshPosition=-0.008,0.028,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=-0.008,0.028,0.65
+TorpedoEffectPosition=-0.008,0.028,0.65
 
 //Tube 2
 MeshPosition=0.008,0.028,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=0.008,0.028,0.65
+TorpedoEffectPosition=0.008,0.028,0.65
 
 //Tube 3
 MeshPosition=-0.0253,0.028,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=-0.0253,0.028,0.65
+TorpedoEffectPosition=-0.0253,0.028,0.65
 
 //Tube 4
 MeshPosition=0.0253,0.028,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=0.0253,0.028,0.65
+TorpedoEffectPosition=0.0253,0.028,0.65
 
 //Tube 5
 MeshPosition=-0.0253,0.0113,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=-0.0253,0.0113,0.65
+TorpedoEffectPosition=-0.0253,0.0113,0.65
 
 //Tube 6
 MeshPosition=0.0253,0.0113,0.65
 MeshRotation=0,0,0
-TorpedoSpawnPosition=0,0,0
-TorpedoEffectPosition=0,0,0
+TorpedoSpawnPosition=0.0253,0.0113,0.65
+TorpedoEffectPosition=0.0253,0.0113,0.65
 
 //Noisemaker Mount
 MeshRotation=0,0,0

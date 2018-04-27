@@ -43,8 +43,8 @@ RADAR=uk_t1007
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=uk_sf,usn_tlam
-TorpedoNumbers=24,12
+TorpedoTypes=uk_sf,usn_tlam,usn_ugm84
+TorpedoNumbers=24,8,4
 TorpedoTubes=6
 NumberOfWires=6
 TubeConfig=1,1,1,1,1,1

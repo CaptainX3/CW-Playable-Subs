@@ -127,7 +127,7 @@
 
 * **Germany**
   * Type 209 Class SS
-  * Type 212a Class SSN
+  * Type 212a Class SS
 
 * **Netherlands**
   * Walrus Class SS

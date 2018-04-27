@@ -55,7 +55,6 @@
   * Improved Virginia Class SSN
   * Stingray Class SS
   * Ohio Class SSGN (Conversion)
-  * Jive Turkey Class SSN
 
 * **United Kingdom**
   * Astute Class SSN

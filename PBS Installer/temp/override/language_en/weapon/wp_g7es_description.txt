@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=G7es
+WeaponDescriptiveName=G7es Acoustic Homing Torpedo
+WeaponDescription=This is one of the first acoustic homing torpedoes.

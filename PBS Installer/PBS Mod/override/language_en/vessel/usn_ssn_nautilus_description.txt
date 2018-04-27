@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Nautilus
+Description=[USA] Nautilus Class SSN
+History=Self Noise Rating: 145 db\nTest Depth: 900 ft\nEscape Depth: 500 ft\n\nAlso known as the SSN-571 , the Nautilus was the first ever nuclear-driven submarine. Laid down in 1952, she was launched and commissioned in 1954. In 1958 she became the first vessel to sail to the geographic north pole, arriving near the Northeast coast of Greenland after leaving from the Barrow Sea.
+
+[Player Ship Instances]
+PlayerClassNames=Nautilus
+
+PlayerClassHullNumbers=SSN-571

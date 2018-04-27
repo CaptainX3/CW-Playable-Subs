@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Akula I
+Description=[RUS] Akula I Class SSN
+History=Self Noise Rating: 125 db\nEscape Depth: 600 ft\n\nThe Akula is the next generation of Russian attack submarines. Featuring an advanced sonar suite, 8 torped tubes with wire guidance capability, and new quieting technology, the Akula is the first class produced by Russia that constitutes a serious threat to the West.
+
+[Player Ship Instances]
+PlayerClassNames=Akula, Delfin, Kashalot, Ak Bars, Bratsk, Pantera, Magadan
+
+PlayerClassHullNumbers=K-284, K-263, K-322, K-480, K-391, K-317, K-331

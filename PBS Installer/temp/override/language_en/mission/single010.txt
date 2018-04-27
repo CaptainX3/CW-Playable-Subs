@@ -1,0 +1,6 @@
+Image=campaign/images/pact wolfpack 4
+MissionLocation=Near the Faeroes
+Briefing=On a routine barrier patrol, you make contact with a wolfpack of diesel-electric subs trying to break out into the Western Approaches
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the enemy submarines

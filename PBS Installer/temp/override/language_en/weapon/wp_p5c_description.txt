@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-3C (Ship)
+WeaponDescriptiveName=SS-N-3C Shaddock (P-5C)
+WeaponDescription=The basic version of the missile was an inertially-guided submarine-launched cruise missile to threaten the US coast. The missile could be armed with either a 1000 kg high explosive or a 200 or 350 kt nuclear warhead. It had a speed of about 0.9 Mach, range of 500 km and CEP of about 3000 m.

@@ -1,0 +1,9 @@
+Image=campaign/images/pact wolfpack 2
+MissionLocation=GIUK Gap
+Briefing=A massive Oscar-class cruise missile submarine is attempting to sneak past NATO ASW barrier patrols and escape into the North Atlantic convoy routes. It likely has a potent attack submarine escort, so don't be reckless.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Locate and sink the Oscar
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Locate and sink any escorting submarines

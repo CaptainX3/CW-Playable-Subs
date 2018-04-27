@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK 48 Mod 7AT
+WeaponDescriptiveName=Mark 48 Mod 7AT (Advanced Torpedo) Heavy Weight Torpedo
+WeaponDescription=The Mk48 Mod 7AT is a torpedo use by Canada and the Netherlands. This torpedo is an improved Mk 48 Mod 4M. It features the quieter Mod 4 body and the Mk 48 Mod 7 (CBASS) guidance and control systems.

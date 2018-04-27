@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=Kilo Imp.
+Description=[PLAN] Improved Kilo Class SS
+History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThis is the latest and most advanced diesel-electric submarine built by the Soviets. Compared to earlier designs, the Kilo has adopted the Albacore-hull form, which makes it much faster underwater. It is also much quieter, and carries weapons and sensors on par with the third-generation nuclear attack submarines like the Victor III.
+
+[Player Ship Instances]
+PlayerClassNames=Yuan Zheng 66 Hao,Yuan Zheng 67 Hao,Yuan Zheng 68 Hao,Yuan Zheng 69 Hao,Yuan Zheng 70 Hao,Yuan Zheng 71 Hao,Yuan Zheng 72 Hao,Yuan Zheng 73 Hao,Yuan Zheng 74 Hao,Yuan Zheng 75 Hao
+PlayerClassHullNumbers=366,367,368,369,370,371,372,373,374,375

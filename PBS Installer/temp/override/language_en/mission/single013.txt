@@ -1,0 +1,9 @@
+Image=campaign/images/pact naval 2
+MissionLocation=In the vicinity of the North Cape
+Briefing=A lone submarine encounters a massive soviet surface strike group off the North Cape. The centerpiece of the group is every fast attack skippers dream: A Kirov-class battlecruiser.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Penetrate the group's ASW defenses and sink the Kirov
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive

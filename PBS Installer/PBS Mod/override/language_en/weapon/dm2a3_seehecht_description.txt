@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=DM2A3
+WeaponDescriptiveName=DM2A3 Seehecht Torpedo (Seahawk)
+WeaponDescription=The DM2A3 Seehecht Torpedo is a heavyweight acoustic-homing torpedo with sophisticated sonar, all-digital guidance-and-control systems, digital fusing systems, and propulsion improvements. It is very quiet in its class.

@@ -1,0 +1,9 @@
+aus_ss_collins
+aus_ss_oberon
+ger_ss_209
+ger_ssn_212a
+HNLMS_SS_Walrus
+rcn_ssk_victoria
+swe_ss_gotland
+usn_ssn_nautilus
+usn_ssn_staynalive

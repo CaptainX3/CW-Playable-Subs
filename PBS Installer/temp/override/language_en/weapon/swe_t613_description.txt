@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Torped 613
+WeaponDescriptiveName=Torped 613
+WeaponDescription=Torped 613 is a heavyweight torpedo still in use by the Swedish Navy. It is wire-guided and has a passive sonar sensor, which sends back information through the wire. The torpedo was developed in the 1970s as a cooperation project between Denmark, Norway and Sweden. Testing was done during the period 1981-1983.

@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Virginia (Improved)
+Description=[USA] Improved Virginia Class SSN
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 104 db\nEscape Depth: 600 ft\n\nThe Improved Virginia class is a next-generation capability upgrade for the latest model of US attack submarines. It features a large number of improvements, including higher top surface and submerged speeds, a significantly increased weapons capacity, improved quieting technology, a much larger decoy capacity, faster reload times for decoys and weapons, 4 additional torpedo tubes, and 4 additional VLS tubes.\n\n<b>SPECIAL NOTE: This class does not actually exist in real life. It is a concept sub designed for the enjoyment of anyone who wishes to use it. It is not designed based off of any real-world specifications. The hull names and numbers used for this class are an educated guess based on the established naming convention for US submarines.</b>
+
+[Player Ship Instances]
+PlayerClassNames=Oklahoma,Arkansas,Florida,Massachusetts,Alaska,Oregon,Washington,Nevada,Tennessee,Kentucky
+
+PlayerClassHullNumbers=SSN-801,SSN-802,SSN-803,SSN-804,SSN-805,SSN-806,SSN-807,SSN-808,SSN-809,SSN-810

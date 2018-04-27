@@ -1,9 +1,15 @@
+# IMPORTANT MESSAGE ABOUT THE NEW INSTALLER
+
+* The PBS mod now has its own installation program that is packaged along with the mod. This program will automatically install the core mod files and allow the player to choose which additional submarines they'd like to install, and then the program will update all mission and campaign files to allow the optional subs to be played. The installation instructions on this page have been updated for using this new installer. **It is important that you use the installer program if you want to choose any of the optional submarines - they will not appear in your game if you manually install the override folder.**
+
+
 # TABLE OF CONTENTS
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
-* [Current List of All Playable Submarines](#current-list-of-all-playable-submarines)
-* [Other Important Changes](#other-important-changes)
+* [Current List of Core Playable Submarines](#current-list-of-core-playable-submarines)
+* [Optional Addon Submarines](#optional-addon-submarines)
+* [Other Important Changes (MAKE SURE YOU READ THIS)](#other-important-changes)
 * [**First Time Installation - Release Version**](#first-time-installation-release-version)
 * [**First Time Installation - Development Version**](#first-time-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
@@ -30,7 +36,8 @@
 * Keep an eye on issues you submit, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.
 
 ---
-## Current List of All Playable Submarines
+## Current List of Core Playable Submarines
+*(These subs are automatically included in the core mod and are not optional.)*
 
 * **United States**
   * Los Angeles (Flight I) Class SSN
@@ -110,6 +117,31 @@
   * Oscar II Class SSGN
   * Yasen Class SSGN
 
+
+## Optional Addon Submarines
+*(These subs can be manually chosen for installation in the PBS Installer)*
+
+* **Australia**
+  * Collins Class SS
+  * Oberon Class SS
+
+* **Germany**
+  * Type 209 Class SS
+  * Type 212a Class SSN
+
+* **Netherlands**
+  * Walrus Class SS
+
+* **Sweden**
+  * Gotland Class SS
+
+* **United States**
+  * Nautilus Class SSN
+
+* **Special Submarines**
+  * Jive Turkey Class SSN
+
+
 ## Other Important Changes
 
 * The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
@@ -123,9 +155,9 @@
 * Single missions in the mod are color coded as follows:
   * White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
   * Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
-  * Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and a unique objective.
-  * Red - These are custom missions playable by only the Red side (Russia, China, etc)
-  * Blue - These are custom missions playable only by the Blue side (USA, UK, etc)
+  * Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
+  * Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+  * Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
 
 ---
 ## First Time Installation (Release Version)
@@ -136,13 +168,15 @@
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract **ONLY the override folder** to your desktop or wherever you can easily access it.
+* STEP 4: Now you'll see two files in the window - Readme.md and a **PBS Installer** folder. You want to extract **ONLY the PBS Installer folder** to your desktop or wherever you can easily access it.
 
-* STEP 5: On your computer, navigate to the following directory: **C:\Program Files (x86)\Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets**. In this directory you should see only a single folder called **default**
+* STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
 
-* STEP 6: Drag the **override** folder you just extracted into this directory, so that now you see two folders, **default** and **override**.
+* STEP 6: Follow the instructions in the Installer on each tab until you reach the Install/Uninstall tab.
 
-* STEP 7: You're done. Run the game and enjoy all of the new stuff!
+* STEP 7: If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Install Mod and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Install Mod.
+
+* STEP 8: You're done. Run the game and enjoy all of the new stuff!
 
 ---
 ## First Time Installation (Development Version)
@@ -153,26 +187,30 @@
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
 
-* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract **ONLY the override folder** to your desktop or wherever you can easily access it.
+* STEP 4: Now you'll see two files in the window - Readme.md and a **PBS Installer** folder. You want to extract **ONLY the PBS Installer folder** to your desktop or wherever you can easily access it.
 
-* STEP 5: On your computer, navigate to the following directory: **C:\Program Files (x86)\Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets**. In this directory you should see only a single folder called **default**
+* STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
 
-* STEP 6: Drag the **override** folder you just extracted into this directory, so that now you see two folders, **default** and **override**.
+* STEP 6: Follow the instructions in the Installer on each tab until you reach the Install/Uninstall tab.
 
-* STEP 7: You're done. Run the game and enjoy all of the new stuff!
+* STEP 7: If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Install Mod and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Install Mod.
+
+* STEP 8: You're done. Run the game and enjoy all of the new stuff!
 
 ---
 ## Updating The Mod
 
 * STEP 1: Follow STEPS 1 thru 4 for whichever version you want to download (Development or Release).
 
-* STEP 2: On your computer, navigate to the following directory: **C:\Program Files (x86)\Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets**. In this directory you should see two folders, **default** and **override**.
+* STEP 2: Double click on the **PBS_Installer.exe** file. The installer program should open.
 
-* STEP 3: DELETE the **override** folder completely so that only the **default** folder is left. **DO NOT drag your new override folder and overwrite the old one - you WILL get major bugs this way!**
+* STEP 3: Click on the **Install/Uninstall** tab at the top. If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Uninstall Mod to completely remove the old version and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Uninstall Mod.
 
-* STEP 4: Drag the **override** folder you extracted into this directory.
+* STEP 4: Once the old version is uninstalled, click on the **Select Additional Submarines** tab and choose whatever optional submarines you wish to install. Pay attention to the list, we might have added new subs!
 
-* STEP 5: You're done. Run the game and enjoy all of the new stuff!
+* STEP 5: Click on the Install/Uninstall tab, verify that the directory is correct, and then click Install Mod.
+
+* STEP 6: You're done. Run the game and enjoy all of the new stuff!
 
 ---
 ## How To Customize The UI Toolbars

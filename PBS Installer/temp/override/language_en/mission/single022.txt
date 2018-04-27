@@ -1,0 +1,14 @@
+Image=campaign/images/pact landing sunk
+MissionLocation=Norwegian Sea. 200 miles due West of Narvik.
+Briefing=Soviet transport fleet is headed to Narvik. As you silently makes your approach, sonar reports a surface contact.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Prevent the transport Fleet from arriving in Narvik
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Engage and Neutralize the Soviet escort fleet
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)

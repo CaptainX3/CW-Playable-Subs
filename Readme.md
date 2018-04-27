@@ -10,8 +10,8 @@
 * [Current List of Core Playable Submarines](#current-list-of-core-playable-submarines)
 * [Optional Addon Submarines](#optional-addon-submarines)
 * [Other Important Changes (MAKE SURE YOU READ THIS)](#other-important-changes)
-* [**First Time Installation - Release Version**](#first-time-installation-release-version)
-* [**First Time Installation - Development Version**](#first-time-installation-development-version)
+* [**Mod Installation - Release Version**](#mod-installation-release-version)
+* [**Mod Installation - Development Version**](#mod-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
@@ -160,7 +160,7 @@
   * Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
 
 ---
-## First Time Installation (Release Version)
+## Mod Installation (Release Version)
 
 * STEP 1: [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to open the Releases page.
 
@@ -179,7 +179,7 @@
 * STEP 8: You're done. Run the game and enjoy all of the new stuff!
 
 ---
-## First Time Installation (Development Version)
+## Mod Installation (Development Version)
 
 * STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
 
@@ -200,17 +200,7 @@
 ---
 ## Updating The Mod
 
-* STEP 1: Follow STEPS 1 thru 4 for whichever version you want to download (Development or Release).
-
-* STEP 2: Double click on the **PBS_Installer.exe** file. The installer program should open.
-
-* STEP 3: Click on the **Install/Uninstall** tab at the top. If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Uninstall Mod to completely remove the old version and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Uninstall Mod.
-
-* STEP 4: Once the old version is uninstalled, click on the **Select Additional Submarines** tab and choose whatever optional submarines you wish to install. Pay attention to the list, we might have added new subs!
-
-* STEP 5: Click on the Install/Uninstall tab, verify that the directory is correct, and then click Install Mod.
-
-* STEP 6: You're done. Run the game and enjoy all of the new stuff!
+* To update the mod, simply follow the installation instructions for whichever version you're using above. The PBS Installer program will automatically uninstall the old version of the mod for you and install the latest version. **Make sure you choose the optional subs you want again, and pay close attention to the list, we may have added new options!**
 
 ---
 ## How To Customize The UI Toolbars

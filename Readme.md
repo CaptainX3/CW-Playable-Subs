@@ -139,7 +139,7 @@
   * Nautilus Class SSN
 
 * **Special Submarines**
-  * Jive Turkey Class SSN
+  * Jive Turkey II Class SSN
 
 
 ## Other Important Changes

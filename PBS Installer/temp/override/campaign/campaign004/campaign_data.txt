@@ -3,7 +3,7 @@ MapImage=campaign/maps/norwegian_sea_chart.png
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
-VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+VesselsAndTraffic=campaign/maps/norwegian_mod_campaign_traffic
 
 MapHeightInNM=1800
 MapTimeCompression=3600

@@ -4,7 +4,7 @@ MapCoordinates=1953,1008
 MapNavigationData=campaign/images/maps/south_china_sea_navmap
 MapElevationData=campaign/images/maps/south_china_sea_bathymetry
 WorldObjectsData=campaign/maps/south_china_sea_world_objects
-VesselsAndTraffic=campaign/maps/scs_single_mission_traffic.txt
+VesselsAndTraffic=campaign/maps/scs_single_mission_traffic
 
 
 //Environment

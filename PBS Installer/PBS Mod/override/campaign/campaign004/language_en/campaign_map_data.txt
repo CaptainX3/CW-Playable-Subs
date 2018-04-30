@@ -12,6 +12,7 @@ LocationName=Spitsbergen=Spitsbergen
 LocationName=Murmansk=Soviet Union
 LocationName=Archangelsk=Soviet Union
 LocationName=Gremikha=Soviet Union
+LocationName=Leningrad=Soviet Union
 
 [CITY TOWN PORT NAMES]
 Color=255,255,255,255

@@ -1,14 +1,14 @@
 UseTerrain=TRUE
-MapCoordinates=1100,170
+MapCoordinates=1130,170
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 
 //Enemy Ships
-NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+NumberOfEnemyUnits=2-4,3-3,3-3,3-3
 CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_mike|wp_ssn_november|wp_ssn_novemberii|wp_ssn_sierra|wp_ssn_victor1|wp_ssn_victor2|wp_ssn_victor3|wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssgn_charlie1|wp_ssgn_charlie2|wp_ssgn_echo2|wp_ssg_juliet|wp_ssgn_oscar|wp_ssgn_yasen,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_fv_trawler
+EnemyShipClasses=wp_ss_foxtrot|wp_ss_kilo|wp_ss_kilo2|wp_ss_lada|wp_ss_romeo|wp_ss_tango|wp_ss_whiskey|wp_ssgn_echo2|wp_ssg_juliet,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_skr_krivak1|wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_fv_trawler
 FormationCruiseSpeed=8
 
 //Ship positions and headings, otherwise build into a formation
@@ -21,12 +21,21 @@ PlayerHeading=180
 //Must be enough for maximum number of enemy ships
 //Lurking Sub
 EnemyWaypoints=120,207|-410,190
+EnemyWaypoints=120,206|-410,191
+EnemyWaypoints=120,205|-410,192
+EnemyWaypoints=120,204|-410,193
 //Outer Patrol
 EnemyWaypoints=-663,303|144,420
+EnemyWaypoints=-663,302|144,421
+EnemyWaypoints=-663,301|144,422
 //Second Outer Patrol
-EnemyWaypoints=228,422|-302,763
+EnemyWaypoints=228,423|-302,763
+EnemyWaypoints=228,422|-302,762
+EnemyWaypoints=228,421|-302,761
 //Center Patrol 2
 EnemyWaypoints=-523,809|-658,190
+EnemyWaypoints=-523,808|-658,191
+EnemyWaypoints=-523,807|-658,192
 
 MissionPosition=-87,65
 

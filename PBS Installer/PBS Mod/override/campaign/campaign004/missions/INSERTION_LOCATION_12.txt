@@ -1,5 +1,5 @@
 UseTerrain=TRUE
-MapCoordinates=3172,1066
+MapCoordinates=1100,170
 MapFromCampaign=North Atlantic
 MapElevationData=oparea_norwegiansea_bathymetry
 

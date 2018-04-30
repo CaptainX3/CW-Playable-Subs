@@ -107,7 +107,7 @@ LinksToWaypoint=IG5,IG6,N2,IG7
 //Iceland
 //Reykjavik/Keflavik 2
 Alignment=ENEMY
-Function=AIRBASE,SOSUS_NODE,INSERTION_TARGET
+Function=AIRBASE,SOSUS_NODE
 BaseMapPosition=-259.3,135.1
 RelatedSOSUS=DENMARKSTRAIT
 AircraftType=wp_il-38_may
@@ -222,16 +222,16 @@ LinksToWaypoint=SC3
 CombatCoords=1234,1234
 
 //Leningrad
-//Alignment=ENEMY
-//Function=NAVAL_BASE,AIRBASE
-//BaseMapPosition=321.9,-216.6
-//AircraftType=wp_tu-142_bear
-//AircraftPrepTime=15
-//AircraftHeadings=240,260
-//AircraftSearchRange=700
-//MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
-//LinksToWaypoint=NC4,NC6,BE1
-//CombatCoords=1234,1234
+Alignment=ENEMY
+Function=NAVAL_BASE,AIRBASE,INSERTION_TARGET
+BaseMapPosition=321.9,-216.6
+AircraftType=wp_tu-142_bear
+AircraftPrepTime=15
+AircraftHeadings=240,260
+AircraftSearchRange=700
+MissionTypes=SS_PATROL,SS_WOLFPACK
+LinksToWaypoint=BE1
+CombatCoords=1234,1234
 
 //Sweden
 //Gotland

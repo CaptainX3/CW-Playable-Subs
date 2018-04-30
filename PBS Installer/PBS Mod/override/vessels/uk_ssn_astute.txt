@@ -108,7 +108,7 @@ MeshPosition=0,0,-0.8452
 MeshRudder=wp_ssgn_yasen_rudder
 MeshPosition=0,0.0685,0.7265
 MeshBowPlanes=wp_ssgn_yasen_bowplanes
-MeshPosition=0,0,-0.8817
+MeshPosition=0,0,-0.8266
 MeshSternPlanes=wp_ssgn_yasen_sternplanes
 
 

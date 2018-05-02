@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Rubis
+Description=[FRA] Rubis Class SSN (1984 Era)
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Rubis type is a first class generation nuclear attack submarine of the French Navy. The class comprises six vessels and they are the most compact nuclear attack submarines to date. All submarines of the class (except for Casabianca) are named after gemstones.
+
+[Player Ship Instances]
+PlayerClassNames=Rubis,Saphir,Casabianca,Emeraude,Améthyste,Perle
+
+PlayerClassHullNumbers=S601,S602,S603,S604,S605,S606

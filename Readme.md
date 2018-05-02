@@ -12,6 +12,7 @@
 * [Other Important Changes (MAKE SURE YOU READ THIS)](#other-important-changes)
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
+* [**Mod Installation For Mac Users**](#mod-installation-for-mac-users)
 * [**Updating the Mod**](#updating-the-mod)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
@@ -129,8 +130,19 @@
   * Type 209 Class SS
   * Type 212a Class SS
 
+* France
+  * Rubis Class SSN
+  * Redoubtable Class SSBN
+
+* Italy
+  * Sauro IV Class SS
+  * Toti Class SS
+
 * **Netherlands**
   * Walrus Class SS
+
+* Russia
+  * Papa Class SSGN
 
 * **Sweden**
   * Gotland Class SS
@@ -198,9 +210,28 @@
 * STEP 8: You're done. Run the game and enjoy all of the new stuff!
 
 ---
+## Mod Installation For Mac Users
+
+***Special Note: Because the installer will not work on Mac OS and we currently do not have anyone who can make one for Mac, the Mac version of the mod automatically has ALL core and optional subs already installed. This is unavoidable for the time being, but at least makes the mod work for Mac users.***
+
+* STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
+
+* STEP 2: Click the "Download ZIP" option.
+
+* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
+
+* STEP 4: Now you'll see three files in the window - Readme.md, a PBS Installer folder, and a **For Mac Users** folder. You want to extract ONLY the **For Mac Users** folder to wherever you can easily access it. Now double click to open the **For Mac Users** folder, and you'll see an **override** folder.
+
+* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder into it. You should now see two folders here - **default** and **override**.
+
+* STEP 6: You're done. Run the game and enjoy all of the new stuff!
+
+---
 ## Updating The Mod
 
-* To update the mod, simply follow the installation instructions for whichever version you're using above. The PBS Installer program will automatically uninstall the old version of the mod for you and install the latest version. **Make sure you choose the optional subs you want again, and pay close attention to the list, we may have added new options!**
+* To update the mod for **Windows**, simply follow the installation instructions for whichever version you're using above. The PBS Installer program will automatically uninstall the old version of the mod for you and install the latest version. **Make sure you choose the optional subs you want again, and pay close attention to the list, we may have added new options!**
+
+* To update the mod for **Mac**, follow STEPS 1 thru 4 in the *Mod Installation For Mac Users** section above, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!
 
 ---
 ## How To Customize The UI Toolbars

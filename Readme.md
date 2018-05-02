@@ -1,4 +1,4 @@
-# IMPORTANT MESSAGE - BEAT BUILD REQUIRED!
+# IMPORTANT MESSAGE - BETA BUILD REQUIRED!
 
 * The current version of the mod requires a Steam copy of the game and requires you to opt into the Beta build that includes the South China Sea campaign and all of the new units and weapons. The mod **will not** work without the Beta build. To opt into the Beta, open your Steam games list, right click on Cold Waters, and select "Properties". When the window opens, click the "Betas" tab and choose the beta build from the dropdown. You should see a large update download for the game. Once it finishes, you're ready to install the mod and play.
 

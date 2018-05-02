@@ -51,7 +51,7 @@ TorpedoTubeSize=21
 TubeReloadTime=45
 
 VLSTorpedoTypes=usn_tasm,usn_tlam
-VLSTorpedoNumbers=8,4
+VLSTorpedoNumbers=4,8
 VLSMaxDepthToFire=80
 VLSMaxSpeedToFire=5
 

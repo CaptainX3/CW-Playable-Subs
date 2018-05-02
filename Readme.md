@@ -1,6 +1,6 @@
-# IMPORTANT MESSAGE ABOUT THE NEW INSTALLER
+# IMPORTANT MESSAGE - BEAT BUILD REQUIRED!
 
-* The PBS mod now has its own installation program that is packaged along with the mod. This program will automatically install the core mod files and allow the player to choose which additional submarines they'd like to install, and then the program will update all mission and campaign files to allow the optional subs to be played. The installation instructions on this page have been updated for using this new installer. **It is important that you use the installer program if you want to choose any of the optional submarines - they will not appear in your game if you manually install the override folder.**
+* The current version of the mod requires a Steam copy of the game and requires you to opt into the Beta build that includes the South China Sea campaign and all of the new units and weapons. The mod **will not** work without the Beta build. To opt into the Beta, open your Steam games list, right click on Cold Waters, and select "Properties". When the window opens, click the "Betas" tab and choose the beta build from the dropdown. You should see a large update download for the game. Once it finishes, you're ready to install the mod and play.
 
 
 # TABLE OF CONTENTS

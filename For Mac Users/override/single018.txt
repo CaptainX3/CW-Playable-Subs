@@ -22,7 +22,7 @@ LayerStrength=Moderate
 NumberOfEnemyUnits=1-1,2-4
 CombatBehaviour=DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,FALSE
-EnemyShipClasses=wp_ssbn_typhoon,wp_ssn_sierra|wp_ssn_victor3|rus_ssn_akula1|rus_ssn_akula2|rus_ssn_yasen|rus_ss_lada
+EnemyShipClasses=wp_ssbn_typhoon,wp_ssn_sierra|wp_ssn_victor3|wp_ssn_akula1|wp_ssn_akula2|wp_ssn_yasen|wp_ss_lada
 
 //Ship positions and headings, otherwise build into a formation
 

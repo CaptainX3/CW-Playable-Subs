@@ -302,7 +302,7 @@ LinksToWaypoint=SI1
 PlayerMissionTypes=SSN_REINFORCE,SS_WOLFPACK,SS_SPECOPS,INSERTION,LAND_STRIKE,ASUW_STRIKE,ASUW_SWEEP,LANDING_FORCE,RESUPPLY_CONVOY,SHIP_RESUPPLY,RETURN_TO_BASE,SSBN_PATROL
 //Last two missions are not included on frequency list
 PlayerMissionFrequency=0.1,0.15,0.1,0.05,0.05,0.1,0.1,0.15,0.1,0.1
-PlayerMissionThreshold=0.5,0,0,0,0,0,0.6,0,0,0,0
+PlayerMissionThreshold=0.5,0,0,0,0,0,0.6,0,0,0
 
 CommandoLoadTime=120
 

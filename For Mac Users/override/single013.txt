@@ -21,7 +21,7 @@ LayerStrength=Moderate
 NumberOfEnemyUnits=1-2,1-1,1-1,0-2,0-1
 CombatBehaviour=OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,TRUE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_bpk_udaloy|wp_bpk_kresta2|wp_bpk_kashin,wp_rkr_kirov,wp_rkr_kresta1|wp_em_sovremenny|wp_skr_krivak1|wp_bpk_kanin,wp_ssn_victor3|wp_ssn_sierra|rus_ssn_akula1|rus_ssn_akula2,wp_ssn_alfa
+EnemyShipClasses=wp_bpk_udaloy|wp_bpk_kresta2|wp_bpk_kashin,wp_rkr_kirov,wp_rkr_kresta1|wp_em_sovremenny|wp_skr_krivak1|wp_bpk_kanin,wp_ssn_victor3|wp_ssn_sierra|wp_ssn_akula1|wp_ssn_akula2,wp_ssn_alfa
 FormationCruiseSpeed=8
 
 //Enemy Aircraft

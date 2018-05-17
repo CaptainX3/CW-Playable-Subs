@@ -22,7 +22,7 @@ UsePresetPositions=TRUE
 NumberOfEnemyUnits=1-1,1-1,1-1,1-1
 EnemyUnitMissionCritical=TRUE,TRUE,TRUE,TRUE
 CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
-EnemyShipClasses=usn_ssn_los_angeles_688i,usn_ssn_narwhal,usn_ss_guppyIIa,usn_ssn_los_angeles
+EnemyShipClasses=usn_ssn_los_angeles_688i,usn_ssn_narwhal,usn_ss_stingray,usn_ssn_los_angeles
 FormationCruiseSpeed=5
 
 //Gruppe I - Unterseebooten.

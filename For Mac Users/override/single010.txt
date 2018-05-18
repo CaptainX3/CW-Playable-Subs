@@ -32,7 +32,7 @@ LayerStrength=Moderate
 NumberOfEnemyUnits=2-4
 CombatBehaviour=OFFENSIVE
 //EnemyUnitMissionCritical=FALSE
-EnemyShipClasses=wp_ss_kilo|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey|rus_ss_lada
+EnemyShipClasses=wp_ss_kilo|wp_ss_tango|wp_ss_foxtrot|wp_ss_romeo|wp_ss_whiskey|wp_ss_lada
 //Ship positions and headings, otherwise build into a formation
 UsePresetPositions=FALSE
 PlayerPosition=-328,-308

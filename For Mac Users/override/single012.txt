@@ -24,7 +24,7 @@ LayerStrength=Moderate
 NumberOfEnemyUnits=1-1,1-2
 CombatBehaviour=DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,FALSE
-EnemyShipClasses=wp_ssgn_oscar,wp_ssn_victor3|wp_ssn_alfa|rus_ss_lada|rus_ssn_yasen|rus_ssn_akula1|rus_ssn_akula2
+EnemyShipClasses=wp_ssgn_oscar,wp_ssn_victor3|wp_ssn_alfa|wp_ss_lada|wp_ssn_yasen|wp_ssn_akula1|wp_ssn_akula2
 FormationCruiseSpeed=8
 
 //Ship positions and headings, otherwise build into a formation

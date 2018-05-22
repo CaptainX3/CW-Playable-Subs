@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/plan wolfpack 3
+Photo=campaign/images/photos/cnavy.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>FREE ROAM</b>
+Color=57,61,73,255
+Sentence1=Based upon the normal SCS Campaign but this is just in effect one long mission until you die or give up.
+Color=218,218,208,255
+Sentence2=You do <b>NOT</b> have to complete the Insertion part of the mission if you don't want too.<n>The Campaign will just keep on going, even if you do complete it.

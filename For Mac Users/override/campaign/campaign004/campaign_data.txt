@@ -285,7 +285,7 @@ SOSUSAlignment=FRIENDLY
 [PLAYER MISSIONS]
 //Last mission is the FINAL MISSION for the campaign
 //Second to last mission is simple RETURN TO BASE
-PlayerMissionTypes=INSERTION,RETURN_TO_BASE,LAND_STRIKE
+PlayerMissionTypes=INSERTION,RETURN_TO_BASE,SSBN_PATROL
 //Last two missions are not included on frequency list
 PlayerMissionFrequency=1
 PlayerMissionThreshold=0

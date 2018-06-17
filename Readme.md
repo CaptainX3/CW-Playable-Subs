@@ -1,8 +1,3 @@
-# IMPORTANT MESSAGE - BETA BUILD REQUIRED!
-
-* The current version of the mod requires a Steam copy of the game and requires you to opt into the Beta build that includes the South China Sea campaign and all of the new units and weapons. The mod **will not** work without the Beta build. To opt into the Beta, open your Steam games list, right click on Cold Waters, and select "Properties". When the window opens, click the "Betas" tab and choose the beta build from the dropdown. You should see a large update download for the game. Once it finishes, you're ready to install the mod and play.
-
-
 # TABLE OF CONTENTS
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
@@ -30,7 +25,7 @@
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
 ---
-## Submitting Bug Reports, Suggestions, and Requests
+## Submitting Bug Reports and Suggestions
 
 * Everyone is welcome to use the Github Issues system to submit issues, bug reports, and suggestions. We have a system set up to handle and respond to these issues from our end.
 * We are also open to requests for new submarines using the same Issue system. If you have a submarine you'd like to see in the mod, open up a new Issue and ask us!

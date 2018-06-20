@@ -3164,6 +3164,14 @@ DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
 
 //Naval Guns
+//USN
+DepthWeaponObjectReference=usn_mark_42_shell
+DepthWeaponWarhead=15
+DepthWeaponRange=100,25900
+DepthWeaponNumberFired=40
+DepthWeaponRateOfFire=1.5
+DepthWeaponReloadTime=30
+DepthWeaponVelocity=5.2
 
 //Soviet Union
 DepthWeaponObjectReference=wp_6x3_b-38_shell

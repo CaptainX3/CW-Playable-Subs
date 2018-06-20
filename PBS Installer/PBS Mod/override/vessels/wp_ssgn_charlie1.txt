@@ -28,6 +28,7 @@ CavitationParameters=20,-100
 PropRotationSpeed=-150
 TestDepth=1150
 EscapeDepth=600
+PeriscopeDepthInFeet=40
 
 [Acoustics & Sensors]
 SelfNoise=152
@@ -78,19 +79,19 @@ PROPULSION=AFT,REAR
 LabelPosition=59.9,172.2
 RUDDER=REAR
 LabelPosition=59.9,48.7
-PLANES=SAIL,REAR
+PLANES=REAR,SAIL
 LabelPosition=190.8,49
 BALLAST=MID
 LabelPosition=190.8,28
 REACTOR=MID
 
 [Flooding Display: x,width,ymin,ymax]
-FLOODING1=160,45,-77,-39
-FLOODING2=107,58,-77,-39
-FLOODING3=47,61,-77,-39
-FLOODING4=-23,74,-77,-39
-FLOODING5=-90,59,-76,-39
-DamageControlPartyY=-31
+FLOODING1=167,58,-73,-39
+FLOODING2=87,97,-80,-32
+FLOODING3=-2,77,-78.9,-32
+FLOODING4=-69,55,-78,-32
+FLOODING5=-128,59,-77,-32
+DamageControlPartyY=-28
 
 [Model]
 ModelFile=ships/wp_ssgn_charlie1/wp_ssgn_charlie1
@@ -114,20 +115,18 @@ MeshSternPlanes=wp_ssgn_charlie1_sternplanes
 MeshPosition=0,-0.012,-0.683
 MeshProp=wp_ssgn_charlie1_prop
 
-[Model]
-ModelFile=ships/usn_ssn_permit/usn_ssn_permit
-Material=ships/materials/usn_masts
-MeshPosition=0,0.030,0.171
-MastHeight=0.085
-MeshMast=usn_ssn_permit_periscope
+Material=ships/materials/wp_masts
+MeshPosition=-0.0,0.0292,0.1318
+MastHeight=0.09
+MeshMast=wp_ssgn_charlie1_periscope
 
-MeshPosition=0,0.020,0.111
-MastHeight=0.085
-MeshMast=usn_ssn_permit_esm_mast
+MeshPosition=0,0.0292,0.0686
+MastHeight=0.09
+MeshMast=wp_ssgn_charlie1_esm
 
-MeshPosition=0,0.020,0.081
-MastHeight=0.085
-MeshMast=usn_ssn_permit_radar_mast
+MeshPosition=-0.0,0.0292,0.123
+MastHeight=0.09
+MeshMast=wp_ssgn_charlie1_radar
 
 [Weapon Systems]
 //Torpedo Mounts
@@ -166,11 +165,6 @@ TorpedoEffectPosition=0,0.0785,0.0816
 MeshRotation=0,0,0
 MeshPosition=0,-0.056,-0.533
 MeshNoisemakerMount=FALSE
-
-
-MeshPosition=0,0,0
-ModelFile=ships/wp_ssgn_charlie1/wp_ssgn_charlie1
-
 
 //Wake
 MeshPosition=0,0,0

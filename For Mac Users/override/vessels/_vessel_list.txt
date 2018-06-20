@@ -61,6 +61,8 @@ wp_ssgn_echo2
 wp_ssg_juliet
 wp_ssgn_oscar
 wp_ssgn_yasen
+usn_cg_belknap
+usn_ff_knox
 wp_takr_kiev
 wp_rkr_kirov
 wp_kr_sverdlov

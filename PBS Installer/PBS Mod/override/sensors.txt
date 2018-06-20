@@ -564,6 +564,15 @@ SonarBaffle=150
 SonarNoisePerKnot=1
 SonarOutput=235
 
+SonarModel=usn_sqs_26
+SonarType=ACTIVE/PASSIVE
+SonarFrequencies=L,L
+SonarActiveSensitivity=28
+SonarPassiveSensitivity=37
+SonarBaffle=150
+SonarNoisePerKnot=1
+SonarOutput=220
+
 SonarModel=usn_bqr_25
 SonarType=TOWED
 SonarFrequencies=L
@@ -599,6 +608,33 @@ SonarPassiveSensitivity=54
 SonarBaffle=FALSE
 SonarNoisePerKnot=3
 SonarOutput=0
+
+SonarModel=usn_sqr_18
+SonarType=TOWED
+SonarFrequencies=L
+SonarActiveSensitivity=0
+SonarPassiveSensitivity=44
+SonarBaffle=FALSE
+SonarNoisePerKnot=1
+SonarOutput=0
+
+SonarModel=usn_ssq_62
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=21
+SonarPassiveSensitivity=0
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=200
+
+SonarModel=usn_aqs_13
+SonarType=DIPPING
+SonarFrequencies=M
+SonarActiveSensitivity=20
+SonarPassiveSensitivity=20
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=220
 
 SonarModel=plan_sjd_3
 SonarType=ACTIVE
@@ -947,6 +983,12 @@ RADARRange=60000
 
 RADARModel=usn_bps_15A
 RADARRange=60000
+
+RADARModel=usn_sps_67
+RADARRange=60000
+
+RADARModel=usn_ln_66
+RADARRange=100000
 
 RADARModel=plan_klc_1
 RADARRange=100000

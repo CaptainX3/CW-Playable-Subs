@@ -29,3 +29,10 @@
 <color=Orange>The Great Escape</color>
 <color=Orange>Oil Rig Insertion</color>
 <color=Orange>Convoy Strike</color>
+<color=White>High Noon</color>
+<color=White>Cornered</color>
+<color=White>Convoy Calamity</color>
+<color=White>Ambush</color>
+<color=White>Territorial Dispute</color>
+<color=White>Shallow Grave</color>
+<color=White>Foreign Trade</color>

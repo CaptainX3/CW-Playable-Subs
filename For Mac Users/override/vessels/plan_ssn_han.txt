@@ -64,11 +64,11 @@ ESM_MAST=SAIL
 LabelPosition=409.7,171.9
 RADAR_MAST=SAIL
 LabelPosition=364.3,49.4
-TUBES=FORE,FRONT
-LabelPosition=229.6,193.2
+TUBES=FRONT,FORE
+LabelPosition=201,193.2
 FIRECONTROL=FORE
-LabelPosition=229.6,172.2
-PUMPS=MID,AFT
+LabelPosition=201,172.2
+PUMPS=AFT,MID
 LabelPosition=59.9,27.7
 PROPULSION=AFT,REAR
 LabelPosition=59.9,172.2
@@ -81,11 +81,11 @@ LabelPosition=190.8,28
 REACTOR=MID
 
 [Flooding Display: x,width,ymin,ymax]
-FLOODING1=167,58,-73,-39
-FLOODING2=87,97,-80,-32
-FLOODING3=-2,77,-78.9,-32
-FLOODING4=-69,55,-78,-32
-FLOODING5=-128,59,-77,-32
+FLOODING1=158,83,-77,-32
+FLOODING2=77,76,-83,-28
+FLOODING3=-2,78,-84,-26
+FLOODING4=-70,54,-80,-31
+FLOODING5=-129,59,-78,-34
 DamageControlPartyY=-28
 
 [Model]
@@ -114,18 +114,18 @@ MeshPosition=0,0,0
 Material=ships/materials/hullnumbers/hullnumber
 MeshHullNumber=plan_ssn_han_hullnumber
 
-Material=ships/materials/usn_masts
-MeshPosition=0.005,0.075,0.217
+Material=ships/materials/wp_masts
+MeshPosition=0.005,0.06477,0.2972
 MastHeight=0.085
 MeshMast=plan_ssn_han_periscope
 
-MeshPosition=-0.0,0.075,0.1676
+MeshPosition=0.0044,0.06477,0.2782
 MastHeight=0.085
-MeshMast=plan_ssn_han_esm_mast
+MeshMast=plan_ssn_han_esm
 
-MeshPosition=-0.0025,0.075,0.1913
+MeshPosition=0,0.06477,0.2508
 MastHeight=0.085
-MeshMast=plan_ssn_han_radar_mast
+MeshMast=plan_ssn_han_radar
 
 [Weapon Systems]
 //Torpedo Mounts

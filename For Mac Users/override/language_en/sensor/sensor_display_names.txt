@@ -137,6 +137,14 @@ usn_tb_23=TB-23=The TB-23 Thin-Line Towed Array greatly increases the range of p
 
 usn_tb_29=TB-29=The TB-29 Thin-Line Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
 
+usn_sqs_26=SQS-26=This is a very powerful low-frequency array introduced by the US Navy in the 1960's, intended for convergence zone operation.
+
+usn_sqr_18=SQR-18=The SQR-18 TACTASS greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
+
+usn_ssq_62=SSQ-62 DICASS=Active sonobuoy.
+
+usn_aqs_13=AQS-13=Active dipping sonar primarily used by the SH-2F ASW helicopter.
+
 plan_sjd_3=SJD-3=This is a Chinese high frequency hull-mounted scanning sonar based on an improved Stag Hoof design that equips several frigates.
 
 plan_eh_5=EH-5=Keel-mounted high frequency scanning array that equips the early Jianghu-class frigates.
@@ -249,6 +257,10 @@ usn_bps_15=BPS-15=Mast-mounted surface search radar allows submarines to detect 
 usn_bps_14_15=BPS-14/15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
 
 usn_bps_15A=BPS-15A=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+
+usn_sps_67=SPS-67=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
+
+usn_ln_66=LN-66=Helicopter-mounted surface search set for the SH-2F Seasprite helicopter, optimized for over-the-horizon targeting.
 
 plan_klc_1=KLC-1=Helicopter-mounted surface search set for the Z-9C Dauphin, optimized for over-the-horizon targeting.
 

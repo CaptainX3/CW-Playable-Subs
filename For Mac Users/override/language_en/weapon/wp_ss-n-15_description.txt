@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=SS-N-15
-WeaponDescriptiveName=SS-N-15 Starfish ASW Missile
-WeaponDescription=Both submarine and surface-launched versions exist. The surface launched versions are used by the Slava, Kirov, Neustrashimyy and Udaloy classes. The submarine launched versions are used by the Akula, Oscar, Typhoon, Delta, Kilo, and Borey classes. However, the munition package used in either is identical and hence the ship-launched version is launched into the water and submerges before firing its engines.
+WeaponDescriptiveName=SS-N-15 ASW Missile
+WeaponDescription=Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 and drops the same UGMT homing torpedo.

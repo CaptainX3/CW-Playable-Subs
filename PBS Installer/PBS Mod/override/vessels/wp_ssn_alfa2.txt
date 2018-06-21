@@ -28,7 +28,7 @@ CavitationParameters=20,-100
 PropRotationSpeed=-180,180
 TestDepth=2000
 EscapeDepth=1000
-PeriscopeDepthInFeet=42
+PeriscopeDepthInFeet=35
 
 [Acoustics & Sensors]
 SelfNoise=118
@@ -75,19 +75,19 @@ PROPULSION=AFT,REAR
 LabelPosition=59.9,172.2
 RUDDER=REAR
 LabelPosition=59.9,48.7
-PLANES=SAIL,REAR
+PLANES=REAR,SAIL
 LabelPosition=190.8,49
 BALLAST=MID
 LabelPosition=190.8,28
 REACTOR=MID
 
 [Flooding Display: x,width,ymin,ymax]
-FLOODING1=160,45,-77,-39
-FLOODING2=107,58,-77,-39
-FLOODING3=47,61,-77,-39
-FLOODING4=-23,74,-77,-39
-FLOODING5=-90,59,-76,-39
-DamageControlPartyY=-31
+FLOODING1=167,58,-73,-39
+FLOODING2=87,97,-80,-32
+FLOODING3=-2,77,-78.9,-32
+FLOODING4=-69,55,-78,-32
+FLOODING5=-128,59,-77,-32
+DamageControlPartyY=-28
 
 [Model]
 ModelFile=ships/wp_ssn_alfa/wp_ssn_alfa
@@ -109,20 +109,18 @@ MeshBowPlanes=wp_ssn_alfa_bowplanes
 MeshPosition=0,0,-0.4993
 MeshSternPlanes=wp_ssn_alfa_sternplanes
 
-[Model]
-ModelFile=ships/usn_ssn_permit/usn_ssn_permit
-Material=ships/materials/usn_masts
-MeshPosition=0,0.020,0.230
-MastHeight=0.085
-MeshMast=usn_ssn_permit_periscope
+Material=ships/materials/wp_masts
+MeshPosition=0.004,0.0075,0.1829
+MastHeight=0.075
+MeshMast=wp_ssn_alfa_periscope
 
-MeshPosition=0,0.005,0.200
-MastHeight=0.085
-MeshMast=usn_ssn_permit_esm_mast
+MeshPosition=0,0.0075,0.0891
+MastHeight=0.075
+MeshMast=wp_ssn_alfa_esm
 
-MeshPosition=0,0.005,0.170
-MastHeight=0.085
-MeshMast=usn_ssn_permit_radar_mast
+MeshPosition=-0.0,0.0075,0.1254
+MastHeight=0.075
+MeshMast=wp_ssn_alfa_radar
 
 //Prop
 ModelFile=ships/wp_ssn_alfa/wp_ssn_alfa

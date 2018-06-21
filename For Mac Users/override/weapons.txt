@@ -572,7 +572,7 @@ AudioLoop=FALSE
 
 
 WeaponObjectReference=plan_yu-5
-WeaponSprite=weapons/sprites/plan_yu-1_sprite
+WeaponSprite=weapons/sprites/plan_yu-5_sprite
 WeaponType=TORPEDO
 Warhead=400
 SurfaceLaunched=FALSE

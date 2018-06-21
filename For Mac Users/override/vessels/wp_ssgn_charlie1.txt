@@ -41,14 +41,14 @@ RADAR=wp_snoop_tray
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=wp_set-65,wp_ss-n-16,wp_53-65M
-TorpedoNumbers=16,4,0
+TorpedoTypes=wp_set-65,wp_ss-n-15,wp_53-65M,wp_mg-74
+TorpedoNumbers=16,4,0,2
 TorpedoTubes=5
 TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
-VLSTorpedoTypes=wp_p70,wp_p500
+VLSTorpedoTypes=wp_ss-n-7,wp_p500
 VLSTorpedoNumbers=8,0
 VLSMaxDepthToFire=300
 VLSMaxSpeedToFire=10
@@ -156,10 +156,10 @@ TorpedoSpawnPosition=-0.01,0.04,0.64
 TorpedoEffectPosition=0,0,0.0232
 
 //VLS Launch Position
-MeshPosition=0,0.0785,0.0816
-MeshRotation=-90,0,0
-TorpedoSpawnPosition=0,0.0785,0.0816
-TorpedoEffectPosition=0,0.0785,0.0816
+MeshPosition=0.0,0.0785,0.4816
+MeshRotation=-30,0,0
+TorpedoSpawnPosition=0.0,0.0785,0.4816
+TorpedoEffectPosition=0.0,0.0785,0.4816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

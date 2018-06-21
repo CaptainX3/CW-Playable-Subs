@@ -132,7 +132,7 @@ MaterialTextures=terrain/sand
 MeshPosition=-0.0,0,-0.9328
 MeshProp=wp_ssgn_yasen_prop
 MeshPosition=-0.0,0,-0.9328
-MeshRotation=0,0,28
+MeshRotation=0,0,180
 MeshProp=wp_ssgn_yasen_prop
 MeshRotation=0,0,0
 

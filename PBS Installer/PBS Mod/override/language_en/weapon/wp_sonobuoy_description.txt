@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Sonobuoy
+WeaponDescriptiveName=Sonobuoy
+WeaponDescription=Soviet aerial dropped sonobuoys equipped with either passive or active sonar.\nHelicopter sonobuoys:\nRGB-56 RGB-N Iva 'Crow Egg' (45kg, 2m) introduced 1956.\nRGB-64 RGB-NM Cinar 'Rook Egg' (13.5kg, 1m) (detection range of 1 to 5 km) introduced 1964.\nRGB-73 RGB-NM-1 Zeton (detection range of 3 to 8 km) introduced 1973.\n\nFixed wing ASW sonobuoys:\nBM-1 RGB-1 'Snipe Egg 1' non-directional passive sonobuoy.\nBM-2 RGB-2 'Snipe Egg 2' directional passive sonobuoy.\nBM-3 RGB-3 'Snipe Egg 3' active-only sonobuoy.

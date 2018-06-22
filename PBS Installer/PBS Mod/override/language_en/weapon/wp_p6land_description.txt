@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-3A (Land)
+WeaponDescriptiveName=SS-N-3A Shaddock (P-6) (Land)
+WeaponDescription=NATO called the submarine-launched radar-homing versions of the P-6 SS-N-3A 'Shaddock'. These were carried by Echo II and Juliett Class submarines for targeting US aircraft carriers. The Echo I Class submarines were incapable of accommodating the targeting radar for the anti-ship version, and were not equipped with missiles after the land-attack variant was withdrawn, probably in the mid-1960s when sufficient nuclear-powered ballistic missile submarines (SSBNs) became available.

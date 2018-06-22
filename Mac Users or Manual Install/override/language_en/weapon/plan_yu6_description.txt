@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Yu-6
+WeaponDescriptiveName=Yu-6 Torpedo
+WeaponDescription=The Yu-6 torpedo is the Chinese counterpart of the US Mark 48 torpedo, and it is the first domestic Chinese torpedo designed to counter both surface ships and submarines from the very start. Guidance can be by wire, active and passive homing, or wake homing. Domestic Chinese sources have claimed that the Yu-6 torpedo is in the same class as the Mk 48 Mod. 4 torpedo.

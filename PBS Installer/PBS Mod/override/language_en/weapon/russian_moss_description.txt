@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MG-74
+WeaponDescriptiveName=MG-74 Corund
+WeaponDescription=The MG-74 is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. \nSoftware updated to allow <b>SNAKE</b> and <b>CIRCLE</b> (<b>LEFT</b> or <b>RIGHT</b>) at activation point.\nAlso run <b>LEVEL</b>, <b>ABOVE</b> or <b>BELOW</b> a layer.

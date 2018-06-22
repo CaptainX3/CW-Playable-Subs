@@ -1,0 +1,33 @@
+//The Escape of Red October (USA Defection)
+
+UseTerrain=TRUE
+MapCoordinates=2468,1484
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=10 NOV 1984
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=5-10,2-6
+CombatBehaviour=OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE
+EnemyShipClasses=wp_takr_kiev|wp_rkr_kirov|wp_kr_sverdlov|wp_pkr_moskva|wp_bpk_udaloy|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1|wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_skr_riga|wp_mpk_grisha3|wp_mpk_poti|wp_bdk_ropucha,wp_ssn_victor3|wp_ssn_sierra|wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ss_kilo|wp_ss_foxtrot|wp_ss_romeo|wp_ssgn_yasen|wp_ss_lada|wp_ssn_mike
+FormationCruiseSpeed=20
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=2
+AircraftType=wp_il-38_may
+
+PlayerVessels=wp_ssbn_redoctober,wp_ssbn_redoctober_silent

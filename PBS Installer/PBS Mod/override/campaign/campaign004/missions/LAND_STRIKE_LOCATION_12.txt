@@ -1,0 +1,51 @@
+UseTerrain=TRUE
+MapCoordinates=3165,1066
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_mpk_grisha3|wp_skr_riga,wp_skr_krivak1|wp_mpk_grisha3,wp_skr_riga|wp_mpk_poti,wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan|wp_fv_trawler
+
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=40,350
+PlayerHeading=180
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Inner leg
+EnemyWaypoints=-41,78|-225,137
+
+//Horizontal Inner Patrol
+EnemyWaypoints=106,117|185,520
+
+//Vert Patrol
+EnemyWaypoints=-225,222|-42,192
+
+//Vert Patrol
+EnemyWaypoints=-79,262|-77,616
+
+//Bonus
+EnemyWaypoints=-92,998|41,45
+MissionPositionColor=LAND_STRIKE
+
+
+MissionPosition=13,19
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_il-38_may
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=110,163,75
+AircraftSearchArea=-79,102,75
+AircraftSearchArea=-13,636,400

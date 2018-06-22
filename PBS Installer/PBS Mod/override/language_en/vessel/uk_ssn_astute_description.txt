@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Astute
+Description=[UK] Astute Class SSN
+History=Self Noise Rating: 108 db\nEscape Depth: 600 ft\n\nThe Astute class is the latest class of nuclear-powered fleet submarines (SSNs) in service with the Royal Navy. The class sets a new standard for the Royal Navy in terms of weapons load, communication facilities and stealth. Like all Royal Navy submarines, the bridge fin of the Astute Class boats is specially reinforced to allow surfacing through ice caps. These submarines can also be fitted with a dry deck shelter, which allows special forces (e.g. SBS) to deploy whilst the submarine is submerged. More than 39,000 acoustic tiles mask the vessel's sonar signature, giving the Astute class improved acoustic qualities over any other submarine previously operated by the Royal Navy.
+
+[Player Ship Instances]
+PlayerClassNames=HMS Astute,HMS Ambush,HMS Artful,HMS Audacious,HMS Anson,HMS Agamemnon,HMS Agincourt
+
+PlayerClassHullNumbers=S119,S120,S121,S122,S123,S124,S125

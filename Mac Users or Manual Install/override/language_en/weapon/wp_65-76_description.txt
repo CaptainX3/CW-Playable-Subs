@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=65-76
+WeaponDescriptiveName=65-76 Torpedo
+WeaponDescription=The Type 65 is a torpedo manufactured in the Soviet Union/Russia. It was developed for use against US Navy aircraft carrier battle groups, as well as large merchant targets such as supertankers and advanced enemy submarines.

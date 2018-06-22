@@ -1,0 +1,18 @@
+Image=campaign/images/pact naval 1
+MissionLocation=Norwegian Sea, 2000 miles due East of Iceland.
+Briefing=Prevent the Soviet fleet from launching an amphibious assault on Iceland.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the main vessels of the High Sea Fleet
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink the transport Ships of the amphibious assault fleet
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=
+Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)
+
+
+

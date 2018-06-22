@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Tango
+Description=[RUS] Tango Class SS
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThese are large diesel-electric attack submarines designed for both long-range operations and defending the arctic SSBN bastions. They are comparable to the Victor II Class nuclear attack submarines in terms of sensors and weapons, but are significantly quieter when running on batteries. This makes them suitable for Spetsnaz operations in addition to operating against NATO shipping.
+
+[Player Ship Instances]
+PlayerClassNames=Chita, Vyborg, Novosibirsk, Vologda, Kaluga, Ust'-Kamchatsk, Chapayev, Magnitogorsk, Ust'-Bolsheretsk
+
+PlayerClassHullNumbers=B-30, B-97, B-146, B-215, B-225, B-290, B-303, B-307, B-312

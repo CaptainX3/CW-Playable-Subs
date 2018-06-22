@@ -1,0 +1,32 @@
+//The Giants
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_single_mission_traffic
+
+//Environment
+Date=05 MAY 2010
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=Moderate Breeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=usn_ssn_los_angeles_flt3|usn_ssn_seawolf|usn_ssn_virginia|usn_ssn_virginia_imp|usn_ss_stingray|uk_ssn_astute|uk_ssn_trafalgar|uk_ss_upholder|wp_ssn_akula2|wp_ssn_alfa2|wp_ssn_novemberii|wp_ss_kilo2|wp_ss_lada|wp_ssbn_borei|wp_ssgn_yasen|plan_ssn_shang|jmsdf_ss_oyashio
+FormationCruiseSpeed=12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=usn_ssn_los_angeles_flt3,usn_ssn_seawolf,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,uk_ssn_astute,uk_ssn_trafalgar,uk_ss_upholder,jmsdf_ss_oyashio,wp_ssn_akula2,wp_ssn_alfa2,wp_ssn_novemberii,wp_ss_kilo2,wp_ss_lada,wp_ssbn_borei,wp_ssgn_yasen,plan_ssn_shang,aus_ss_collins,aus_ss_oberon,fra_ssn_rubis,fra_ssbn_redoubtable,fra_ssbn_triomphant,ger_ss_209,ger_ssn_212a,HNLMS_SS_Walrus,it_ss_sauro_iv,it_ss_toti,rcn_ssk_victoria,rus_ssgn_papa,swe_ss_gotland,usn_ssn_nautilus,usn_ssn_staynalive

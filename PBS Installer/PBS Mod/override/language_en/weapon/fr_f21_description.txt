@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=F-21
+WeaponDescriptiveName=F-21 Torpedo
+WeaponDescription=The DCNS F21 is an advanced anti-surface torpedo produced since 2016. France and Brazil are its primary users. Battery powered, it has a very fast speed of more than 50 knots. Wire-guided, it can be used in active and passive sonar modes.

@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Ohio (VLS)
+Description=[USA] Ohio Class SSGN
+History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nFour of the Ohio class SSBNs have been converted to cruise missile submarines (SSGNs): Ohio, Michigan, Florida, and Georgia. The conversion modified 22 of the 24 88-inch (2.2 m) diameter Trident missile tubes to contain large vertical launch systems (VLS), one configuration of which may be a cluster of seven Tomahawk cruise missiles. In this configuration, the number of cruise missiles carried could be a maximum of 154, the equivalent of what is typically deployed in a surface battle group.
+
+[Player Ship Instances]
+PlayerClassNames=Ohio,Michigan,Florida,Georgia
+
+PlayerClassHullNumbers=SSGN-726,SSGN-727,SSGN-728,SSGN-729

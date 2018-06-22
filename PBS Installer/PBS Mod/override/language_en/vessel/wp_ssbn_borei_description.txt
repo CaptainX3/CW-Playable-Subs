@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Borei
+Description=[RUS] Borei Class SSBN
+History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nProject 955, or Borei, is a class of nuclear-powered ballistic missile submarine produced by Russia and operated by the Russian Navy. The class is intended to replace the Delta III, Delta IV and Typhoon classes in Russian Navy service. The class is named after Boreas, the North wind. Despite being a replacement for many types of submarines, the Borei Class submarines are much smaller than those of the Typhoon class in both volume and crew. Advances include a compact and integrated hydrodynamically efficient hull for reduced broadband noise and the first ever use of pump-jet propulsion on a Russian nuclear submarine.
+
+[Player Ship Instances]
+PlayerClassNames=Yuriy Dolgorukiy, Aleksandr Nevskiy, Vladimir Monomakh
+
+PlayerClassHullNumbers=K-535, K-550, K-551

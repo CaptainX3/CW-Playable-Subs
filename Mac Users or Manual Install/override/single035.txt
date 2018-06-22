@@ -1,0 +1,34 @@
+UseTerrain=TRUE
+MapCoordinates=2381,1287
+
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=14 NOV 1984
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=usn_ssn_narwhal,usn_ssn_skipjack,usn_ssn_permit,usn_ssn_sturgeon,usn_ssn_los_angeles,usn_ssn_seawolf,usn_ssn_los_angeles_flt3,usn_ssn_los_angeles_flt2
+//Ship positions and headings, otherwise build into a formation
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh-2f
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=wp_ssgn_charlie1,wp_ssn_alfa,wp_ssn_november,aus_ss_collins,aus_ss_oberon,fra_ssn_rubis,fra_ssbn_redoubtable,fra_ssbn_triomphant,ger_ss_209,ger_ssn_212a,HNLMS_SS_Walrus,it_ss_sauro_iv,it_ss_toti,rcn_ssk_victoria,rus_ssgn_papa,swe_ss_gotland,usn_ssn_nautilus,usn_ssn_staynalive
+CommanderName=GLAVCOM VMF
+CommanderFleetName=COM NORTHERN FLEET

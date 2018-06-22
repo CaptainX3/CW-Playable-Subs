@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Yu-9
+WeaponDescriptiveName=Yu-9 Torpedo
+WeaponDescription=The Yu-9 torpedo was developed as the electrically powered counterpart of the Otto-fuel-II-powered Yu-6, with which it shares many components and technologies, with the exception of the propulsion system. Domestic Chinese sources have said that the torpedo had become the test vehicle and subsequently armed with a new warhead developed by the Chinese naval research institute. The new warhead utilizes sodium hydride compounds / chemical reaction; on detonation a large amount of sodium powder is released, which reacts with seawater to produce large amounts of very-high-temperature hydrogen within a very short period of time, so that the temperature instantly increases to over 2,000 °C within a radius of a few dozen metres as the hydrogen reacts with oxygen, destroying the target even if not hit.

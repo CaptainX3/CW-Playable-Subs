@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Romeo
+Description=[RUS] Romeo Class SS
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Romeo is a follow-on design to the earlier Whiskey, being nearly identical in size and role, but patterned heavily on the German Type XXI wartime design, which is evident in its more streamlined features. Like its predecessor it is comparatively slow and noisy, but feature a much improved sensor outfit and heavier torpedo armament. This class was exported to several client states, including China where they proved to be popular boats.
+
+[Player Ship Instances]
+PlayerClassNames=Chita, Vyborg, Novosibirsk, Vologda, Kaluga, Ust'-Kamchatsk, Alrosa, Magnitogorsk, Ust'-Bolsheretsk, Lipetsk, Wolgograd
+
+PlayerClassHullNumbers=B-248, B-260, B-227, B-229, B-404, B-401, B-402, B-405, B-470, B-806, B-439, B-445

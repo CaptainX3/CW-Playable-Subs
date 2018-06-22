@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Golf
+Description=[RUS] Golf Class SSB
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThis class of 24 boats is a derivative of the Foxtrot design fitted with an enlarged sail to house three SS-N-4 Sark nuclear missiles. These missiles are short-ranged, forcing these boats to patrol relatively close to the US mainland.
+
+[Player Ship Instances]
+PlayerClassNames=B-92,B-40,B-41,B-42,B-121,B-125,B-45,B-61,B-15,K-118,K-36,K-91,K-107,K-110,K-153,K-142,B-93,B-103,B-109,B-113,K-75,K-99,K-163
+
+PlayerClassHullNumbers=92,40,41,42,121,125,45,61,15,118,36,91,107,110,153,142,93,103,109,113,75,99,163

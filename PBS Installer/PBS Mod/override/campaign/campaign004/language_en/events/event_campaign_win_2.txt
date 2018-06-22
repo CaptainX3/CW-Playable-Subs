@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_3
+Image=campaign/images/federation.png
+Photo=campaign/images/photos/peace.png
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SOVIET UNION COLLAPSES</b>|<b>WAR IS OVER</b>
+Sentence1=A coup by anti-war politicians and generals has effectively put an end to the Soviet Union. The Russian Federation is born and its first course of action has been the agreement of an immediate cease-fire with NATO. A looming oil crisis appeared to be the reason for aggression by the former USSR.
+Sentence2=Will the new leaders be able to maintain a fragile peace within their own borders? In an act of strengthening the new regime the President of the USA has promised economic support increasing grain and oil export to the former Soviet bloc.

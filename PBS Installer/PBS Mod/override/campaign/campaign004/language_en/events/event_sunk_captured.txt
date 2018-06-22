@@ -1,0 +1,16 @@
+NextAction=END
+Image=campaign/images/russianprison.png
+Photo=campaign/images/photos/naval nato sub 1,campaign/images/photos/naval nato sub 2,campaign/images/photos/naval nato sub 3,campaign/images/photos/naval nato sub 4
+Music=audio/music/Cold Waters Loss Gulag
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SOVIETS CAPTURE<n>SUB CREW</b>
+Color=57,61,73,255
+Sentence1=Soviet naval forces have captured the surviving crew of the <PLAYERVESSELNAVY> <PLAYERVESSELNAME> after the sub sustained significant hull damage during naval action last week. Commander <PLAYERNAME> was paraded in front of international news crews at a press conference in Moscow.
+
+Color=218,218,208,255
+Sentence2=The commander and several of his crew answered questions and stated that they were treated as well as can be expected. Their Soviet captors insisted that NATO should have stayed out of what was supposed to be a limited Russian-German conflict. Whatever will happen now, for <PLAYERNAME> and his crew of the <PLAYERVESSELNAVY> <PLAYERVESSELNAME> the war is over.

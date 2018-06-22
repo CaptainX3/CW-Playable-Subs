@@ -178,11 +178,7 @@
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-<<<<<<< HEAD
 * STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a Mac Users or Manual Install folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
-=======
-* STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a For Mac Users folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
->>>>>>> origin/0-master-release
 
 * STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
 
@@ -201,11 +197,7 @@
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
 
-<<<<<<< HEAD
 * STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a Mac Users or Manual Install folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
-=======
-* STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a For Mac Users folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
->>>>>>> origin/0-master-release
 
 * STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
 

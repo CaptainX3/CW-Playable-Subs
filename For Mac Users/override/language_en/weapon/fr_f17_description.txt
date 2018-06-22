@@ -1,4 +1,0 @@
-[Weapon Reference]
-WeaponName=F-17
-WeaponDescriptiveName=F-17 Torpedo
-WeaponDescription=The DTCN F17 was a wire-guided anti-surface ship torpedo originally produced in 1971. France, Spain, and Saudi Arabia were its primary users.A control panel above the launch platform allowed for instantaneous switching between two modes, wire-guided or autonomous passive homing.

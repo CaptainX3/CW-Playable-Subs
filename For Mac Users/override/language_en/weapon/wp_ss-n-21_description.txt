@@ -1,4 +1,0 @@
-[Weapon Reference]
-WeaponName=SS-N-21
-WeaponDescriptiveName=Guided Missile with 410kg conventional warhead.
-WeaponDescription=The SS-N-21 guided missile is a submarine-launched variant of the RK-55 intermediate range guided missile, developed in 1976. Featuring the ability to fire either a conventional warhead, or a single nuclear warhead of up to 200kT, the missile is highly versatile and is still in use today.

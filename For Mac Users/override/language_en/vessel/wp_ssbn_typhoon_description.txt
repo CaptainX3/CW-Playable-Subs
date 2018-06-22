@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Typhoon
-Description=[RUS] Typhoon Class SSBN
-History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThese are the largest submarines ever built. They feature an innovative parallel pressure hull layout, and are designed to operate for prolonged periods under the arctic icepack. Compared to the Delta class, they are a huge improvement in capability, with better quieting, better survivability, more weapons and carrying missiles of greater accuracy.
-
-[Player Ship Instances]
-PlayerClassNames=Dmitriy Donskoy, Simbirsk, Arkhangelsk, Severstal, Krasnaya Oktyabr, Krasnaya Swesda, Slawa
-
-PlayerClassHullNumbers=TK-208, TK-202, TK-12, TK-13, TK-17, TK-20, TK-210

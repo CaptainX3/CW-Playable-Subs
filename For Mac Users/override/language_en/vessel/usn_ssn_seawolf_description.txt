@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Seawolf
-Description=[USA] Seawolf Class SSN
-History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nThe Seawolf was designed to be a superlative hunter-killer submarine that could penetrate the heavily guarded Soviet boomer bastions and not only survive there, but to thrive there. The Seawolf features twice the torpedo tubes and twice the weapon load over preceeding classes of nuclear attack subs, with better sensors and much better quieting than other submarines. All of this superlative performance came at a tremendous cost however, and only three of the class were built, with SSN-23 becoming a special projects boat.
-
-[Player Ship Instances]
-PlayerClassNames=Seawolf, Connecticut, Jimmy Carter
-
-PlayerClassHullNumbers=SSN-21,SSN-22,SSN-23

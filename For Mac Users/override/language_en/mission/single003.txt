@@ -1,8 +1,0 @@
-Image=campaign/images/pact wolfpack 2
-MissionLocation=East of Iceland, in the Norwegian Sea
-Briefing=After several uneventful days, sonar reports a lone contact.
-Briefing=
-Briefing=<b>Primary Objectives:</b>
-Briefing=- Sink the enemy submarine.
-Briefing=
-Briefing=(1984 Version)

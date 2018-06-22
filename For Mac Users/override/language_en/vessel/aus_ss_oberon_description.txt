@@ -1,8 +1,0 @@
-[Unit Reference]
-ShipClass=Oberon
-Description=[AUS] Oberon Class SS
-History=Self Noise Rating: 142 db\nTest Depth: 650 ft\nEscape Depth: 450 ft\n\nThe Royal Australian Navy operated 6 Oberon class ships. These differ from the British variation in that they were upgraded by the Royal Australian Navy in the late 70s. The primary upgrades were to the fire control system, so it could support the American MK48 torpedo, and the sonar suite, to a German made system.
-
-[Player Ship Instances]
-PlayerClassNames=HMAS Oxley,HMAS Otway,HMAS Ovens,HMAS Onslow,HMAS Otama,HMAS Orion
-PlayerClassHullNumbers=S57, S59, S70, S60, S62, S61

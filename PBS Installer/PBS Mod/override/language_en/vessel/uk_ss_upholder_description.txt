@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Upholder
-Description=[UK] Upholder Class SSK
-History=Self Noise Rating: 118 db\nEscape Depth: 600 ft\n\nThe Upholder class submarines, also known as the Type 2400 (due to their displacement of 2,400 tonnes), are diesel-electric fleet submarines designed in the UK in the late 1970s to supplement the Royal Navy's nuclear submarine force.\nThe submarines have a single-skinned, teardrop-shaped hull constructed from NQ1 high tensile steel. The hull is fitted with elastomeric acoustic tiles to reduce the submarine's acoustic signature. The class has a reported dive depth of over 650 feet (200 m).
-
-[Player Ship Instances]
-PlayerClassNames=HMS Upholder,HMS Unseen,HMS Ursula,HMS Unicorn
-
-PlayerClassHullNumbers=S40, S41, S42, S43

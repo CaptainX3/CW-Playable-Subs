@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Lada
-Description=[RUS] Lada Class SS
-History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nProject 677 or Lada class is the new advanced class of diesel-electric attack submarine designed by the Russian Rubin Design Bureau. A program to develop a "fourth generation" diesel-electric submarine, it aimed to produce a highly improved version of the Project 636 Kilo class with much quieter, new combat systems.
-
-[Player Ship Instances]
-PlayerClassNames=Sankt Peterburg, Kronshtadt, Velikiye Luki
-
-PlayerClassHullNumbers=B-585, B-586, B-587

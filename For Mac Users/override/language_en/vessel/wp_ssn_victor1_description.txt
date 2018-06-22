@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Victor I
-Description=[RUS] Victor I Class SSN
-History=Self Noise Rating: 142 db\nEscape Depth: 600 ft\n\nThis class of sixteen boats was completed in 1968 through 1975. They are not as quiet or as capable as contemporary US boats, but they were a major improvement on the earlier November class boats. They are designed for high speed with little effort at silencing, but are fitted with electric creep motors for silent drive.
-
-[Player Ship Instances]
-PlayerClassNames=Obninsk, Daniil Moskovskiy, Tambov, Kotuzov, Leninsky Komsomoletsk, Mikahil Kutuzov
-
-PlayerClassHullNumbers=K-38, K-69, K147, K-53, K-306, K-323

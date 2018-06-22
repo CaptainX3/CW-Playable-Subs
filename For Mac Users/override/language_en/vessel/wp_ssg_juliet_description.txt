@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Juliet
-Description=[RUS] Juliet Class SSG
-History=Self Noise Rating: 160 db\nEscape Depth: 600 ft\n\nThese boats, built during the 1960's, are first-generation Soviet cruise missile boats, designed as cheaper diesel-electric equivalents of the Echo Class SSGN's. Like the Echos, they are very loud boats, even by diesel-electric standards. They also have to stay on the surface in order to target, launch and guide their SS-N-3 missiles, during which they are extremely vulnerable to NATO ASW. With the advent of submerged-launch missiles in the Charlie and Oscar classes, these obsolete boats are probably retained as a means to harass NATO merchant convoys.
-
-[Player Ship Instances]
-PlayerClassNames=Konavalov, Kostroma, Pskov, Nizhniy Novgorod, Daniil Moskovskiy, Ochotnik, Pantera, Magadan, Aktivist, Wolga, Leopard
-
-PlayerClassHullNumbers=K-156,K-85,K-70,K-24,K-68,K-77,K-81,K-63,K-58,K-73,K-67,K-78,K-203,K304,K318,K-120

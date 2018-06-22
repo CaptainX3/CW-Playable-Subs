@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Echo II
-Description=[RUS] Echo II Class SSGN
-History=Self Noise Rating: 160 db\nEscape Depth: 600 ft\n\nThe Echo II is a modification of the original Echo Class which carried the nuclear land-attack version of the SS-N-3 Shaddock cruise missile. The modifications include adding a pair of launcher aft of the sail, and enlarging the sail to accommodate the Front Door missile guidance radar in a swiveling mount, as was done on the Juliet. They are fitted with the same unreliable propulsion plant as the Novembers, but the large cutouts for the missile exhausts make them even noiser. The need to stay surfaced in order to fire further limits their usefulness.
-
-[Player Ship Instances]
-PlayerClassNames=Konavalov, Kostroma, Pskov, Nizhniy Novgorod, Daniil Moskovskiy, Tambov, Pantera, Magadan, Kuzbass
-
-PlayerClassHullNumbers=K-166, K-104, K-170, K-175, K-184, K-172, K-47, K-1, K-28

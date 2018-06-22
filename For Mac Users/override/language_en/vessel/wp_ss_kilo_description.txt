@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Kilo
-Description=[RUS] Kilo Class SS
-History=Self Noise Rating: 125 db\nEscape Depth: 600 ft\n\nThis is the latest and most advanced diesel-electric submarine built by the Soviets. Compared to earlier designs, the Kilo has adopted the Albacore-hull form, which makes it much faster underwater. It is also much quieter, and carries weapons and sensors on par with the third-generation nuclear attack submarines like the Victor III.
-
-[Player Ship Instances]
-PlayerClassNames=Chita, Vyborg, Novosibirsk, Vologda, Kaluga, Ust'-Kamchatsk, Alrosa, Magnitogorsk, Ust'-Bolsheretsk, Lipetsk, Krasnokamensk
-
-PlayerClassHullNumbers=B-248, B-260, B-227, B-229, B-404, B-401, B-402, B-405, B-470, B-806, B-439, B-445

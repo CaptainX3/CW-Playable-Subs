@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Victor III
-Description=[RUS] Victor III Class SSN
-History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThese boats represent the ultimate evolution of the Victor Class submarine. They were the first boats to be given a towed array, and they were the first to be built with improved quieting features such as raft-mounted machinery. Originally designed with an offset tandem propeller, they have since been upgraded with reduced Cavitation propellers. The entire group are also fitted with fire control for the SS-N-16 standoff ASW missile.
-
-[Player Ship Instances]
-PlayerClassNames=Obninsk, Daniil Moskovskiy, Tambov
-
-PlayerClassHullNumbers=B-138, B-414, B-448

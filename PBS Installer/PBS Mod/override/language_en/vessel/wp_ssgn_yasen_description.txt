@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=Yasen
-Description=[RUS] Yasen Class SSGN
-History=Self Noise Rating: 105 db\nEscape Depth: 600 ft\n\nThe Yasen Class submarine is the newest Russian nuclear-powered multipurpose attack submarine. Based on earlier Sierra-class and Akula-class submarines, this boat features state-of-the-art equipment, improved queting, enormous torpedo arsenal and heavy cruise missile payload. This submarine is the pride of Russian Navy, and must be considered an extremely dangerous threat.
-
-[Player Ship Instances]
-PlayerClassNames=Kazan, Novosibirsk, Krasnoyarsk, Arhangelsk, Perm, Ulyanovsk
-
-PlayerClassHullNumbers=K-561, K-573, K-571, K-564, K-580, K-581

@@ -1,4 +1,0 @@
-[Weapon Reference]
-WeaponName=Explodey Boi
-WeaponDescriptiveName=Explodey Boi Torpedo
-WeaponDescription=The Mark 48 ADCAP is an improvement of the Mk48 boasting increased speed and better electronics, allowing it to effectively engage faster and deeper diving enemy submarines, such as the Alfa.

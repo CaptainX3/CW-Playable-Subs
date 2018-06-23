@@ -10,7 +10,7 @@ VesselsAndTraffic=campaign/maps/south_china_sea_traffic_us
 
 
 //Environment
-Date=14 NOV 1984
+Date=14 NOV 2000
 Hemisphere=North
 Time=1200
 UsePresetEnvironment=FALSE
@@ -23,7 +23,7 @@ LayerStrength=Moderate
 NumberOfEnemyUnits=1-1
 CombatBehaviour=OFFENSIVE
 EnemyUnitMissionCritical=TRUE
-EnemyShipClasses=usn_ssn_narwhal,usn_ssn_skipjack,usn_ssn_permit,usn_ssn_sturgeon,usn_ssn_los_angeles,usn_ssn_seawolf,usn_ssn_los_angeles_flt3,usn_ssn_los_angeles_flt2
+EnemyShipClasses=usn_ssn_skipjack,usn_ssn_permit,usn_ssn_sturgeon,usn_ssn_los_angeles,usn_ssn_seawolf,usn_ssn_los_angeles_flt3,usn_ssn_los_angeles_flt2
 //Ship positions and headings, otherwise build into a formation
 
 //Enemy Aircraft

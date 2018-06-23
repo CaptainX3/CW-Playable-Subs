@@ -1,8 +1,0 @@
-[Unit Reference]
-ShipClass=Triomphant
-Description=[FRA] Triomphant Class SSBN
-History=Self Noise Rating: 110 db\nEscape Depth: 800 ft\n\nThe Le Triomphant-class submarine is the newest ballistic missile submarine class of the French Marine Nationale. In French, the type is called Sous-marin Nucleaire Lanceur d'Engins Nouvelle Generation (SNLE-NG), literally "Next Generation Missile-launching nuclear submarine". Propelled by a pump-jet system, it is one of the most stealthy SSBNs in the world. The class entered active service in 1997 in replacement of the Le Redoutable class. Four Triomphant-class submarines are active in the French Navy, with one to two of them being on patrol at any given time.
-[Player Ship Instances]
-PlayerClassNames=Triomphant,Temeraire,Vigilant,Terrible
-
-PlayerClassHullNumbers=S616,S617,S618,S619

@@ -1,4 +1,0 @@
-[Weapon Reference]
-WeaponName=ADCAP (Swimout)
-WeaponDescriptiveName=Mark 48 ADCAP Torpedo (Mk48 ADCAP-S)
-WeaponDescription=The Mk48 ADCAP is a major improvement over the original Mk48 with envelope expansion features and upgraded electronics to better combat new Soviet submarines such as the Alfa class.  When empoloyed aboard the SSN-21 Seawolf Class, it has swimout capability due to the Seawolf's 26" Torpedo Tubes, eliminating the launch transient. 

@@ -1,4 +1,0 @@
-[Weapon Reference]
-WeaponName=Tigerfish
-WeaponDescriptiveName=UK Mk24 Tigerfish Torpedo Mod 2
-WeaponDescription=The Mk 24 Tigerfish torpedo was a heavyweight acoustic homing torpedo used by the Royal Navy (RN) for several years. The Tigerfish was fitted with both active and passive sonar and could be remotely controlled through a thin wire which connected it to the launching submarine. The initial variants Mod 0 ASW (introduced 1980) and Mod 1 dual role (introduced 1979) were highly unreliable.\nA remediation program after the Falklands War led to the adoption of the more reliable Mod 2 dual role weapon in 1986. The Tigerfish weapon was eventually replaced by the much improved Spearfish torpedo in 2004.

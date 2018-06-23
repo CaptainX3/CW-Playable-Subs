@@ -1,16 +1,23 @@
+---
+# IMPORTANT NOTICE - MOD INSTALLER RETIRED
+
+**The PBS mod installer, while an awesome idea by its creator, has been discovered to cause more user confusion and issues with developers mixing up different sets of files. Since the list of optional submarines was very short, and since we're not going to be adding huge numbers of new subs, we have decided to retire the mod installer program and instead go back to standard manual installation with all playable subs automatically included, as we did before the SCS expansion. The list of playable submarines on this page has been updated to include all subs currently in the mod.**
+
+---
 # TABLE OF CONTENTS
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
-* [Current List of Core Playable Submarines](#current-list-of-core-playable-submarines)
-* [Optional Addon Submarines](#optional-addon-submarines)
-* [Other Important Changes (MAKE SURE YOU READ THIS)](#other-important-changes)
+* [Current List of Playable Submarines](#current-list-of-playable-submarines)
+
+* [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
+* [Sonar Signature List Sorting](#sonar-signature-list-sorting)
+* [Single Missions List Color Coding](#single-missions-list-color-coding)
+
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
-* [**Mod Installation - Release Version Manual Installation (All Subs)**](#mod-installation-release-version-manual-installation)
-* [**Mod Installation - Development Version Manual Installation (All Subs)**](#mod-installation-development-version-manual-installation)
-* [**Mod Installation Mac Users or Manual Install**](#mod-installation-for-mac-users)
 * [**Updating the Mod**](#updating-the-mod)
+
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
 * [Info For Mod Developers](#information-for-mod-developers)
@@ -20,9 +27,9 @@
 
 * This Github repository is the official development center for the New Playable Subs & More mod for Cold Waters. In this repository, we have two versions of the mod - the official stable release version and the development version.
 
-* [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to download the latest official, stable public release of the mod. This is the release that most users need to download. It will be updated periodically to reflect the latest major changes after they have been completed and are verified working.
+* [Click here](#mod-installation-release-version) to read the instructions for installing the latest official, stable public release of the mod. This is the release that most users will want to download. It will be updated periodically to reflect the latest major changes after they have been completed and are verified working.
 
-* The development version of the mod is what you're seeing on the main page. **The development version of the mod is a constantly changing work in progress between multiple developers, and is not guaranteed to be completely working or bug free. For most users, we recommend that you stick to the latest official release version linked above.** If you would like to try the latest development version of the mod, you can scroll down to the Mod Installation (Development Version) instructions below.
+* The development version of the mod is what you're seeing on the main page. **The development version of the mod is a constantly changing work in progress between multiple developers, and is not guaranteed to be completely working or bug free.** If you would like to try the latest development version of the mod, you can [click here](#mod-installation-development-version) and follow the instructions.
 
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
@@ -35,8 +42,7 @@
 * Keep an eye on issues you submit, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.
 
 ---
-## Current List of Core Playable Submarines
-*(These subs are automatically included in the core mod and are not optional.)*
+## Current List of Playable Submarines
 
 * **United States**
   * Los Angeles (Flight I) Class SSN
@@ -54,12 +60,33 @@
   * Improved Virginia Class SSN
   * Stingray Class SS
   * Ohio Class SSGN (Conversion)
+  * Nautilus Class SSN
 
 * **United Kingdom**
   * Astute Class SSN
   * Trafalgar Class SSN
   * Upholder Class SS
   * Vanguard Class SSBN
+
+* **Australia**
+  * Collins Class SS
+  * Oberon Class SS
+
+* **Germany**
+  * Type 209 Class SS
+  * Type 212a Class SS
+
+* **France**
+  * Rubis Class SSN
+  * Redoubtable Class SSBN
+  * Triomphant Class SSBN
+
+* **Italy**
+  * Sauro IV Class SS
+  * Toti Class SS
+
+* **Netherlands**
+  * Walrus Class SS
 
 * **China (PLAN)**
   * Han Class SSN
@@ -113,40 +140,8 @@
   * Echo II Class SSGN
   * Juliet Class SSG
   * Oscar II Class SSGN
-  * Yasen Class SSGN
-
-
-## Optional Addon Submarines
-*(These subs can be manually chosen for installation in the PBS Installer. All of these subs will automatically be included if you choose a Manual Installation method.)*
-
-* **Australia**
-  * Collins Class SS
-  * Oberon Class SS
-
-* **Germany**
-  * Type 209 Class SS
-  * Type 212a Class SS
-
-* France
-  * Rubis Class SSN
-  * Redoubtable Class SSBN
-  * Triomphant Class SSBN
-
-* Italy
-  * Sauro IV Class SS
-  * Toti Class SS
-
-* **Netherlands**
-  * Walrus Class SS
-
-* Russia
   * Papa Class SSGN
-
-* **Sweden**
-  * Gotland Class SS
-
-* **United States**
-  * Nautilus Class SSN
+  * Yasen Class SSGN
 
 * **Special Submarines**
   * Jive Turkey II Class SSN
@@ -157,8 +152,27 @@
 * The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
-* Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the campaign singature libraries have been left as they were in vanilla, since none of the new subs in this mod will appear in the campaigns.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
+
+## Sonar Signature List Sorting
+
+Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the vanilla campaign signature libraries have been left as they were, since none of the new subs in this mod will appear in the campaigns. For single missions and modded campaigns, the signature list is sorted as follows:
+
+* **Scrolling Right:**
+  * Biologics
+  * Civilians
+  * NATO Subs
+  * NATO Ships
+  * Russian/Red Ships
+  * Russian/Red Subs
+
+* **Scrolling Left:**
+  * Russian/Red Subs
+  * Russian/Red Ships
+  * NATO Ships
+  * NATO Subs
+  * Civilians
+  * Biologics
 
 ## Single Missions List Color Coding
 
@@ -178,15 +192,11 @@
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-* STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a Mac Users or Manual Install folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
+* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
 
-* STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
+* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder you just extracted into it. You should now see two folders here - **default** and **override**.
 
-* STEP 6: Follow the instructions in the Installer on each tab until you reach the Install/Uninstall tab.
-
-* STEP 7: If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Install Mod and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Install Mod.
-
-* STEP 8: You're done. Run the game and enjoy all of the new stuff!
+* STEP 6: You're done. Run the game and enjoy all of the new stuff!
 
 ---
 ## Mod Installation (Development Version)
@@ -195,77 +205,18 @@
 
 * STEP 2: Click the "Download ZIP" option.
 
-* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
-
-* STEP 4: Now you'll see three files in the window - Readme.md, a **PBS Installer** folder, and a Mac Users or Manual Install folder. You want to extract ONLY the **PBS Installer** folder to your desktop or wherever you can easily access it.
-
-* STEP 5: Open the **PBS Installer** folder and double click on the **PBS_Installer.exe** file. The installer program should open.
-
-* STEP 6: Follow the instructions in the Installer on each tab until you reach the Install/Uninstall tab.
-
-* STEP 7: If you're using a Steam copy of Cold Waters and **did not change the default install directory,** click Install Mod and proceed to the next step. **If you're using the GOG games version of Cold Waters, or you changed the default install directory,** then choose the correct directory (wherever the ColdWaters.exe file is located) on this screen and then click Install Mod.
-
-* STEP 8: You're done. Run the game and enjoy all of the new stuff!
-
----
-## Mod Installation (Release Version Manual Installation)
-
-***Special Note: This method is for those who prefer to install the mod the old way rather than using the installer. This method will install all of the subs listed on this page, both core and optional.***
-
-* STEP 1: [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to open the Releases page.
-
-* STEP 2: Click on the **Source code (zip)** link to initiate the download. Save the ZIP file to your desktop or wherever you can access it easily.
-
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-* STEP 4: Now you'll see three files in the window - Readme.md, a PBS Installer folder, and a **Mac Users or Manual Install** folder. You want to extract ONLY the **Mac Users or Manual Install** folder to wherever you can easily access it. Now double click to open the **Mac Users or Manual Install** folder, and you'll see an **override** folder.
+* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
 
-* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder into it. You should now see two folders here - **default** and **override**.
-
-* STEP 6: You're done. Run the game and enjoy all of the new stuff!
-
----
-## Mod Installation (Development Version Manual Installation)
-
-***Special Note: This method is for those who prefer to install the mod the old way rather than using the installer. This method will install all of the subs listed on this page, both core and optional.***
-
-* STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
-
-* STEP 2: Click the "Download ZIP" option.
-
-* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
-
-* STEP 4: Now you'll see three files in the window - Readme.md, a PBS Installer folder, and a **Mac Users or Manual Install** folder. You want to extract ONLY the **Mac Users or Manual Install** folder to wherever you can easily access it. Now double click to open the **Mac Users or Manual Install** folder, and you'll see an **override** folder.
-
-* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder into it. You should now see two folders here - **default** and **override**.
-
-* STEP 6: You're done. Run the game and enjoy all of the new stuff!
-
----
-## Mod Installation For Mac Users
-
-***Special Note: Because the installer will not work on Mac OS and we currently do not have anyone who can make one for Mac, the Mac version of the mod automatically has ALL core and optional subs already installed. This is unavoidable for the time being, but at least makes the mod work for Mac users.***
-
-* STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
-
-* STEP 2: Click the "Download ZIP" option.
-
-* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs-0-master-release**. Click on this folder to open it.
-
-* STEP 4: Now you'll see three files in the window - Readme.md, a PBS Installer folder, and a **Mac Users or Manual Install** folder. You want to extract ONLY the **Mac Users or Manual Install** folder to wherever you can easily access it. Now double click to open the **Mac Users or Manual Install** folder, and you'll see an **override** folder.
-
-* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder into it. You should now see two folders here - **default** and **override**.
+* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder you just extracted into it. You should now see two folders here - **default** and **override**.
 
 * STEP 6: You're done. Run the game and enjoy all of the new stuff!
 
 ---
 ## Updating The Mod
 
-* To update the mod for **Windows**, simply follow the installation instructions for whichever version you're using above. The PBS Installer program will automatically uninstall the old version of the mod for you and install the latest version. **Make sure you choose the optional subs you want again, and pay close attention to the list, we may have added new options!**
-
-* To update the mod for **Mac**, follow STEPS 1 thru 4 in the **Mod Installation For Mac Users** section above, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!
-
-* To update the mod for a **Manual Installation**, navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then follow the steps for manual installation above for whichever version you want to use. DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!
+* To update the mod, follow STEPS 1 thru 4 in the installation instructions above for whichever version you want to use, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
 
 ---
 ## How To Customize The UI Toolbars

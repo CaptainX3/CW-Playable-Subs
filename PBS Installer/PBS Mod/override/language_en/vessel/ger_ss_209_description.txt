@@ -1,9 +1,0 @@
-[Unit Reference]
-ShipClass=209
-Description=[DEU] Type 209 Class SS
-History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThe Type 209 is a class of diesel-electric attack submarine developed exclusively for export by Howaldtswerke-Deutsche Werft of Germany. The original variant (Type 209/1100) was designed in the late 1960s. Despite not being operated by the German Navy, five variants of the class (209/1100, 209/1200, 209/1300, 209/1400 and 209/1500) have been successfully exported to 13 countries, with 61 submarines being built and commissioned between 1971 and 2008. Countries operating the Type 209 include Argentina, Brazil, Chile, Colombia, Ecuador, Greece, India, Indonesia, Peru, South Africa, South Korea, Turkey and Venezuela. All Type 209s remain in service except for ARA San Luis (S-32) which was stricken in 1997 after an incomplete overhaul and Glavkos S-110 decommissioned in 2011.
-
-[Player Ship Instances]
-PlayerClassNames=Salta,San Luis,Tupi,Tamoio,Timbira,Tapajó,Tikuna,Thomson,Simpson,Pijao,Tayrona,Shyri,Huancavilca,S41,S42,Glavkos,Nireus,Triton,Proteus,Poseidon,Amfitriti,Okeanos,Pontos,Shishumar,Shankush,Shalki,Shankul,Cakra,Nanggala,Chang Bogo,Lee Chun,Choi Museon,Park Wi,Lee Jongmu,Jeong Un,Lee Sunsin,Na Daeyong,Lee Eokgi,Angamos ex Casma,Antofagasta,Pisagua ex-Blume,Chipana ex-Pisagua,Islay,Arica,Manthatisi,Charlotte Maxeke,Queen Modjadji I,Atılay,Saldıray,Batıray,Yıldıray,Doğanay,Dolunay,Preveze,Sakarya,18 Mart,Anafartalar,Gür,Çanakkale,Burakreis,Birinci İnönü,Sabalo,Caribe
-
-PlayerClassHullNumbers=S-31,S-32,S-30,S-31,S-32,S-33,S-34,SS-20,SS-21,S-28,S-29,S101,S102,861,864,S-110,S-111,S-112,S-113,S-116,S-117,S-118,S-119,S44,S45,S46,S47,401,402,SS-061,SS-062,SS-063,SS-065,SS-066,SS-076,SS-068,SS-069,SS-071,SS-31,SS-32,SS-33,SS-34,SS-35,SS-36,S101,S102,S103,S-347,S-348,S-349,S-350,S-351,S-352,S-353,S-354,S-355,S-356,S-357,S-358,S-359,S-360,S-31,S-32

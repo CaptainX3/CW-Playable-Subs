@@ -9,15 +9,15 @@
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of Playable Submarines](#current-list-of-playable-submarines)
----
+
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
 * [Single Missions List Color Coding](#single-missions-list-color-coding)
----
+
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
----
+
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
 * [Info For Mod Developers](#information-for-mod-developers)

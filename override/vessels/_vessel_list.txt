@@ -35,6 +35,7 @@ rcn_ssk_victoria
 swe_ss_gotland
 plan_ssn_han
 plan_ssn_shang
+plan_ssn_sui
 plan_ss_kilo
 plan_ss_ming
 plan_ss_romeo

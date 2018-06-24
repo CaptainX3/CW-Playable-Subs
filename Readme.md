@@ -88,6 +88,7 @@
 * **China (PLAN)**
   * Han Class SSN
   * Shang Class SSN
+  * Sui Class SSN
   * Ming Class SS
   * Kilo Class SS
   * Romeo Class SS

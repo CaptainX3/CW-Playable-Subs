@@ -302,11 +302,11 @@ By default, the bottom block is the one that is active and forces the toolbars t
 ---
 ## Donations
 
-I've been asked several times if I have anything set up to receive donations for those who wish to say thank you for the mod. I don't have a donation page specifically set up for this mod, but I do have one set up for another mod I created for the 4x game Stellaris called "New Ship Clases & More". If you'd like to send a donation, follow the Paypal link below. The page will say "Donations for New Ship Classes & More", but that mod is mine also, so I'll still receive whatever you choose to send.
+I've been asked several times if I have anything set up to receive donations for those who wish to say thank you for the mod. Due to the number of requests, I have set up a Patreon page.
 
-NOTE: Donations are always appreciated but never required. The content of the mod will never change based on donations, and work on the mod will continue whether I receive donations or not.
+NOTE: Donations are always appreciated but never required. Work on the mod will continue whether I receive donations or not.
 
-Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FYRBMQMX9CMQJ
+Patreon Link: https://www.patreon.com/captainx3
 
 ---
 ---

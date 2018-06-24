@@ -23,6 +23,8 @@
 * [Donations](#donations)
 * [Info For Mod Developers](#information-for-mod-developers)
 
+
+
 ---
 ## Welcome to the New Playable Subs Mod
 
@@ -34,6 +36,8 @@
 
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
+
+
 ---
 ## Submitting Bug Reports and Suggestions
 
@@ -41,6 +45,8 @@
 * We are also open to requests for new submarines using the same Issue system. If you have a submarine you'd like to see in the mod, open up a new Issue and ask us!
 * We have created a label system to tag all issues. All issues will initially be assigned a Category label, which will have a white background (except for bug reports, which will have a red background). Once the mod developers review an issue, they'll assign a Status label to it. This label indicates the current status of the issue and if any further comments are needed.
 * Keep an eye on issues you submit, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.
+
+
 
 ---
 ## Current List of Playable Submarines
@@ -149,12 +155,15 @@
   * Jive Turkey II Class SSN
 
 
+
 ## Other Important Changes
 
 * The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
+
+
 
 ## Sonar Signature List Sorting
 
@@ -176,14 +185,19 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
   * Civilians
   * Biologics
 
+
+
 ## Single Missions List Color Coding
 
-* Single missions in the mod are color coded as follows:
-  * White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
-  * Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
-  * Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
-  * Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
-  * Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+Single missions in the mod are color coded as follows:
+
+* White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
+* Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
+* Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
+* Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+* Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+
+
 
 ---
 ## Mod Installation (Release Version)
@@ -202,6 +216,8 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
 
 ***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the new colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
 
+
+
 ---
 ## Mod Installation (Development Version)
 
@@ -219,10 +235,14 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
 
 ***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
 
+
+
 ---
 ## Updating The Mod
 
 * To update the mod, follow STEPS 1 thru 4 in the installation instructions above for whichever version you want to use, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+
+
 
 ---
 ## How To Set All Subs To Use The Default UI
@@ -241,6 +261,8 @@ The mod features different interface colors for each of the major nations repres
 * STEP 5: You're done. All subs will now use the default UI instead of the colored ones.
 
 ***IMPORTANT NOTE: This process must be done each time you update the mod with a new version.***
+
+
 
 ---
 ## How To Customize The UI Toolbars
@@ -273,6 +295,7 @@ SensorToolbarOffset=331,-340
 ```
 
 By default, the bottom block is the one that is active and forces the toolbars to appear stacked just to the right of the minimap. If you'd like to change this option to one of the other available options, then simply remove the // in front of each of the 5 code lines of your choice (DO NOT remove the // from the description text). Then, add // in front of the 5 code lines on the middle block so that you're commenting it out. Do the same thing for the other two text files, and you're done. Be aware that you'll need to do this each time the mod is updated.
+
 
 
 ---

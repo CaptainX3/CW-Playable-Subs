@@ -1,6 +1,6 @@
 Designation=SSN
 ShipType=SUBMARINE
-PlayerHUD=hud/russian
+PlayerHUD=hud/default
 
 Length=115
 Beam=12
@@ -41,8 +41,8 @@ RADARSignature=SMALL
 TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
-TorpedoTypes=plan_yu9,plan_yu6,plan_yu-5,russian_moss
-TorpedoNumbers=19,4,10,4
+TorpedoTypes=plan_yu9,plan_yu6,plan_yu-5,russian_moss_2
+TorpedoNumbers=28,0,0,5
 TorpedoTubes=9
 NumberOfWires=8
 TubeConfig=1,1,1,1,1,1,1,1,1
@@ -106,16 +106,27 @@ MeshHullCollider=usn_ssn_seawolf_coll_hull
 MeshSuperstructureCollider=usn_ssn_seawolf_coll_ss
 
 Material=ships/usn_ssn_seawolf/usn_ssn_seawolf_mat
-MaterialTextures=vessels/textures/plan_ssn_sui.png
+MaterialTextures=vessels/textures/black.png
 Mesh=usn_ssn_seawolf
 MeshPosition=0,0,-0.651
 MeshRudder=usn_ssn_seawolf_rudders
-MeshPosition=0,0.0275,0.5305
-MeshBowPlanes=usn_ssn_seawolf_bowplanes
+//MeshPosition=0,0.0275,0.5305
+//MeshBowPlanes=usn_ssn_seawolf_bowplanes
 MeshPosition=0,0.00,-0.6675
 MeshSternPlanes=usn_ssn_seawolf_sternplanes
-MeshPosition=0,0.0,-0.7498
-MeshProp=usn_ssn_seawolf_prop
+
+//Sail Planes
+ModelFile=ships/usn_ssn_los_angeles/usn_ssn_los_angeles
+MeshPosition=0,0.1300,0.3950
+MeshBowPlanes=usn_ssn_los_angeles_sailplanes
+
+//Canister
+ModelFile=ships/wp_rkr_kirov/wp_rkr_kirov
+MaterialTextures=vessels/textures/black.png
+MeshPosition=0,0.085,0.087
+MeshRotation=0,0,90
+MeshScale=2,2,2
+Mesh=wp_rkr_kirov_asw_launcher
 
 Material=ships/materials/usn_masts
 MeshPosition=-0.008,0.075,0.3765
@@ -129,6 +140,11 @@ MeshMast=usn_ssn_seawolf_esm_mast
 MeshPosition=-0,0.075,0.4302
 MastHeight=0.085
 MeshMast=usn_ssn_seawolf_radar_mast
+
+ModelFile=ships/usn_ssn_seawolf/usn_ssn_seawolf
+MaterialTextures=vessels/textures/prop1.png
+MeshPosition=0,0.0,-0.7498
+MeshProp=usn_ssn_seawolf_prop
 
 [Weapon Systems]
 //Torpedo Mounts

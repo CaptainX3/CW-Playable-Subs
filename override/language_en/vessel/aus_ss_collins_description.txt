@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Collins
+ShipClass=Collins [AUS]
 Description=[AUS] Collins Class SS
 History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Collins class of six Australian-built diesel-electric submarines is operated by the Royal Australian Navy (RAN). The Collins class takes its name from Australian Vice Admiral John Augustine Collins; all six submarines are named after significant RAN personnel who distinguished themselves in action during World War II. The boats were the first submarines to be constructed in Australia, prompting widespread improvements in Australian industry.
 

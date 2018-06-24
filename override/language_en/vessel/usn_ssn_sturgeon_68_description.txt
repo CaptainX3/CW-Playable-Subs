@@ -1,6 +1,6 @@
 [Unit Reference]
-ShipClass=Sturgeon
-Description=[USA] Sturgeon Class SSN (Early)
+ShipClass=Sturgeon (1968)
+Description=[USA] Sturgeon Class SSN (1968)
 History=Self Noise Rating: 136 db\nEscape Depth: 600 ft\n\nIn service since 1967, this class formed the backbone of US attack submarines during the cold war until the mid-80's. Stealthy, manueverable and with an excellent sonar suite, these boats can match up to any but the very latest Soviet boats. Their only drawback is their comparatively low speed.
 
 [Player Ship Instances]

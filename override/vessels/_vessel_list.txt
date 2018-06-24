@@ -75,7 +75,7 @@ wp_ssgn_charlie2
 wp_ssgn_echo2
 wp_ssg_juliet
 wp_ssgn_oscar
-rus_ssgn_papa
+wp_ssgn_papa
 wp_ssgn_yasen
 usn_cg_belknap
 usn_ff_knox

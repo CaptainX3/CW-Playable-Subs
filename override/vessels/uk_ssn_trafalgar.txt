@@ -1,6 +1,6 @@
 Designation=SSN
 ShipType=SUBMARINE
-PlayerHUD=hud/uk
+PlayerHUD=hud/default
 
 Length=85.4
 Beam=9.8
@@ -41,7 +41,7 @@ RADARSignature=SMALL
 TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
-TorpedoTypes=uk_sf,uk_tf,usn_ugm84,usn_tlam,usn_moss
+TorpedoTypes=uk_sf,uk_tf,usn_ugm84,usn_tlam,usn_moss_2
 TorpedoNumbers=12,6,4,8,4
 TorpedoTubes=5
 NumberOfWires=5

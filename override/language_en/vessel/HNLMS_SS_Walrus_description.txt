@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Walrus
+ShipClass=Walrus [NLD]
 Description=[NLD] Walrus Class SS
 History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Walrus Class submarine replaced the Zwaardvis class submarines in the Royal Dutch Navy. 
 

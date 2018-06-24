@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Romeo
+ShipClass=Romeo [DPRK]
 Description=[DPRK] Romeo Class SS
 History=Self Noise Rating: 135 db\nEscape Depth: 400 ft\n\nThis is the North Korean version of the Type 033.
 

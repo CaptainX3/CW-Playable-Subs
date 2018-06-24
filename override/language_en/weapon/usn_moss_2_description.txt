@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Advanced MOSS
+WeaponDescriptiveName=Advanced UUV Mobile Submarine Simulator (MOSS)
+WeaponDescription=The Advanced UUV MOSS is a modern version of the original Mk70 MOSS passive decoy. This version is fully wire guided and can be maneuvered like a normal torpedo, and has a significantly longer range than the original.

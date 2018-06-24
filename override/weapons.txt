@@ -398,6 +398,50 @@ AudioLoop=TRUE
 [/Model]
 
 
+WeaponObjectReference=usn_moss_2
+WeaponSprite=weapons/sprites/usn_moss_sprite
+WeaponType=DECOY
+Warhead=0
+SurfaceLaunched=FALSE
+SwimOut=TRUE
+WireGuided=TRUE
+WireBreakOnLaunchProbability=0.05
+WireBreakSpeedThreshold=15
+RangeInYards=40000
+RunSpeed=35
+ActiveRunSpeed=35
+TurnRate=15
+SensorAngles=0,0
+SensorRange=0
+WeaponNoiseValues=180,200
+MaxPitchAngle=15
+HomeSettings=FALSE
+AttackSettings=STRAIGHT,LEFT,RIGHT
+DepthSettings=LEVEL,SHALLOW,DEEP
+MinCameraDistance=0.5
+ResupplyTime=15
+[Model]
+ModelFile=weapons/assets/usn_moss
+Material=weapons/assets/usn_moss_mat
+MaterialTextures=weapons/assets/usn_moss_tx
+MeshPosition=0,0,0
+MeshWeapon=MOSS
+MeshPosition=0,0,0
+MeshWeaponPropRotation=700
+MeshWeaponProp=MOSS_propl
+MeshPosition=0,0,0
+MeshWeaponPropRotation=-700
+MeshWeaponProp=MOSS_propr
+MeshPosition=0,0,-0.0259
+CavitationParticle=weapons/assets/torpedo_cavitation_particle
+
+AudioSource=TorpedoEngine
+AudioClip=audio/weapons/torpedo_in_water_loop
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1
+AudioLoop=TRUE
+[/Model]
 
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1145,8 +1189,8 @@ MaxLaunchDepth=200
 WireGuided=FALSE
 RangeInYards=2000000
 RunSpeed=40
-CruiseAltitude=7.5
-ActiveRunSpeed=1500
+CruiseAltitude=200
+ActiveRunSpeed=500
 TurnRate=30
 SensorAngles=60,15
 SensorRange=30000
@@ -1876,7 +1920,50 @@ AudioLoop=TRUE
 [/Model]
 
 
+WeaponObjectReference=russian_moss_2
+WeaponSprite=weapons/sprites/usn_moss_sprite
+WeaponType=DECOY
+Warhead=0
+SurfaceLaunched=FALSE
+SwimOut=TRUE
+WireGuided=TRUE
+WireBreakOnLaunchProbability=0.05
+WireBreakSpeedThreshold=15
+RangeInYards=40000
+RunSpeed=35
+ActiveRunSpeed=35
+TurnRate=15
+SensorAngles=0,0
+SensorRange=0
+WeaponNoiseValues=180,200
+MaxPitchAngle=15
+HomeSettings=FALSE
+AttackSettings=STRAIGHT,LEFT,RIGHT
+DepthSettings=LEVEL,SHALLOW,DEEP
+MinCameraDistance=0.5
+ResupplyTime=15
+[Model]
+ModelFile=weapons/assets/usn_moss
+Material=weapons/assets/usn_moss_mat
+MaterialTextures=weapons/assets/usn_moss_tx
+MeshPosition=0,0,0
+MeshWeapon=MOSS
+MeshPosition=0,0,0
+MeshWeaponPropRotation=700
+MeshWeaponProp=MOSS_propl
+MeshPosition=0,0,0
+MeshWeaponPropRotation=-700
+MeshWeaponProp=MOSS_propr
+MeshPosition=0,0,-0.0259
+CavitationParticle=weapons/assets/torpedo_cavitation_particle
 
+AudioSource=TorpedoEngine
+AudioClip=audio/weapons/torpedo_in_water_loop
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1
+AudioLoop=TRUE
+[/Model]
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // - RUSSIA MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------

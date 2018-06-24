@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Advanced MG-90
+WeaponDescriptiveName=Advanced UUV MG-90
+WeaponDescription=The Advanced UUV MG-90 is a modern version of the original MG-74 passive decoy. This version is fully wire guided and can be maneuvered like a normal torpedo, and has a significantly longer range than the original.

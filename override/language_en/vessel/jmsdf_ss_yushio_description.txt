@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Yushio
+ShipClass=Yushio [JPN]
 Description=[JPN] Yushio Class SS
 History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThe Yushio is a Japanese diesel-electric submarine class operated by the JMSDF. It is a second generation submarine, a development of the Uzushio Class which first incorporated the US 'Albacore' style teardrop hull with its substantial increase in underwater performance over its predicessors. The Yuhsio also incorporated further advances such as flank torpedo tubes to allow a larger bow sonar. Ten were built under the fourth defense plan in 1975 fiscal year. US Harpoon anti-ship missles were added along with other improvments starting with the 5th boat. After 1989 it made use of the new Type 59 torpedo, which is similar in capabilities to the US Mark 48 ADCAP.
 

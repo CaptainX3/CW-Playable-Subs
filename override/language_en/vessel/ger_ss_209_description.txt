@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=209
+ShipClass=Type 209 [DEU]
 Description=[DEU] Type 209 Class SS
 History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThe Type 209 is a class of diesel-electric attack submarine developed exclusively for export by Howaldtswerke-Deutsche Werft of Germany. The original variant (Type 209/1100) was designed in the late 1960s. Despite not being operated by the German Navy, five variants of the class (209/1100, 209/1200, 209/1300, 209/1400 and 209/1500) have been successfully exported to 13 countries, with 61 submarines being built and commissioned between 1971 and 2008. Countries operating the Type 209 include Argentina, Brazil, Chile, Colombia, Ecuador, Greece, India, Indonesia, Peru, South Africa, South Korea, Turkey and Venezuela. All Type 209s remain in service except for ARA San Luis (S-32) which was stricken in 1997 after an incomplete overhaul and Glavkos S-110 decommissioned in 2011.
 

@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Vanguard
+ShipClass=Vanguard [UK]
 Description=[UK] Vanguard Class SSBN
 History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nThe Vanguard class is a class of nuclear-powered ballistic missile submarines (SSBNs) in service with the Royal Navy. The class was introduced in 1994 as part of the Trident nuclear programme, and includes four boats. They were built between 1986 and 1999 at Barrow-in-Furness by Vickers Shipbuilding and Engineering, which is now owned by BAE Systems. All four boats are based at HM Naval Base Clyde (HMS Neptune), 40 km (25 mi) west of Glasgow, Scotland. The class is scheduled to be replaced starting 2028,[5] though its replacement would not enter service until early 2030s.
 

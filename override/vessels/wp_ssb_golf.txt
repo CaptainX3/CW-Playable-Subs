@@ -1,6 +1,6 @@
 Designation=SSB
 ShipType=SUBMARINE
-PlayerHUD=hud/russian
+PlayerHUD=hud/default
 
 Length=98.4
 Beam=8.2

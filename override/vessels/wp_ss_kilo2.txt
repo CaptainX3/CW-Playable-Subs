@@ -1,6 +1,6 @@
 Designation=SS
 ShipType=SUBMARINE
-PlayerHUD=hud/russian
+PlayerHUD=hud/default
 
 Length=74
 Beam=9.9
@@ -42,7 +42,7 @@ RADARSignature=SMALL
 TowedArrayPosition=0.093,-0.0030,-0.675
 
 [Weapon Systems]
-TorpedoTypes=wp_ugst,russian_moss,wp_ss-n-16,wp_p700,wp_p500
+TorpedoTypes=wp_ugst,russian_moss_2,wp_ss-n-16,wp_p700,wp_p500
 TorpedoNumbers=22,4,4,0,0
 TorpedoTubes=6
 NumberOfWires=6

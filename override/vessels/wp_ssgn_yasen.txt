@@ -1,6 +1,6 @@
 Designation=SSGN
 ShipType=SUBMARINE
-PlayerHUD=hud/russian
+PlayerHUD=hud/default
 
 Length=139.5
 Beam=13.6
@@ -40,7 +40,7 @@ RADAR=wp_snoop_pair
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=wp_ugst,russian_moss,wp_s10,wp_ss-n-16
+TorpedoTypes=wp_ugst,russian_moss_2,wp_s10,wp_ss-n-16
 TorpedoNumbers=27,5,0,0
 TorpedoTubes=11
 NumberOfWires=10

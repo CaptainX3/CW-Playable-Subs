@@ -5,7 +5,7 @@
 
 ---
 # TABLE OF CONTENTS
----
+
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of Playable Submarines](#current-list-of-playable-submarines)
@@ -21,7 +21,6 @@
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
----
 * [Info For Mod Developers](#information-for-mod-developers)
 
 ---

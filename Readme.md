@@ -9,14 +9,19 @@
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of Playable Submarines](#current-list-of-playable-submarines)
+  
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
 * [Single Missions List Color Coding](#single-missions-list-color-coding)
+  
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
+  
+* [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
+  
 * [Info For Mod Developers](#information-for-mod-developers)
 
 ---
@@ -190,11 +195,13 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
+* STEP 4: Now you'll see three files in the window - Readme.md, a Default UI folder, and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
 
 * STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder you just extracted into it. You should now see two folders here - **default** and **override**.
 
 * STEP 6: You're done. Run the game and enjoy all of the new stuff!
+
+***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the new colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
 
 ---
 ## Mod Installation (Development Version)
@@ -205,16 +212,35 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
 
 * STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
 
-* STEP 4: Now you'll see two files in the window - Readme.md and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
+* STEP 4: Now you'll see three files in the window - Readme.md, a Default UI folder, and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
 
 * STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder you just extracted into it. You should now see two folders here - **default** and **override**.
 
 * STEP 6: You're done. Run the game and enjoy all of the new stuff!
 
+***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
+
 ---
 ## Updating The Mod
 
 * To update the mod, follow STEPS 1 thru 4 in the installation instructions above for whichever version you want to use, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+
+---
+## How To Set All Subs To Use The Default UI
+
+The mod features different interface colors for each of the major nations represented: the default UI is used for most NATO/Blue subs, a blue UI is used for UK subs, and a red UI is used for the Russian/Red subs. For those of you who would like to use the default UI color on all playable subs instead of the colored ones, follow the steps below:
+
+* STEP 1: Install whichever version of the mod you prefer.
+
+* STEP 2: Open the ZIP file you downloaded from this page. Extract the **Default UI** folder to wherever you can easily access it.
+
+* STEP 3: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
+
+* STEP 4: Open the **Default UI** folder and you'll see a list of all of the sub files that were using one of the colored UIs. Click and drag this entire list of files into the **override\vessels** directory you opened in the last step. Say yes to overwrite all of the files.
+
+* STEP 5: You're done. All subs will now use the default UI instead of the colored ones.
+
+***SPECIAL NOTE: This process must be done each time you update the mod with a new version.***
 
 ---
 ## How To Customize The UI Toolbars

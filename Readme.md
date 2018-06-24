@@ -5,23 +5,23 @@
 
 ---
 # TABLE OF CONTENTS
-
+---
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of Playable Submarines](#current-list-of-playable-submarines)
-  
+---
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
 * [Single Missions List Color Coding](#single-missions-list-color-coding)
-  
+---
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
-  
+---
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 * [Donations](#donations)
-  
+---
 * [Info For Mod Developers](#information-for-mod-developers)
 
 ---
@@ -234,7 +234,8 @@ The mod features different interface colors for each of the major nations repres
 
 * STEP 2: Open the ZIP file you downloaded from this page. Extract the **Default UI** folder to wherever you can easily access it.
 
-* STEP 3: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
+* STEP 3: Open this directory:
+**Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
 
 * STEP 4: Open the **Default UI** folder and you'll see a list of all of the sub files that were using one of the colored UIs. Click and drag this entire list of files into the **override\vessels** directory you opened in the last step. Say yes to overwrite all of the files.
 

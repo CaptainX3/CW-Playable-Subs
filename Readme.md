@@ -20,7 +20,7 @@
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 ---
-* [Donations](#donations)
+* [Donations - Patreon](#donations)
 * [Info For Mod Developers](#information-for-mod-developers)
 
 

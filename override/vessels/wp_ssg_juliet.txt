@@ -1,6 +1,6 @@
 Designation=SSG
 ShipType=SUBMARINE
-PlayerHUD=hud/default
+PlayerHUD=hud/russian
 
 Length=90
 Beam=10

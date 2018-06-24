@@ -231,16 +231,16 @@ The mod features different interface colors for each of the major nations repres
 
 * STEP 1: Install whichever version of the mod you prefer.
 
-* STEP 2: Open the ZIP file you downloaded from this page. Extract the **Default UI** folder to wherever you can easily access it.
-
-* STEP 3: Open this directory:
+* STEP 2: Open this directory in a separate window:
   * **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
 
-* STEP 4: Open the **Default UI** folder and you'll see a list of all of the sub files that were using one of the colored UIs. Click and drag this entire list of files into the **override\vessels** directory you opened in the last step. Say yes to overwrite all of the files.
+* STEP 3: Open the ZIP file you downloaded from this page. Extract the **Default UI** folder to wherever you can easily access it.
+
+* STEP 4: Open the **Default UI** folder you just extracted and you'll see a list of all of the sub files that were using one of the colored UIs. Click and drag this entire list of files into the **override\vessels** directory you opened in Step 2. Say yes to overwrite all of the files.
 
 * STEP 5: You're done. All subs will now use the default UI instead of the colored ones.
 
-***SPECIAL NOTE: This process must be done each time you update the mod with a new version.***
+***IMPORTANT NOTE: This process must be done each time you update the mod with a new version.***
 
 ---
 ## How To Customize The UI Toolbars

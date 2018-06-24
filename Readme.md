@@ -234,7 +234,7 @@ The mod features different interface colors for each of the major nations repres
 * STEP 2: Open the ZIP file you downloaded from this page. Extract the **Default UI** folder to wherever you can easily access it.
 
 * STEP 3: Open this directory:
-**Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
+  * **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override\vessels**
 
 * STEP 4: Open the **Default UI** folder and you'll see a list of all of the sub files that were using one of the colored UIs. Click and drag this entire list of files into the **override\vessels** directory you opened in the last step. Say yes to overwrite all of the files.
 

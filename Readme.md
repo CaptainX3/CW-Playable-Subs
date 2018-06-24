@@ -9,17 +9,17 @@
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
 * [Current List of Playable Submarines](#current-list-of-playable-submarines)
----
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
-* [Sonar Signature List Sorting](#sonar-signature-list-sorting)
-* [Single Missions List Color Coding](#single-missions-list-color-coding)
 ---
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
 * [**Updating the Mod**](#updating-the-mod)
 ---
+* [Sonar Signature List Sorting](#sonar-signature-list-sorting)
+* [Single Missions List Color Coding](#single-missions-list-color-coding)
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
+---
 * [Donations](#donations)
 * [Info For Mod Developers](#information-for-mod-developers)
 
@@ -155,47 +155,13 @@
   * Jive Turkey II Class SSN
 
 
-
+---
 ## Other Important Changes
 
 * The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
-
-
-
-## Sonar Signature List Sorting
-
-Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the vanilla campaign signature libraries have been left as they were, since none of the new subs in this mod will appear in the campaigns. For single missions and modded campaigns, the signature list is sorted as follows:
-
-* **Scrolling Right:**
-  * Biologics
-  * Civilians
-  * NATO Subs
-  * NATO Ships
-  * Russian/Red Ships
-  * Russian/Red Subs
-
-* **Scrolling Left:**
-  * Russian/Red Subs
-  * Russian/Red Ships
-  * NATO Ships
-  * NATO Subs
-  * Civilians
-  * Biologics
-
-
-
-## Single Missions List Color Coding
-
-Single missions in the mod are color coded as follows:
-
-* White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
-* Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
-* Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
-* Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
-* Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
 
 
 
@@ -241,6 +207,41 @@ Single missions in the mod are color coded as follows:
 ## Updating The Mod
 
 * To update the mod, follow STEPS 1 thru 4 in the installation instructions above for whichever version you want to use, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+
+
+
+---
+## Sonar Signature List Sorting
+
+Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the vanilla campaign signature libraries have been left as they were, since none of the new subs in this mod will appear in the campaigns. For single missions and modded campaigns, the signature list is sorted as follows:
+
+* **Scrolling Right:**
+  * Biologics
+  * Civilians
+  * NATO Subs
+  * NATO Ships
+  * Russian/Red Ships
+  * Russian/Red Subs
+
+* **Scrolling Left:**
+  * Russian/Red Subs
+  * Russian/Red Ships
+  * NATO Ships
+  * NATO Subs
+  * Civilians
+  * Biologics
+
+
+---
+## Single Missions List Color Coding
+
+Single missions in the mod are color coded as follows:
+
+* White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
+* Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
+* Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
+* Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+* Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
 
 
 

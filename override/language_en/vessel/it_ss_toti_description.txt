@@ -3,5 +3,5 @@ ShipClass=Toti [ITA]
 Description=[ITA] Toti-Class SSK (1968 Era)
 History=Self Noise Rating: 140 db\nEscape Depth: 450 ft\n\nThe Toti-class were submarines built for the Italian Navy in the 1960s. They were the first submarines designed and built in Italy since World War II. These boats were small and designed as "hunter killer" anti-submarine submarines. They are comparable to the German Type 205 submarines and the French Arethuse class submarines.
 [Player Ship Instances]
-PlayerClassNames=Attilio Bagnolini,Enrico Toti,Enrico Dandolo,Lazzaro Mocenigo
+PlayerClassNames=ITS Attilio Bagnolini,ITS Enrico Toti,ITS Enrico Dandolo,ITS Lazzaro Mocenigo
 PlayerClassHullNumbers=S505,S506,S513,S514

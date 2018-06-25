@@ -5,4 +5,4 @@ History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Collins class of 
 
 [Player Ship Instances]
 PlayerClassNames=HMAS Collins,HMAS Farncomb,HMAS Walle,HMAS Dechaineux,HMAS Sheean,HMAS Rankin
-PlayerClassHullNumbers=SSG 73, SSG 74, SSG 75, SSG 76, SSG 77, SSG 78
+PlayerClassHullNumbers=SSG 73,SSG 74,SSG 75,SSG 76,SSG 77,SSG 78

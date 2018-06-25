@@ -6,4 +6,4 @@ History=Self Noise Rating: 118 db\nEscape Depth: 600 ft\n\nThe Upholder class su
 [Player Ship Instances]
 PlayerClassNames=HMS Upholder,HMS Unseen,HMS Ursula,HMS Unicorn
 
-PlayerClassHullNumbers=S40, S41, S42, S43
+PlayerClassHullNumbers=S40,S41,S42,S43

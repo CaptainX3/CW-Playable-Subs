@@ -6,5 +6,5 @@ History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 109 db\nEscape Depth: 600 
 [Player Ship Instances]
 PlayerClassNames=Stingray,Barracuda,Spearfish
 
-PlayerClassHullNumbers=SSN-300,SSN-301,SSN-302,SSN-303,SSN-304
+PlayerClassHullNumbers=SS-300,SS-301,SS-302
 

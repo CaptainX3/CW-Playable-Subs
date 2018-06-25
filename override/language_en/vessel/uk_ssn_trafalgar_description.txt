@@ -6,4 +6,4 @@ History=Self Noise Rating: 123 db\nEscape Depth: 600 ft\n\nThe Trafalgar class w
 [Player Ship Instances]
 PlayerClassNames=HMS Trafalgar,HMS Turbulent,HMS Tireless,HMS Torbay,HMS Trenchant,HMS Talent,HMS Triumph
 
-PlayerClassHullNumbers=S107, S87, S88, S90, S91, S92, S93
+PlayerClassHullNumbers=S107,S87,S88,S90,S91,S92,S93

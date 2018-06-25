@@ -5,4 +5,4 @@ History=Self Noise Rating: 142 db\nTest Depth: 650 ft\nEscape Depth: 450 ft\n\nT
 
 [Player Ship Instances]
 PlayerClassNames=HMAS Oxley,HMAS Otway,HMAS Ovens,HMAS Onslow,HMAS Otama,HMAS Orion
-PlayerClassHullNumbers=S57, S59, S70, S60, S62, S61
+PlayerClassHullNumbers=S57,S59,S70,S60,S62,S61

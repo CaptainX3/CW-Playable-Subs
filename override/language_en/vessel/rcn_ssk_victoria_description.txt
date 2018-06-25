@@ -6,4 +6,4 @@ History=Self Noise Rating: 118 db\nEscape Depth: 600 ft\n\nThe Victoria class su
 [Player Ship Instances]
 PlayerClassNames=HMCS Victoria,HMCS Widsor,HMCS Corner Brook,HMCS Chicoutmi
 
-PlayerClassHullNumbers=SSK 876, SSK 877, SSK 878, SSK 879
+PlayerClassHullNumbers=SSK 876,SSK 877,SSK 878,SSK 879

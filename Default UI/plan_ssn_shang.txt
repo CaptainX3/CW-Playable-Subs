@@ -43,11 +43,16 @@ TowedArrayPosition=-0.099,0.028,-0.619
 [Weapon Systems]
 TorpedoTypes=plan_yu9,plan_yu6,plan_yu-5,russian_moss_2
 TorpedoNumbers=20,0,0,5
-TorpedoTubes=6
+TorpedoTubes=7
 NumberOfWires=6
-TubeConfig=1,1,1,1,1,1
+TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
+
+VLSTorpedoTypes=plan_yj18a,plan_yj18b
+VLSTorpedoNumbers=6,6
+VLSMaxDepthToFire=150
+VLSMaxSpeedToFire=10
 
 NoisemakerName=usn_noisemaker
 NumberOfNoisemakers=20
@@ -167,6 +172,12 @@ MeshPosition=0.0253,0.0113,0.65
 MeshRotation=0,0,0
 TorpedoSpawnPosition=0,0,0
 TorpedoEffectPosition=0,0,0
+
+//VLS Launch Position
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.0785,0.0816
+TorpedoEffectPosition=0,0.0785,0.0816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

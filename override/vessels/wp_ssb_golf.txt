@@ -177,6 +177,9 @@ MeshRotation=0,0,0
 MeshPosition=0,-0.056,-0.533
 MeshNoisemakerMount=FALSE
 
+MeshPosition=0,0,0
+ModelFile=ships/wp_ssb_golf/wp_ssb_golf
+
 //Wake
 MeshPosition=0,0,0
 BowWaveParticle=ships/particles/bowwave_small

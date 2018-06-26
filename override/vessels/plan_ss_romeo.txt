@@ -180,6 +180,9 @@ MeshRotation=0,0,0
 MeshPosition=0,-0.056,-0.533
 MeshNoisemakerMount=FALSE
 
+MeshPosition=0,0,0
+ModelFile=ships/plan_ss_romeo/plan_ss_romeo
+
 //Wake
 MeshPosition=0,0,0
 BowWaveParticle=ships/particles/bowwave_small

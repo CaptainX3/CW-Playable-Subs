@@ -421,7 +421,7 @@ MeshNoisemakerMount=FALSE
 
 
 MeshPosition=0,0,0
-ModelFile=ships/wp_ssbn_delta4/wp_ssbn_delta4
+ModelFile=ships/wp_ssbn_yankee/wp_ssbn_yankee
 
 
 //Wake

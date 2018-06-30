@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact wolfpack 4
+Photo=campaign/images/photos/ClintonPutin.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>RUSSIAN GOVERNMENT ALLIES WITH NATO</b>
+Color=57,61,73,255
+Sentence1=The Russian government has issued an official statement that they have no hostile intentions towards NATO and that the sale of ships, submarines, and ground units to China was not authorized through government channels. The US government has stated that they are working closely with Russian officials to track down and stop this rogue group, but are "unable to provide details into ongoing operations."
+Color=218,218,208,255
+Sentence2=As a show of good faith, Russia has temporarily transferred several of their submarines directly to NATO command to assist in hunting down and destroying the illegally obtained units. These submarines are expected to be deployed into the theater of operations within the next few days.

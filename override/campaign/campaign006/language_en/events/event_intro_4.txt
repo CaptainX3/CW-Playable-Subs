@@ -1,0 +1,14 @@
+NextAction=event_intro_5
+Image=campaign/images/88 soviet factory
+Photo=campaign/images/photos/RussianNavalBase.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ROGUE RUSSIANS</b>
+Color=57,61,73,255
+Sentence1=Despite their goverment's refusal to sell fully completed military units to the PRC, rogue elements in the Russian Navy have ignored this policy and have privately initiated contact with the Chinese government.
+Color=218,218,208,255
+Sentence2=Sources inside the Russian government say that it is feared that these rogue elements, who have yet to be identified, may be supplying the PRC with surface ships, submarines, and possibly ground invasion forces. Some believe it is possible that some advanced units may also be "rented out" to China, complete with experienced Russian crews.

@@ -1,6 +1,6 @@
-North Atlantic 1984
-North Atlantic 1968
-South China Sea 2000
-Red Storm Rising (Free Roam) 2000
-South China Sea (Free Roam) 2000
-South China Sea (Russian) 2000
+<color=Cyan>North Atlantic 1984 (NATO)</color>
+<color=Cyan>North Atlantic 1968 (NATO)</color>
+<color=Cyan>South China Sea 2000 (NATO)</color>
+<color=Green>Red Storm Rising (Free Roam) 2000</color>
+<color=Green>South China Sea (Free Roam) 2000</color>
+<color=Red>South China Sea (Russia) 2000</color>

@@ -41,3 +41,4 @@ Cancel=Cancel
 Accept=Accept
 GroupName=Group
 To=to
+ShipPreviewName=Click Ship Name for Preview

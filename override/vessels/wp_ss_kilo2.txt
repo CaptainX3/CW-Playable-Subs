@@ -42,8 +42,8 @@ RADARSignature=SMALL
 TowedArrayPosition=0.093,-0.0030,-0.675
 
 [Weapon Systems]
-TorpedoTypes=wp_ugst,russian_moss_2,wp_ss-n-16,wp_p700,wp_p500
-TorpedoNumbers=22,4,4,0,0
+TorpedoTypes=wp_ugst,russian_moss_2,wp_ss-n-16,wp_kalibr_3m54,wp_kalibr_3m14
+TorpedoNumbers=22,4,0,6,8
 TorpedoTubes=6
 NumberOfWires=6
 TubeConfig=1,1,1,1,1,1

@@ -25,7 +25,7 @@ BallastRate=0.25
 Waterline=0.04
 SubmergedAt=0.136
 CavitationParameters=15,-155
-PropRotationSpeed=-190,-190
+PropRotationSpeed=-190
 TestDepth=1600
 EscapeDepth=600
 

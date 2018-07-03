@@ -41,8 +41,8 @@ RADAR=wp_snoop_tray
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=wp_uset-80,russian_moss,wp_s10,wp_ss-n-16,wp_test-71,wp_53-65M
-TorpedoNumbers=14,4,4,0,0,0
+TorpedoTypes=wp_uset-80,russian_moss,wp_ss-n-16,wp_53-65M,wp_kalibr_3m54,wp_kalibr_3m14
+TorpedoNumbers=16,4,0,0,6,8
 TorpedoTubes=6
 NumberOfWires=4
 TubeConfig=1,1,1,1,1,1

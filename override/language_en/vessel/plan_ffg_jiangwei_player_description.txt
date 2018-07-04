@@ -1,0 +1,12 @@
+[Unit Reference]
+ShipClass=Jiangwei
+Description=[Playable] Jiangwei Class Guided Missile Frigate
+DefensiveWeapons=37mm AA Guns
+OffensiveWeapons=Type 83 ASW Rockets
+Aircraft=1 Z-9 Dauphin Helicopter
+History=<b>SPECIAL NOTE: Because the game is not designed for playable surface ships, some adjustments were made to this ship's stats to make gameplay more fun and to allow longer survivability in combat. These stats are not realistic, but are required to make the ship playable. This unit is still under testing, please report any issues in the mod Discord channel, on Steam, or on Subsim.</b>\n\nThe Jiangwei is a much more capable follow-on design to the earlier Jianghu frigate, featuring a 6-cell SAM launcher on the foredeck, along with improved radar-controlled 37mm guns that offer anti-missile capability. The missile battery is larger, featuring six box launchers in two groups of three, which carry the YJ-83 anti-ship missile or CY-1 anti-submarine missile. Additional ASW weaponry comprise extended-range ASW mortars, and launchers for ASW torpedoes. A hangar and helipad provide these ships with ASW helicopter capability. Along with the larger Luhu destroyer, these ships make up the 'high end' of the PLAN's high/low mix.
+
+[Player Ship Instances]
+PlayerClassNames=Anqing,Huainan,Huaibei,Tongling
+
+PlayerClassHullNumbers=539,540,541,542

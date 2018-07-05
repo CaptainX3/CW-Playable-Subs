@@ -1,8 +1,3 @@
-## IMPORTANT NOTICE - MOD INSTALLER RETIRED
-
-**The PBS mod installer, while an awesome idea by its creator, has been discovered to cause significant user confusion and issues with developers mixing up different sets of files. Since the list of optional submarines was very short, and since we're not going to be adding huge numbers of new subs, we have decided to retire the mod installer program and instead go back to standard manual installation with all playable subs automatically included, as we did before the SCS expansion. The list of playable submarines on this page has been updated to include all subs currently in the mod.**
-
-
 ---
 # TABLE OF CONTENTS
 

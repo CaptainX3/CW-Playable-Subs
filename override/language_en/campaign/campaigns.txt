@@ -3,4 +3,4 @@
 <color=Cyan>South China Sea 2000 (NATO)</color>
 <color=Green>Red Storm Rising (Free Roam) 2000</color>
 <color=Green>South China Sea (Free Roam) 2000</color>
-<color=Red>South China Sea (RUS) 2000</color>
+<color=Red>South China Sea (Russia) 2000</color>

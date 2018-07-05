@@ -11,8 +11,7 @@
 * [**Updating the Mod**](#updating-the-mod)
 ---
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
-* [Single Missions List Color Coding](#single-missions-list-color-coding)
-* [Campaign List Color Coding](#campaign-list-color-coding)
+* [Single Missions & Campaigns Color Coding](#single-missions-list-color-coding)
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 ---

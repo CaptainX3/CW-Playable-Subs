@@ -1,0 +1,13 @@
+[Unit Reference]
+ShipClass=Hotel
+Description=[RUS] Hotel Class SSBN
+History=Self Noise Rating: 158 db\nEscape Depth: 600 ft\n\nThe Hotel class is a type of nuclear-powered ballistic missile submarine that was originally put into service by the Soviet Union around 1959. The Soviet designation was Project 658. The Hotel design was based on the Project 627 November-class submarine,[1] the first Soviet nuclear submarines. They were modified by adding the missile compartment from the Golf-class submarines. Additionally, the Hotels had small horizontal hydroplanes for better maneuverability, and more reliable electro-hydraulic command control surfaces for high-speed underwater operations with reduced noise. The D-2 launch system on the Hotels placed three R-13 missiles in vertical containers directly behind the sail. The submarine had to be surfaced to launch, but all three missiles could be fired within 12 minutes of surfacing.
+
+[Player Ship Instances]
+PlayerClassNames=K-19,K-33,K-55,K-40,K-16,K-145,K-149,K-178
+
+PlayerClassHullNumbers=19,33,55,40,16,145,149,178
+
+
+
+

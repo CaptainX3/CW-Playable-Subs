@@ -1,0 +1,42 @@
+//Revenge Is A Dish... (PLAN)
+
+UseTerrain=TRUE
+MapCoordinates=1714,895
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=05 Jan 1970
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=FALSE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=DEFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=usn_ssn_los_angeles|usn_ssn_los_angeles_flt2|usn_ssn_los_angeles_flt3|usn_ssn_narwhal|usn_ssn_permit|usn_ssn_seawolf|usn_ssn_skipjack|usn_ssn_sturgeon|usn_ssn_virginia|usn_ssn_virginia_imp|usn_ss_stingray|uk_ssn_astute|uk_ssn_trafalgar|uk_ss_upholder|jmsdf_ss_oyashio|jmsdf_ss_yushio|aus_ss_collins|aus_ss_oberon|fra_ssn_rubis|fra_ssbn_redoubtable|ger_ss_209|ger_ssn_212a|HNLMS_SS_Walrus|it_ss_sauro_iv|it_ss_toti|rcn_ssk_victoria|swe_ss_gotland
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=20,4
+PlayerHeading=90
+PlayerDepthInFeet=0
+
+//Group1 Waypoints.
+EnemyWaypoints=-16,120|140,36|56,-128|-112,-28|-16,116
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=plan_ffg_jiangwei_player

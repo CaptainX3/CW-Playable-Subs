@@ -5,7 +5,7 @@ PlayerHUD=hud/surface
 Length=112
 Beam=12.4
 HullHeight=0.1
-Displacement=12250
+Displacement=120000
 Crew=168
 Range=5000
 HullNumbers=plan_539,plan_540,plan_541,plan_542
@@ -27,28 +27,29 @@ Waterline=0
 SubmergedAt=0
 CavitationParameters=20,-100
 PropRotationSpeed=375,-375
-TestDepth=20
+TestDepth=100
 
 [Acoustics & Sensors]
-SelfNoise=195
+SelfNoise=120
 ActiveSonarReflection=25
-ActiveSonarModel=plan_sjd_7
-PassiveSonarModel=plan_sjd_7
-TowedArrayModel=FALSE
+ActiveSonarModel=usn_sqs_26_special
+PassiveSonarModel=usn_sqs_26_special
+TowedArrayModel=usn_sqr_18_special
 AnechoicCoating=FALSE
 RADAR=plan_type_360
 RADARSignature=MEDIUM
 
 [Weapon Systems]
-TorpedoTypes=plan_yu-7
-TorpedoNumbers=30
+TorpedoTypes=plan_yu9,russian_moss_2
+TorpedoNumbers=30,30
 TorpedoTubes=7
+NumberOfWires=6
 TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=20
 
-VLSTorpedoTypes=plan_cy-1
-VLSTorpedoNumbers=20
+VLSTorpedoTypes=plan_yj18a,plan_yj18b
+VLSTorpedoNumbers=30,30
 VLSMaxDepthToFire=300
 VLSMaxSpeedToFire=40
 
@@ -57,7 +58,7 @@ ChaffType=wp_chaff
 ChaffProbability=0.12
 NumberChaffLaunched=2
 NoisemakerName=wp_noisemaker
-NumberOfNoisemakers=50
+NumberOfNoisemakers=150
 NoisemakerReloadTime=5
 
 [Subsystems]

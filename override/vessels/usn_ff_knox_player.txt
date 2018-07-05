@@ -5,7 +5,7 @@ PlayerHUD=hud/surface
 Length=134
 Beam=14.25
 HullHeight=0.12
-Displacement=14260
+Displacement=120000
 Crew=257
 Range=5000
 HullNumbers=usn_1052,usn_1053,usn_1054,usn_1055,usn_1056,usn_1057,usn_1058,usn_1059,usn_1060
@@ -27,28 +27,29 @@ Waterline=0
 SubmergedAt=0
 CavitationParameters=20,-100
 PropRotationSpeed=-150
-TestDepth=20
+TestDepth=100
 
 [Acoustics & Sensors]
-SelfNoise=165
+SelfNoise=120
 ActiveSonarReflection=25
-ActiveSonarModel=usn_sqs_26
-PassiveSonarModel=usn_sqs_26
-TowedArrayModel=usn_sqr_18
+ActiveSonarModel=usn_sqs_26_special
+PassiveSonarModel=usn_sqs_26_special
+TowedArrayModel=usn_sqr_18_special
 AnechoicCoating=FALSE
 RADAR=usn_sps_67
 RADARSignature=MEDIUM
 
 [Weapon Systems]
-TorpedoTypes=usn_mk46
-TorpedoNumbers=18
-TorpedoTubes=5
-TubeConfig=1,1,1,1,1
+TorpedoTypes=usn_mk48_adcap,usn_moss_2
+TorpedoNumbers=30,30
+TorpedoTubes=9
+NumberOfWires=8
+TubeConfig=1,1,1,1,1,1,1,1,1
 TorpedoTubeSize=12
 TubeReloadTime=30
 
-VLSTorpedoTypes=usn_rur-5
-VLSTorpedoNumbers=16
+VLSTorpedoTypes=usn_rur-5,usn_tasm,usn_tlam
+VLSTorpedoNumbers=30,30,30
 VLSMaxDepthToFire=300
 VLSMaxSpeedToFire=40
 
@@ -57,8 +58,8 @@ ChaffType=wp_chaff
 ChaffProbability=0.12
 NumberChaffLaunched=2
 NoisemakerName=usn_noisemaker
-NumberOfNoisemakers=40
-NoisemakerReloadTime=20
+NumberOfNoisemakers=150
+NoisemakerReloadTime=5
 
 [Subsystems]
 LabelPosition=430,60
@@ -191,6 +192,26 @@ MeshPosition=0,-0.0210,0.012
 ChildMesh=usn_ff_knox_asroc_mount
 
 //Torpedo Mounts
+MeshRotation=0,-45,0
+MeshPosition=-0.0496,0.1196,-0.2512
+TorpedoSpawnPosition=0,0,0
+TorpedoEffectPosition=0,0,0
+
+MeshRotation=0,-45,0
+MeshPosition=-0.0496,0.1061,-0.2512
+TorpedoSpawnPosition=0,0,0
+TorpedoEffectPosition=0,0,0
+
+MeshRotation=0,45,0
+MeshPosition=0.0496,0.1196,-0.2512
+TorpedoSpawnPosition=0,0,0
+TorpedoEffectPosition=0,0,0
+
+MeshRotation=0,45,0
+MeshPosition=0.0496,0.1061,-0.2512
+TorpedoSpawnPosition=0,0,0
+TorpedoEffectPosition=0,0,0
+
 MeshRotation=0,-45,0
 MeshPosition=-0.0496,0.1196,-0.2512
 TorpedoSpawnPosition=0,0,0

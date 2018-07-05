@@ -1,0 +1,7 @@
+Image=campaign/images/pact wolfpack 6
+MissionLocation=Off The Faeroe Islands
+Briefing=
+Briefing=A lone submarine has suddenly attacked and sank several of the cargo ships you were escorting. You have broken off from the convoy to give chase. Teach them a lesson!
+Briefing=
+Briefing=<b>Primary Objective:</b>
+Briefing=Locate and destroy the enemy submarine.

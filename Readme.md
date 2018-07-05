@@ -269,7 +269,7 @@ The campaigns in the mod are color coded as follows:
 
 * Red - These are standard campaigns for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Blue side.)
 * Blue - These are standard campaigns for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Red side.)
-* Green - These free roam campaigns for both sides.
+* Green - These are free roam campaigns for both sides.
 * Yellow - These are campaigns made specifically for the playable surface ships only.
 
 

@@ -36,7 +36,7 @@ ActiveSonarModel=plan_sjd_7
 PassiveSonarModel=plan_sjd_7
 TowedArrayModel=FALSE
 AnechoicCoating=FALSE
-RADAR=wp_don_kay
+RADAR=plan_type_360
 RADARSignature=MEDIUM
 
 [Weapon Systems]

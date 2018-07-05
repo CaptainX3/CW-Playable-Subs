@@ -266,6 +266,7 @@ usn_ln_66=LN-66=Helicopter-mounted surface search set for the SH-2F Seasprite he
 
 plan_klc_1=KLC-1=Helicopter-mounted surface search set for the Z-9C Dauphin, optimized for over-the-horizon targeting.
 
+plan_type_360=Type 360=An air/surface search radar manufactured by Yangzhou Marine Electronic Instruments Research Institute and is reportedly based on Selenia RAN-10S / SPS – 774.
 
 // ----- End New Radars --------------------------------------------------------------------------------
 

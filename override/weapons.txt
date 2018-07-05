@@ -260,6 +260,7 @@ AudioLoop=FALSE
 //[/Model]
 
 WeaponObjectReference=usn_mk46
+WeaponSprite=hud/default/usn_mk46_sprite.png
 WeaponType=TORPEDO
 Warhead=70
 SurfaceLaunched=FALSE
@@ -608,6 +609,7 @@ AudioLoop=TRUE
 [/Model]
 
 WeaponObjectReference=usn_rur-5
+WeaponSprite=hud/default/usn_rur-5_sprite.png
 WeaponType=MISSILE
 MissilePayload=usn_mk46
 Warhead=0

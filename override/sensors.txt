@@ -1098,6 +1098,9 @@ RADARRange=32406
 RADARModel=wp_snoop_pair
 RADARRange=50634
 
+RADARModel=plan_type_360
+RADARRange=60000
+
 // RPB-2K Initsiativa-2M 'Short Horn' Ka-25BSh radar
 RADARModel=wp_mushroom
 RADARRange=180258

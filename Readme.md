@@ -1,4 +1,3 @@
----
 # TABLE OF CONTENTS
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)

@@ -8,8 +8,9 @@
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
-* [Current List of Playable Submarines](#current-list-of-playable-submarines)
+* [Current List of Playable Ships and Submarines](#current-list-of-playable-ships-and-submarines)
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
+* [Special Notes About Playable Surface Ships **(MAKE SURE YOU READ THIS!)**](#special-notes-about-playable-surface-ships)
 ---
 * [**Mod Installation - Release Version**](#mod-installation-release-version)
 * [**Mod Installation - Development Version**](#mod-installation-development-version)
@@ -17,6 +18,7 @@
 ---
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
 * [Single Missions List Color Coding](#single-missions-list-color-coding)
+* [Campaign List Color Coding](#campaign-list-color-coding)
 * [How To Set All Subs To Use The Default UI](#how-to-set-all-subs-to-use-the-default-ui)
 * [How To Customize the UI Toolbars](#how-to-customize-the-ui-toolbars)
 ---
@@ -49,7 +51,7 @@
 
 
 ---
-## Current List of Playable Submarines
+## Current List of Playable Ships and Submarines
 
 * **United States**
   * Los Angeles (Flight I) Class SSN
@@ -138,6 +140,7 @@
   * Delta III Class SSBN
   * Delta IV Class SSBN
   * Golf Class SSB
+  * Hotel Class SSBN
   * Typhoon Class SSBN
   * Typhoon Class SSGN (Conversion)
   * Experimental Typhoon Class SSBN "Red October" (Conventional Drive)
@@ -154,6 +157,11 @@
 * **Special Submarines**
   * Jive Turkey II Class SSN
 
+* **Surface Ships**
+  * Knox Class Frigate (United States)
+  * Jiangwei Class Frigate (China)
+  * Kirov Class Cruiser (Russia)
+
 
 ---
 ## Other Important Changes
@@ -162,6 +170,23 @@
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
+
+
+
+---
+## Special Notes About Playable Surface Ships
+
+Since the game is not designed for playable surface ships, we've had to make some special modifications to make them work properly and to make them fun to play. Below are some important special notes about them.
+
+* The playable surface ships can only be used in the single missions and campaigns specifically designed for them. This is because we must set the starting depth for the ships to 0, otherwise they'd implode as soon as the encounter begins. This is why they are not available in the Quick Mission editor.
+* As soon as you enter an encounter, all other surface ships in the area will instantly detect you. Submarines will generally take longer to pick you up, unless they raise their radar or periscope.
+* The only weapons available for surface ships are the same as submarines: torpedoes and missiles. It is not possible to make their guns work because there is no coding in the game to allow a player to target a gun, and the game AI apparently won't work in any way on a player controlled ship.
+* Although most of the playable ships do carry aircraft, there is no way that we can find to make these work for the player.
+* We have not yet found any way to make the ship's anti-air defenses work at all, meaning you're going to take hits from enemy missiles almost 100% of the time (hence the massive tonnage mentioned below).
+* All of the playable surface ships have been given a massive (obviously unrealistic) tonnage rating, in order to give them enough hitpoints to survive long enough to be enjoyable. This is especially important because torpedoes are much harder to evade than in a submarine, almost impossible really.
+* They have also been given an unusually low self noise rating, to keep them from being instantly detected by every submarine in the area. If you keep your speed low enough, you might be able to evade detection by submarines for at least a little while.
+* The playable ships have also been given special versions of their real life sonar suites that are MUCH more sensitive than anything else in the game. This will give the player a fighting chance of actually picking up the quieter enemy submarines, otherwise you'd be stuck in the encounter forever.
+* All of the ships have also been given weapon loadouts that aren't actually used in real life. This is to allow them to fight properly, and give them proper loadouts when we release the playable surface ship campaigns. In addition, they do have wire guidance on their torpedoes to make things a little bit easier.
 
 
 
@@ -237,11 +262,22 @@ Sonar signatures have been reworked. You will see the entire vessel list when pl
 
 Single missions in the mod are color coded as follows:
 
+* Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Blue side.)
+* Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Red side.)
+* Yellow - These are custom missions made specifically for the playable surface ships only.
 * White - Vanilla missions from Killerfish, modified to allow all playable subs to be used.
 * Orange - New missions sent to us by mod users, already designed with the mod's playable subs.
 * Green - These are custom missions that are unique in some way, usually featuring only certain playable subs and/or a unique objective.
-* Red - These are custom missions for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
-* Blue - These are custom missions for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the opposite side.)
+
+
+## Campaign List Color Coding
+
+The campaigns in the mod are color coded as follows:
+
+* Red - These are standard campaigns for the Red side (Russia, China, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Blue side.)
+* Blue - These are standard campaigns for the Blue side (USA, UK, etc) (Note: All playable subs will be available for the player to choose from, but the enemies will be from the Red side.)
+* Green - These free roam campaigns for both sides.
+* Yellow - These are campaigns made specifically for the playable surface ships only.
 
 
 

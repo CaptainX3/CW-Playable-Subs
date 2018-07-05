@@ -1,8 +1,4 @@
 [SONAR]
-usn_sqs_26_special=CX3-0704S=Special highly sensitive multi-frequency sonar used for the playable surface ships only.
-
-usn_sqr_18_special=CX3-0704T=Special highly sensitive multi-frequency towed array used for the playable surface ships only.
-
 chn_type_603=TYPE-603=This sonar is the one that originally equipped the first Han Class vessels but it was soon replaced by the H/SQ2-262B.
 
 chn_hsjg_206a=H/SJG-206A= This is the towed array fitted on the latest Shang Class SSN, it has good performances but still a little inferior to the American TB-29.

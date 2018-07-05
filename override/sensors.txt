@@ -2,24 +2,6 @@
 
 // -------------------------------------------------------------------- New Sensors ------------------------------------------------------------------------
 
-SonarModel=usn_sqs_26_special
-SonarType=ACTIVE/PASSIVE
-SonarFrequencies=VL,L,M,H
-SonarActiveSensitivity=40
-SonarPassiveSensitivity=55
-SonarBaffle=150
-SonarNoisePerKnot=1
-SonarOutput=220
-
-SonarModel=usn_sqr_18_special
-SonarType=TOWED
-SonarFrequencies=VL,L,M,H
-SonarActiveSensitivity=0
-SonarPassiveSensitivity=60
-SonarBaffle=FALSE
-SonarNoisePerKnot=1
-SonarOutput=0
-
 SonarModel=chn_type_603
 SonarType=ACTIVE/PASSIVE
 SonarFrequencies=L,M

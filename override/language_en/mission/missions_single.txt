@@ -36,3 +36,9 @@
 <color=White>Territorial Dispute</color>
 <color=White>Shallow Grave</color>
 <color=White>Foreign Trade</color>
+<color=Yellow>Revenge Is A Dish... (NATO)</color>
+<color=Yellow>Revenge Is A Dish... (RUS)</color>
+<color=Yellow>Revenge Is A Dish... (PLAN)</color>
+<color=Yellow>Convoy Strike (NATO)</color>
+<color=Yellow>Convoy Strike (RUS)</color>
+<color=Yellow>Convoy Strike (PLAN)</color>

@@ -108,10 +108,8 @@ MeshPosition=0,0,-0.686
 MeshSternPlanes=wp_ssn_victor3_sternplanes
 MeshPosition=-0.0,0,-0.7498
 MeshProp=wp_ssn_victor3_prop
-
-ModelFile=ships/wp_ssn_victor2/wp_ssn_victor2
-MeshPosition=0,0.0723,0.43
-MeshBowPlanes=wp_ssn_victor2_bowplanes
+MeshPosition=0,0.0723,0.433
+MeshBowPlanes=wp_ssn_victor3_bowplanes
 
 ModelFile=ships/usn_ssn_los_angeles/usn_ssn_los_angeles
 Material=ships/materials/usn_masts

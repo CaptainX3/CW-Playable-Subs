@@ -4,3 +4,6 @@
 <color=Green>Red Storm Rising (Free Roam) 2000</color>
 <color=Green>South China Sea (Free Roam) 2000</color>
 <color=Red>South China Sea (RUS) 2000</color>
+<color=Red>Red Dawn Rising (RUS)</color>
+<color=Red>The Wrath of Brezhnev (RUS)</color>
+<color=Red>Operation Polar Glory (RUS)</color>

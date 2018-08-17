@@ -971,6 +971,56 @@ SonarBaffle=FALSE
 SonarNoisePerKnot=0
 SonarOutput=200
 
+// USN active sonobuoy DICASS AN/SSQ-62 - Late 70s
+SonarModel=usn_ssq62
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=28
+SonarPassiveSensitivity=0
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=200
+
+// USN active sonobuoy CASS AN/SSQ-47 - Late 60s
+SonarModel=usn_ssq47
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=21
+SonarPassiveSensitivity=0
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=200
+
+// USN passive sonobuoy LOFAR AN/SSQ-38 - 60s
+SonarModel=usn_ssq38
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=0
+SonarPassiveSensitivity=25
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=0
+
+// USN passive sonobuoy DIFAR AN/SSQ-53A - Late 60s
+SonarModel=usn_ssq53a
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=0
+SonarPassiveSensitivity=28
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=0
+
+// USN passive sonobuoy DIFAR AN/SSQ-53B - Mid 80s
+SonarModel=usn_ssq53b
+SonarType=SONOBUOY
+SonarFrequencies=M
+SonarActiveSensitivity=0
+SonarPassiveSensitivity=32
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=0
+
 SonarModel=wp_elk_tail
 SonarType=DIPPING
 SonarFrequencies=H
@@ -997,6 +1047,28 @@ SonarPassiveSensitivity=30
 SonarBaffle=FALSE
 SonarNoisePerKnot=0
 SonarOutput=220
+
+
+// SH3D Dipping Sonar
+// should be only active, small passive sensitivity given for gameplay
+SonarModel=usn_an_aqs-13
+SonarType=DIPPING
+SonarFrequencies=H
+SonarActiveSensitivity=28
+SonarPassiveSensitivity=14
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=210
+
+// SH60F Dipping Sonar
+SonarModel=usn_an_aqs-13f
+SonarType=DIPPING
+SonarFrequencies=H
+SonarActiveSensitivity=32
+SonarPassiveSensitivity=32
+SonarBaffle=FALSE
+SonarNoisePerKnot=0
+SonarOutput=210
 
 [RADAR]
 RADARModel=usn_bps_12

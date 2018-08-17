@@ -1,0 +1,20 @@
+NextAction=event_intro_7
+Image=campaign/images/nato air 4
+Photo=campaign/images/photos/infantry pact 1
+Music=audio/music/slavianka.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Soviets Thought Nuclear Drill "Able Archer" Was Real</b>
+Color=57,61,73,255
+Sentence1=WASHINGTON - In a hearing, the Director of the DIA, Lt. Gen. James B. Williamson told the Senate the Defense Intelligence Agency's assessment of Soviet response to the NATO Able Archer '83 exercise, held in November 1983. And Mr. Williamson told a story a little too close for comfort.
+The DIA has concluded that the Soviet Union - for a short while - actually believed the United States was preparing for a "first strike" nuclear attack, using the exercise as a cloak. Thus, Soviet nuclear forces were set on high alert for at least a week. 
+Color=218,218,208,255
+Sentence2=The strong reaction corroborates with the strained diplomatic relations between the US and the Soviet Union. Years of terse anti-communist rethoric, deployment of high-capacity nuclear missiles and the outspoken ideological friendship between President Reagan and British Prime Minister Thatcher has "caused fear" among the Soviet leadership.
+
+
+
+

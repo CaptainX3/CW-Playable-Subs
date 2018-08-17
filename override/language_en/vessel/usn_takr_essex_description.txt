@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Essex (Early)
+Description=Essex Class Tactical Aircraft Carrier
+DefensiveWeapons=20mm Oerlikon AA guns
+OffensiveWeapons=MK-38 DP Guns
+Aircraft=14 SH3D ASW helicopters
+History=The Essex class was a class of aircraft carriers of the United States Navy that constituted the 20th century's most numerous class of capital ships. The class consisted of 24 vessels, which came in both "short-hull" and "long-hull" versions. Thirty-two ships were originally ordered; however as World War II wound down, six were canceled before construction, and two were canceled after construction had begun. No Essex Class ships were lost to enemy action, despite several vessels sustaining very heavy damage. The Essex Class carriers were the backbone of the U.S. Navy's combat strength during World War II from mid-1943 on, and, along with the addition of the three Midway Class carriers just after the war, continued to be the heart of U.S. naval strength until the supercarriers began to come into the fleet in numbers during the 1960s and 1970s.

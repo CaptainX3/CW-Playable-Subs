@@ -1,0 +1,250 @@
+//the White Sea
+WaypointName=SC1
+WaypointPosition=436.9,-65.2,5
+NorthWaypoints=SC2
+EastWaypoints=SC2
+
+//the Soviet Coast
+WaypointName=SC2
+WaypointPosition=472.4,-9.4,10
+NorthWaypoints=SC3
+SouthWaypoints=SC1
+WestWaypoints=SC1,SC3
+
+//the Soviet Coast
+WaypointName=SC3
+WaypointPosition=420.00,45.60,20
+NorthWaypoints=SC4,B1
+SouthWaypoints=SC2
+EastWaypoints=SC2
+WestWaypoints=SC4
+
+//the Soviet Coast
+WaypointName=SC4
+WaypointPosition=366.50,71.30,20
+NorthWaypoints=B1
+SouthWaypoints=SC3
+EastWaypoints=SC3
+WestWaypoints=NC1
+
+//the Barrents Sea
+WaypointName=B1
+WaypointPosition=363.10,173.9,130
+NorthWaypoints=B2
+SouthWaypoints=SC3,SC4,NC1
+EastWaypoints=SC2,SC3
+WestWaypoints=N1,NC1
+
+//the Barrents Sea
+WaypointName=B2
+WaypointPosition=377.4,293.6,50
+NorthWaypoints=P1
+SouthWaypoints=B1
+EastWaypoints=
+WestWaypoints=
+
+//the Polar region
+WaypointName=P1
+WaypointPosition=323,381.2,40
+SouthWaypoints=B2
+WestWaypoints=P2
+SubmarineOnly=TRUE
+
+//the Polar region
+WaypointName=P2
+WaypointPosition=155.2,355.2,60
+SouthWaypoints=N3
+WestWaypoints=P1
+SubmarineOnly=TRUE
+
+//the northern Norwegian coast
+WaypointName=NC1
+WaypointPosition=265.10,107.60,20
+NorthWaypoints=B1,N1
+SouthWaypoints=NC2,SC4
+EastWaypoints=SC4,B1
+WestWaypoints=NC2,N1
+
+//the Norwegian coast
+WaypointName=NC2
+WaypointPosition=119.50,12.70,10
+NorthWaypoints=NC1,N1,N2
+SouthWaypoints=NC3
+EastWaypoints=NC1,N1
+WestWaypoints=N2,NC3
+
+//the Norwegian coast
+WaypointName=NC3
+WaypointPosition=64.00,-78.00,10
+NorthWaypoints=NC2,N2
+SouthWaypoints=NC4
+EastWaypoints=NC2
+WestWaypoints=NC4
+
+//the Norwegian coast
+WaypointName=NC4
+WaypointPosition=-45.10,-127.90,10
+NorthWaypoints=NC3,N2
+SouthWaypoints=NC5,NS1
+EastWaypoints=NC3
+WestWaypoints=NS1,IG6
+
+//the southern Norwegian coast
+WaypointName=NC5
+WaypointPosition=-31.40,-231.30,10
+NorthWaypoints=NC4
+EastWaypoints=NC6
+WestWaypoints=NS1
+
+//the southern Norwegian coast
+WaypointName=NC6
+WaypointPosition=36.50,-228.00,10
+SouthWaypoints=BW6
+EastWaypoints=BW6
+WestWaypoints=NC5
+
+//the Norwegian Sea
+WaypointName=N1
+WaypointPosition=183.80,163.90,80
+NorthWaypoints=N3,B1
+SouthWaypoints=NC2,NC1
+EastWaypoints=B1,NC1
+WestWaypoints=N3,N2,NC2
+
+//the Norwegian Sea
+WaypointName=N2
+WaypointPosition=5.20,84.00,200
+NorthWaypoints=IG1,N3,N1
+SouthWaypoints=IG5,IG6,NC4,NC3,NC2
+EastWaypoints=N3,N1,NC2,NC3
+WestWaypoints=IG1,IG5,IG6,NC4
+
+//the Greenland Sea
+WaypointName=N3
+WaypointPosition=90.90,274.00,50
+NorthWaypoints=P2
+SouthWaypoints=IG1,N2,N1
+EastWaypoints=P2,N1
+WestWaypoints=IG1,N2
+
+//the Denmark Strait
+WaypointName=IG1
+WaypointPosition=-163.60,200.70,30
+SouthWaypoints=N2
+EastWaypoints=N3,N2
+WestWaypoints=IG2
+
+//the Denmark Strait
+WaypointName=IG2
+WaypointPosition=-264.90,216.10,30
+SouthWaypoints=IG3
+EastWaypoints=IG1
+WestWaypoints=A1
+
+//Iceland
+WaypointName=IG3
+WaypointPosition=-276.30,146.00,10
+NorthWaypoints=IG2
+SouthWaypoints=IG4
+EastWaypoints=A1
+
+//Iceland
+WaypointName=IG4
+WaypointPosition=-291.40,59.50,10
+NorthWaypoints=IG3
+SouthWaypoints=IG7
+EastWaypoints=IG5
+WestWaypoints=A1
+
+//the Iceland-UK Gap
+WaypointName=IG5
+WaypointPosition=-158.30,20.70,50
+NorthWaypoints=IG4,N2
+SouthWaypoints=IG7
+EastWaypoints=N2
+WestWaypoints=IG4,IG7
+
+//the Iceland-UK Gap
+WaypointName=IG6
+WaypointPosition=-122.30,-89.80,30
+NorthWaypoints=N2,IG7
+SouthWaypoints=NC4
+EastWaypoints=NC4,N2
+WestWaypoints=IG7
+
+//Ireland
+WaypointName=IG7
+WaypointPosition=-321.00,-77.00,100
+NorthWaypoints=IG4,A1,IG5
+SouthWaypoints=IG3
+EastWaypoints=IG4,IG5,IG6
+WestWaypoints=A1,A2
+
+//the North Atlantic
+WaypointName=A1
+WaypointPosition=-627.00,69.00,300
+NorthWaypoints=IG2,IG3
+SouthWaypoints=A2,A3,IG7
+EastWaypoints=IG2,IG3,IG4,IG7
+WestWaypoints=A3
+
+//the North Atlantic
+WaypointName=A2
+WaypointPosition=-570.00,-234.00,300
+NorthWaypoints=A1,A3,IG7
+EastWaypoints=IG7
+WestWaypoints=A3
+
+//the North Atlantic
+WaypointName=A3
+WaypointPosition=-706.8,-82.5,100
+NorthWaypoints=A1
+SouthWaypoints=A2
+EastWaypoints=A1,A2
+
+//the Baltic Sea
+WaypointName=BE1
+WaypointPosition=209.30,-232.80,10
+SouthWaypoints=BE2
+WestWaypoints=BE2
+
+//the Baltic Sea
+WaypointName=BE2
+WaypointPosition=170.50,-308.00,20
+NorthWaypoints=BE1
+SouthWaypoints=BE3
+EastWaypoints=BE1
+WestWaypoints=BE3
+
+//the Baltic Sea
+WaypointName=BE3
+WaypointPosition=98.00,-336.30,10
+NorthWaypoints=BE2,BE4
+EastWaypoints=BE2
+WestWaypoints=BE4
+
+//the Baltic Sea
+WaypointName=BE4
+WaypointPosition=64.10,-320.90,5
+NorthWaypoints=BW5
+SouthWaypoints=BE3
+EastWaypoints=BE3
+
+//the Baltic Sea
+WaypointName=BW5
+WaypointPosition=51.90,-271.80,10
+NorthWaypoints=BW6
+SouthWaypoints=BE4
+
+//the Baltic Sea
+WaypointName=BW6
+WaypointPosition=49.90,-245.10,5
+NorthWaypoints=NC6
+SouthWaypoints=BW5
+WestWaypoints=NC6
+
+//the North Sea
+WaypointName=NS1
+WaypointPosition=-92.00,-234.90,100
+NorthWaypoints=NC4
+EastWaypoints=NC5

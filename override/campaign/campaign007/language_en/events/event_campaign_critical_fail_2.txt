@@ -1,0 +1,5 @@
+NextAction=END
+Image=campaign/images/city nuke
+Photo=FALSE
+Music=audio/music/Cold Waters Bomb
+Title=BLANK

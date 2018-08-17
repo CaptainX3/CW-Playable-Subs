@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Iwo Jima
+Description=Iwo Jima Class Amphibious Assault Ship
+DefensiveWeapons=20mm Oerlikon AA guns
+OffensiveWeapons=MK-38 DP Guns
+Aircraft=25 SH3D ASW helicopters
+History=The Iwo Jima Class amphibious assault ships of the United States Navy were the first amphibious assault ships designed and built as dedicated helicopter carriers, capable of operating up to 20 helicopters to carry up to 1,800 marines ashore. They were named for battles featuring the United States Marine Corps, starting with the Battle of Iwo Jima. The first ship of the class was commissioned in 1961, and the last was decommissioned in 2002. Because these ships bore the hull classification of LPH they have often been referred to as "Landing Platform, Helicopter".

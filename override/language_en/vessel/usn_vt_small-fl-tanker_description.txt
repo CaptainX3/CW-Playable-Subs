@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=US Fleet Small Oiler
+Description=US Fleet Small Oiler
+History=Small replenishment ships intended to support warships. Large kingposts and a constant-tension station transfer fuel and dry stores to ships on either side and over the stern. Compared to US UNREP ships, they are slower and lack helicopter facilities.

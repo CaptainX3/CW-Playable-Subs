@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Tarawa
+Description=Tarawa Class Amphibious Assault Ship
+DefensiveWeapons=20mm Oerlikon AA guns
+OffensiveWeapons=MK-45 DP Guns
+Aircraft=19 SH60B ASW helicopters
+History=The Tarawa class was a ship class of amphibious assault ships/LHA operated by the United States Navy (USN). Five ships were built by Ingalls Shipbuilding between 1971 and 1980; another four ships were planned, but later canceled. As of March 2015, all vessels have been decommissioned. The class was replaced by the America Class amphibious assault ships from 2014 onward.

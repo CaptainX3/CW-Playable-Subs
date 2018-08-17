@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-2 Seasprite
+AircraftDescriptiveName=SH-2 Seasprite
+History=The Kaman SH-2 Seasprite is a ship-based helicopter originally developed in the late 1950s as a fast utility helicopter for the United States Navy. In the 1970s, anti-submarine, anti-surface threat capabilities were added to the design, including over-the-horizon targeting, resulting in modifying most existing UH-2 models to the SH-2 Seasprite.

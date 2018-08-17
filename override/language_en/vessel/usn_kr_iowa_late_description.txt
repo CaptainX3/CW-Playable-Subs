@@ -1,0 +1,6 @@
+[Unit Reference]
+ShipClass=Iowa (Modernized)
+Description=Iowa Class Battleship (Modernized)
+DefensiveWeapons=16 inch guns
+Aircraft=3 SH3D
+History=The Iowa Class battleships were a class of six fast battleships ordered by the United States Navy in 1939 and 1940 to escort the Fast Carrier Task Forces that would operate in the Pacific Theater of World War II. Four were completed, two more were laid down but canceled in August 1945, at war's end, and both hulls were scrapped in 1958. Like other third-generation American battleships, the Iowas followed the design pattern set forth in the preceding North Carolina Class and South Dakota Class battleships, which emphasized speed in addition to secondary and anti-aircraft batteries. Based on wartime experience, they were to serve as fast escorts for Essex Class aircraft carriers.

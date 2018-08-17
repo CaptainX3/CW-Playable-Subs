@@ -1,0 +1,12 @@
+[Unit Reference]
+ShipClass=Perry
+Description=[Playable] Oliver Hazard Perry Class Frigate
+DefensiveWeapons=SM-1MR SAM
+OffensiveWeapons=MK-38 DP Guns\nASW Torpedoes
+Aircraft=2 SH-60F ASW helicopter
+History=<b>SPECIAL NOTE: Because the game is not designed for playable surface ships, some adjustments were made to this ship's stats to make gameplay more fun and to allow longer survivability in combat. These stats are not realistic, but are required to make the ship playable. This unit is still under testing, please report any issues in the mod Discord channel, on Steam, or on Subsim.</b>\n\nThe Oliver Hazard Perry class is a class of guided missile frigates named after the American Commodore Oliver Hazard Perry, the hero of the naval Battle of Lake Erie. Also known as the Perry or FFG-7 class, the warships were designed in the United States in the mid-1970s as general-purpose escort vessels inexpensive enough to be bought in large quantities to replace World War II-era destroyers and complement 1960s-era Knox Class frigates. In Admiral Elmo Zumwalt's "high low fleet plan", the FFG-7s were the low capability ships with the Spruance Class destroyers serving as the high capability ships. Intended to protect amphibious landing forces, supply and replenishment groups, and merchant convoys from aircraft and submarines, they were also later part of battleship centred surface action groups and aircraft carrier battle groups/strike groups.
+
+[Player Ship Instances]
+PlayerClassNames=Carr,Hawes,Ford,Elrod,Simpson,Reuben James,Samuel B. Roberts,Kauffman,Rodney M. Davis,Ingraham
+
+PlayerClassHullNumbers=FFG-52,FFG-53,FFG-54,FFG-55,FFG-56,FFG-57,FFG-58,FFG-59,FFG-60,FFG-61

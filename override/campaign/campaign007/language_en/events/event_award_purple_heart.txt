@@ -1,0 +1,12 @@
+NextAction=END
+Image=campaign/images/event_award_background
+Photo=NONE
+Music=audio/music/loss.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=The Presidium of the Supreme Soviet has awarded <POSTHUMOUSLY> the
+Sentence1=<b><size=22>WOUND STRIPE<n>TO<n>CAPTAIN 2ND RANK <PLAYERNAME><n>COMMANDING OFFICER,<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=For wounds recieved on <DATE> resulting in his death.<n>Captain 2nd Rank <PLAYERNAME> served his country with the upmost of pride and was ever willing to lay down his life throughout the course of his duties. His numerous achievements and respected command reflect great credit upon himself and the Soviet Navy.

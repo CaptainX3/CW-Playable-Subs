@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact wolfpack 1,campaign/images/pact wolfpack 2,campaign/images/pact wolfpack 3,campaign/images/pact wolfpack 4,campaign/images/pact wolfpack 5,campaign/images/pact wolfpack 6
+Photo=campaign/images/photos/naval engagement 1,campaign/images/photos/naval nato 2,campaign/images/photos/naval nato 3
+Music=audio/music/loss.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SUBS ATTACK</b>|<b>TERROR FROM THE DEEP</b>
+Color=57,61,73,255
+Sentence1=Soviet defence installations deep inside our territory have been attacked by a daring NATO missile attack.
+Color=218,218,208,255
+Sentence2=VMF spokesmen admit NATO submarine attacks are, "a major thorn in our side." Analysts predict the consistent loss of Soviet ground forces and defence materiel could be the tipping point of the war toward a favourable NATO outcome.

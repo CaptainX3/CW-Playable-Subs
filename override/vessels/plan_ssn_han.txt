@@ -42,7 +42,7 @@ TowedArrayPosition=0.0718,0,-0.55
 
 [Weapon Systems]
 TorpedoTypes=plan_yu-5,plan_c-801
-TorpedoNumbers=16,4
+TorpedoNumbers=10,4
 TorpedoTubes=6
 NumberOfWires=1
 TubeConfig=1,1,1,1,1,1

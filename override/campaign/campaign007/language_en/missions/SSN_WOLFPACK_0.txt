@@ -1,0 +1,21 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+INTELLIGENCE REPORTS THAT A WOLFPACK OF ENEMY ATTACK SUBMARINES SAILING FROM <STARTLOCATION> IS TRYING TO PENETRATE <ENDLOCATION> TO ATTACK OUR SSBN BASTIONS.
+
+2.	(S) PRIMARY OBJECTIVE:
+LOCATE AND SINK THE ENEMY SUBMARINES
+
+3.	(S) SECONDARY OBJECTIVE:
+NONE
+
+4.	(S) AVOID DETECTION BY ENEMY ASW PATROLS
+
+5.	(S) WEAPONS FREE
+
+6.	(S) EMCON - MAINTAIN RADIO SILENCE UNTIL OTHERWISE DIRECTED
+[MISSION WIN]
+Excellent job on intercepting and destroying this high priority target.
+[MISSION FAIL]
+Discouraged to hear you lost this opportunity against such a high priority target. Better luck next time.
+[MISSION MISSED]
+Disappointed to hear target was not intercepted. Be more aggressive.

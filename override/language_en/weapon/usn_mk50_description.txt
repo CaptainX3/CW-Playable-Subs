@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK 50
+WeaponDescriptiveName=Mark 50 Torpedo (MK50)
+WeaponDescription=Upgraded version of the venerable MK46 air-launched torpedo. This version has been adapted for use on the Sea Lance ASW tube launched weapon.

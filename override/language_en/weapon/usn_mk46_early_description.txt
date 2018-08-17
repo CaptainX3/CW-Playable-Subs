@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK 46
+WeaponDescriptiveName=Mark 46 Torpedo (Mk46) Mod1
+WeaponDescription=The Mark 46 torpedo is the backbone of the United States Navy's lightweight anti-submarine warfare torpedo inventory, and is the current NATO standard. These aerial torpedoes are designed to attack high-performance submarines, and current variants, such as the Mark 46 Mod 5, are expected to remain in service until 2015. In 1989, a major upgrade program for the Mod 5 began to improve its shallow-water performance, resulting in the Mod 5A and Mod 5A(S).

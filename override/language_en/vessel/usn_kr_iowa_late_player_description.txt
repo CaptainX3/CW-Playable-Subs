@@ -1,0 +1,11 @@
+[Unit Reference]
+ShipClass=Iowa
+Description=[Playable] Iowa Class Battleship (1980 Refit)
+DefensiveWeapons=16 inch guns\n5 inch guns\n40mm Bofors\n20mm Oerlikon\n20mm Phalanx CIWS
+Aircraft=5 × RQ-2 Pioneer Unmanned Aerial Vehicles
+History=<b>SPECIAL NOTE: Because the game is not designed for playable surface ships, some adjustments were made to this ship's stats to make gameplay more fun and to allow longer survivability in combat. These stats are not realistic, but are required to make the ship playable. This unit is still under testing, please report any issues in the mod Discord channel, on Steam, or on Subsim.</b>\n\nIn 1980, Ronald Reagan was elected President, with a plan to rebuild the US military as a counter to the increasing military power of the Soviet Union as one of his benchmark commitments. At the time, the Soviet Navy was in the process of commissioning a class of missile cruiser the like of which had not been seen for decades—the Kirov-class was the largest type of surface warship (other than aircraft carriers or amphibious assault vessels) built since World War II, and the US had not envisioned building anything like it. As a consequence, as part of Reagan's 600-ship Navy policy and to act as a counter to the Kirov-class, the US Navy began the process of reactivating the four Iowa-class units and modernizing them for service in the 1980s.\n\nAs part of their modernization in the 1980s, each of the Iowas received a complement of BGM-109 Tomahawk Land Attack Missiles (TLAMs) for use against enemy targets on land, while the latter system enabled the ships to carry a complement of RGM-84 Harpoon anti-ship missiles for use against enemy ships.
+
+[Player Ship Instances]
+PlayerClassNames=Iowa, New Jersey, Missouri, Wisconsin
+
+PlayerClassHullNumbers=BB-61,BB-62,BB-63,BB-64

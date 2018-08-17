@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Garcia
+Description=Garcia Class Anti-Submarine Ship
+DefensiveWeapons=None
+OffensiveWeapons=ASROC ASW Missiles\nMK-33 DP Guns\nASW Torpedoes
+Aircraft=1 SH-2 ASW helicopter
+History=Garcia Class frigates were United States Navy warships. These frigates were originally ocean escorts bearing the hull classification DE or DEG until 1975. The ships were commissioned between 1964 and 1968 and decommissioned between 1988 and 1990.

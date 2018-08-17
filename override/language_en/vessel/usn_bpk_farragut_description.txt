@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Farragut
+Description=Farragut Class Anti-Submarine Ship
+DefensiveWeapons=Mk-10 Terrier SAM
+OffensiveWeapons=ASROC ASW Missiles\nMK-42 DP Guns\nASW Torpedoes
+Aircraft=None
+History=The Farragut Class destroyer was a group of 10 guided missile destroyers built for the United States Navy (USN) during the 1950s. They were the second destroyer class to be named for Admiral David Farragut. The class is sometimes referred to as the Coontz class, since Coontz was first to be designed and built as a guided missile ship, whereas the previous three ships were designed as all-gun units and converted later.

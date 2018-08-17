@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-3 D Sea King (80s version)
+AircraftDescriptiveName=SH-3 D Sea King (80s version)
+History=The Sikorsky SH-3 Sea King (company designation S-61) is an American twin-engined anti-submarine warfare (ASW) helicopter designed and built by Sikorsky Aircraft. A landmark design, it was the world's first amphibious helicopter and one of the first ASW rotorcraft to use turboshaft engines.

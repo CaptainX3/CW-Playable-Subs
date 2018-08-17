@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=US Small Cargo
+Description=Small Coastal Cargo
+History=Small coastal container ships.

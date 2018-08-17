@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Resolution
+Description=[GBR] Resolution Class SSBN (1968 Era)
+History=Self Noise Rating: 133 db\nEscape Depth: 600 ft\n\nThe Resolution class was a class of four nuclear ballistic missile submarines (SSBN) built for the Royal Navy as part of the UK Polaris programme. Each submarine was armed with up to 16 UGM-27 Polaris A-3 nuclear missiles. The class comprised Resolution, Repulse, Renown and Revenge. They were built by Vickers Armstrong in Barrow-in-Furness and Cammell Laird in Birkenhead between 1964 and 1968. All four boats were based at HM Naval Base Clyde (HMS Neptune), 40 km (25 mi) west of Glasgow, Scotland. The Resolution class was the launch platform for the United Kingdom's strategic nuclear deterrent from the late 1960s until 1994, when it was replaced by the Vanguard Class submarine carrying the Trident II.
+
+[Player Ship Instances]
+PlayerClassNames=HMS Resolution,HMS Repulse,HMS Renown,HMS Revenge
+
+PlayerClassHullNumbers=S22, S23, S26, S27

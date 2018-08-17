@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Polaris SLBM
+WeaponDescriptiveName=Polaris (SLBM)
+WeaponDescription=The UGM-27 Polaris missile was a two-stage solid-fueled nuclear-armed submarine-launched ballistic missile (SLBM) built during the Cold War by Lockheed Corporation for the United States Navy. Following the Polaris Sales Agreement in 1963, Polaris missiles were also carried on British Royal Navy submarines between 1968 and the mid-1990s.\nIn-game range, 275000 yards

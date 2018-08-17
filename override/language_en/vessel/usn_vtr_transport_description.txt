@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=US Military Transport
+Description=Military transport
+History=6,600 tons Military Transport.

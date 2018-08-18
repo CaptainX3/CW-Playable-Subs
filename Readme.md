@@ -51,6 +51,7 @@
   * Los Angeles (Flight II) Class SSN
   * Los Angeles (Flight III 688i) Class SSN
   * Narwhal Class SSN
+  * Narwhal Class SSN (Modern)
   * Permit Class SSN (Early)
   * Permit Class SSN
   * Seawolf Class SSN
@@ -62,6 +63,8 @@
   * Improved Virginia Class SSN
   * Stingray Class SS
   * Ohio Class SSGN (Conversion)
+  * Ethan Allen Class SSBN
+  * Washington Class SSBN
   * Nautilus Class SSN
 
 * **United Kingdom**
@@ -69,6 +72,8 @@
   * Trafalgar Class SSN
   * Upholder Class SS
   * Vanguard Class SSBN
+  * Oberon Class SS
+  * Resolution Class SSBN
 
 * **Australia**
   * Collins Class SS
@@ -156,11 +161,12 @@
   * Kirov Class Cruiser (Russia)
 
 
+
 ---
 ## Other Important Changes
 
-* The Red Storm Rising (Free Roam) campaign has returned! This campaign is set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission. The time frame of this campaign has been changed to 2000 to allow for all of the older and modern Russian subs to be added as possible opponents.
-* Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm.
+* The Free Roam campaigns are set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission.
+* Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm. (Special Note: I am not changing the base back to Guam simply because there is no full base in Okinawa in the real world. The image used for the sub base in the SCS campaign is a simple submarine tender in an empty harbor, which means it could be anywhere.) 
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
 

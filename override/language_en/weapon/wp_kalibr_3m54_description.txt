@@ -1,4 +1,4 @@
 [Weapon Reference]
-WeaponName=Kalibr 3M54 (L)
+WeaponName=Kalibr (L)
 WeaponDescriptiveName=Kalibr 3M54 Land Attack Cruise Missile
 WeaponDescription=The Kalibr 3M54 is a modern Russian Land Attack cruise missile equipped on late model ships and submarines. It features a 2000km range and a 500kg warhead.

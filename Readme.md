@@ -51,7 +51,7 @@
   * Los Angeles (Flight II) Class SSN
   * Los Angeles (Flight III 688i) Class SSN
   * Narwhal Class SSN
-  * Narwhal Class SSN (Modern)
+  * Narwhal II Class SSN
   * Permit Class SSN (Early)
   * Permit Class SSN
   * Seawolf Class SSN

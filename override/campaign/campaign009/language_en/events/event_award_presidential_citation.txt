@@ -1,6 +1,6 @@
 NextAction=MAP
 Image=campaign/images/event_award_background
-Photo=NONE
+Photo=campaign/images/awards/order_of_victory.png
 Music=audio/music/anthem.ogg
 Header=FALSE
 

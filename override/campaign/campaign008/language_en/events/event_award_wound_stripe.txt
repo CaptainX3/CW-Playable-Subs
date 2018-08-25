@@ -1,6 +1,6 @@
 NextAction=END
 Image=campaign/images/event_award_background
-Photo=NONE
+Photo=campaign/images/awards/wound_stripe.png
 Music=audio/music/loss.ogg
 Header=<DATE>
 

@@ -1,6 +1,6 @@
 NextAction=MAP
 Image=campaign/images/event_award_background
-Photo=campaign/images/awards/Order_of_Lenin.png
+Photo=campaign/images/awards/sov_medal_of_nakhimov
 Music=audio/music/anthem.ogg
 Header=<DATE>
 
@@ -8,5 +8,5 @@ Font=0
 Outline=FALSE
 Color=57,61,73,255
 Title=The Presidium of the Supreme Soviet expresses his heartfelt congratulations and takes great pleasure in awarding <POSTHUMOUSLY> the
-Sentence1=<b><size=22>ORDER OF LENIN<n>TO<n>CAPTAIN 2ND RANK <PLAYERNAME><n>COMMANDING OFFICER,<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence1=<b><size=22>ORDER OF NAKHIMOV<n>TO<n>CAPTAIN 2ND RANK <PLAYERNAME><n>COMMANDING OFFICER,<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
 Sentence2=CITATION:<n>For conspicuous gallantry and intrepidity in action against enemies of the Soviet Union on <DATE>.<n><n>Captain 2nd Rank <PLAYERNAME>'s inspiring initiative and unwavering devotion reflect great credit upon himself and uphold the highest traditions of the Soviet Navy.

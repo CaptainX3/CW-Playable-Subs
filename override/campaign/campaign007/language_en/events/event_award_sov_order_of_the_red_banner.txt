@@ -1,6 +1,6 @@
 NextAction=MAP
 Image=campaign/images/event_award_background
-Photo=campaign/images/awards/Order_of_the_red_Banner.png
+Photo=campaign/images/awards/sov_order_of_the_red_banner
 Music=audio/music/anthem.ogg
 Header=<DATE>
  

@@ -1,11 +1,11 @@
 [Medals and Awards]
 
-PatrolAwards=event_award_bronze_star,event_award_silver_star,event_award_navy_cross,event_award_medal_of_honor
+PatrolAwards=event_award_sov_medal_of_ushakov,event_award_sov_order_of_the_red_banner,event_award_sov_medal_of_nakhimov,event_award_sov_hero_of_the_soviet_union
 PatrolTonnage=25000,50000,100000,200000
 
-CumulativeAwards=event_award_navy_com,event_award_navy_dsm,event_award_legion_of_merit
+CumulativeAwards=event_award_sov_order_of_the_red_star,event_award_sov_dsm_2nd_class,event_award_sov_dsm_1st_class
 CumulativeTonnage=50000,100000,250000
 MissionsPassed=3,6,10
 
-WoundedAwards=event_award_purple_heart
+WoundedAwards=event_award_wound_stripe
 ProbabilityWounded=0.15,0.001

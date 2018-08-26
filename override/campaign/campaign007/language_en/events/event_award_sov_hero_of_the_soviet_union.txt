@@ -1,6 +1,6 @@
 NextAction=MAP
 Image=campaign/images/event_award_background
-Photo=campaign/images/awards/Red_star.png
+Photo=campaign/images/awards/sov_hero_of_the_soviet_union
 Music=audio/music/anthem.ogg
 Header=<DATE>
 

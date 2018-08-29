@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=NovemberII
 Description=[RUS] November II Class SSN
-History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 128 db\nEscape Depth: 750 ft\n\nThe Soviet Union realised by the 1970s that their November-class SSNs were unable to cope with modern NATO submarines such as the Los Angeles, Trafalgar or modernised Sturgeon or Permit-class SSNs. A secret project known as Project 932, or the November II, was undetaken by Rubin Design Bureau in 1979 to upgrade and refit the old November-class design to modern standards, incorporating brand-new technology and vastly-improved reactor designs, as well as anechoic tiling to quieten the submarine. In addition, the November was lengthened and enlarged to allow for the fitting of new sonar technology that was capable of detecting the newest US and NATO submarines.
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 128 db\nEscape Depth: 750 ft\n\nThe Soviet Union realised by the 1970s that their November-class SSNs were unable to cope with modern NATO submarines such as the Los Angeles, Trafalgar or modernised Sturgeon or Permit-class SSNs. A secret project known as Project 932, or the November II, was undertaken by Rubin Design Bureau in 1979 to upgrade and refit the old November-class design to modern standards, incorporating brand-new technology and vastly-improved reactor designs, as well as anechoic tiling to quieten the submarine. In addition, the November was lengthened and enlarged to allow for the fitting of new sonar technology that was capable of detecting the newest US and NATO submarines.
 
 [Player Ship Instances]
 PlayerClassNames=Irkutsk, Stalino, Kirovabad, Yeniseysk, Khabarovsk, Magnitogorsk, Ashkabad

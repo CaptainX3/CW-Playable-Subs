@@ -9,7 +9,7 @@ chn_hsjg_206a=H/SJG-206A= This is the towed array fitted on the latest Shang Cla
 
 chn_hsq2_262a=H/SQ2-262A=This sonar suite is an improvement over the soviet Romeo Class one.
 
-chn_hsq2_262b=H/SQ2-262B=This sonar suite is an improvement over the soviet Trout Cheek passive sonar. It has a better sensivity and incorporates an active search attack sonar.
+chn_hsq2_262b=H/SQ2-262B=This sonar suite is an improvement over the soviet Trout Cheek passive sonar. It has a better sensitivity and incorporates an active search attack sonar.
 
 chn_hsqc_207=H/SQC-207=This sonar suite is an upgraded version of the H/SQ2-262B sonar and it is fitted on the Shang Class submarines.
 
@@ -23,7 +23,7 @@ jmsdf_zqq_4=ZQQ-4=The ZQQ-4 is the passive sonar of the Yushio Class submarine. 
 
 jmsdf_zqq_6=ZQQ-6=The ZQQ-6 is the sonar of the Oyashio Class submarine. It is the natural improvement of the previous ZQQ-4/5 sonar suite.
 
-jmsdf_zqr_1a=ZQR-1A=This towed array sonar has a good sensitivity to low and mid frequencies, with performances comparable to the american BQR-25.
+jmsdf_zqr_1a=ZQR-1A=This towed array sonar has a good sensitivity to low and mid frequencies, with performances comparable to the American BQR-25.
 
 jmsdf_zqr_2=ZQR-2=This towed array sonar has a good sensitivity to low and mid frequencies, with performances comparable to the American TB-23.
 
@@ -119,7 +119,7 @@ usn_an_bqg-4=AN/BQG-4=The AN/BQG-4 is a passive ranging sonar system developed b
 
 csu_3-41=CSU 3-41=The CSU 3-41 is an active attack sonar system designed and developed by West Germany in the early 70s. They began exporting it to other NATO nations by the mid 70s as they found more success with the CSU 81-1.
 
-usn_an_sqr-15=AN/SQR-15=The AN/SQR-14/15 series began with the SQR-14 Interim Towed-Array Surveillance System (ITASS) that was developed as a long-range towed arrays for frigates and minesweepers to backip SOSUS. These arrays are much longer than the later SQR-18/19 towed arrays generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on, Bronstein (FF 1037)-and Knox (FF 1052)-class frigates, cica 1983/84 the arrays were removed from thier original platforms and placed abord six of the Spruance (DD 963)-class destroyers, three on each coast.
+usn_an_sqr-15=AN/SQR-15=The AN/SQR-14/15 series began with the SQR-14 Interim Towed-Array Surveillance System (ITASS) that was developed as a long-range towed arrays for frigates and minesweepers to backup SOSUS. These arrays are much longer than the later SQR-18/19 towed arrays generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on, Bronstein (FF 1037)-and Knox (FF 1052)-class frigates, cica 1983/84 the arrays were removed from their original platforms and placed aboard six of the Spruance (DD 963)-class destroyers, three on each coast.
 
 
 // ----- End New Sonars --------------------------------------------------------------------------------
@@ -157,7 +157,7 @@ plan_eh_5=EH-5=Keel-mounted high frequency scanning array that equips the early 
 
 plan_sjd_5=SJD-5=This is a Chinese high frequency bow-mounted scanning sonar based on an improved Buck Toe design that equips several frigates.
 
-plan_sjd_7=SJD-7=This hull-mounted active/passive medium frequency set is a chinese copy of the SQS-56, and mounted on later frigates and destroyers.
+plan_sjd_7=SJD-7=This hull-mounted active/passive medium frequency set is a Chinese copy of the SQS-56, and mounted on later frigates and destroyers.
 
 plan_sjd_8=SJD-8/9=A Chinese license-built version of the French DUBV-23 medium frequency sonar. It is an sophisticated multimode scanning array comparable to Bull Nose.
 
@@ -165,7 +165,7 @@ plan_ess_1=ESS-1=A Chinese license-built version of the French DUBV-43 variable 
 
 plan_ss_12=SS-12=French medium frequency variable depth sonar imported by China for use on helicopters and small patrol craft.
 
-plan_sqc_1=SQC-1=This is a Chinese version of the french Eledone low-frequency digital sonar similar in performance to BQQ-5 and mounted on the Han and Xia class submarines.
+plan_sqc_1=SQC-1=This is a Chinese version of the French Eledone low-frequency digital sonar similar in performance to BQQ-5 and mounted on the Han and Xia class submarines.
 
 plan_tsm_2233=TSM-2233=This is the French Eledone low-frequency digital sonar similar in performance to BQQ-5 and mounted on the Song class submarines.
 
@@ -181,9 +181,9 @@ wp_squid_arm=Squid Arm=This is an advanced low frequency sonar array unique to t
 
 wp_shark_teeth=Shark Teeth=This cylindrical low frequency array is fitted on the Victor, Juliet, Tango and Charlie class submarines. It is comparable in performance to the US BQQ-2 and doubles the detection range compared to the earlier Trout Cheek MF array.
 
-wp_shark_gill=Shark Gill=The latest generation of Soviet sonar systems, this cylindrical low frequency array is used on submarines where it equips the Victor III, Charlie II, Delta III and IV, Typhoon and Oscar classes. Compared to the earlier Shark Teeth, this set is better than the BQQ-2 of the early Permit- and Sturgeon classes, and almost comparable to the BBQ-5 that equips the latest US subs.\n \nIt is rumoured that an advanced version of this suite equips the Sierra-class submarine, but little is known at this time.
+wp_shark_gill=Shark Gill=The latest generation of Soviet sonar systems, this cylindrical low frequency array is used on submarines where it equips the Victor III, Charlie II, Delta III and IV, Typhoon and Oscar classes. Compared to the earlier Shark Teeth, this set is better than the BQQ-2 of the early Permit- and Sturgeon classes, and almost comparable to the BBQ-5 that equips the latest US subs.\n \nIt is rumored that an advanced version of this suite equips the Sierra-class submarine, but little is known at this time.
 
-wp_amfora=MGK-600=Little is known about this integrated spherical sonar suite that equips russian next-generation boats such as the Yasen-class.
+wp_amfora=MGK-600=Little is known about this integrated spherical sonar suite that equips Russian next-generation boats such as the Yasen-class.
 
 wp_buck_toe=Buck Toe=Definitely antiquated by 1980's standards, this is a searchlight-style high frequency active array, little better than WW2 active sonars.
 
@@ -232,19 +232,19 @@ wp_lamb_tail=Lamb Tail=This is the advanced Ros-V VGS-3 dipping sonar used by th
 
 
 [RADAR]
-jmsdf_zps_6=JPC ZPS-6=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+jmsdf_zps_6=JPC ZPS-6=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-drua33=DRUA 33=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+drua33=DRUA 33=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-it_sma_bps_704=SMA MM/BPS 704=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+it_sma_bps_704=SMA MM/BPS 704=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-it_rm_20=RM-20=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+it_rm_20=RM-20=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-chn_hsqzd=H/SQZ-D=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+chn_hsqzd=H/SQZ-D=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-ts_nav=Terma Scanter=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+ts_nav=Terma Scanter=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-zw07=ZW 07=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+zw07=ZW 07=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
 uk_t277=Type 277=Type 277 combined air and surface-search radar. 
 
@@ -256,13 +256,13 @@ uk_t1007=Type 1007=The Kelvin Hughes Type 1007 family of naval radars are high-d
 
 fumb_ant_3=FuMB Ant 3=This radar array was used by the German navy in World War II.
 
-usn_bps_12=BPS-12=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+usn_bps_12=BPS-12=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-usn_bps_15=BPS-15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+usn_bps_15=BPS-15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-usn_bps_14_15=BPS-14/15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+usn_bps_14_15=BPS-14/15=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-usn_bps_15A=BPS-15A=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+usn_bps_15A=BPS-15A=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
 usn_sps_67=SPS-67=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
 
@@ -279,15 +279,15 @@ wp_don_kay=Don Kay= Typical surface-search radar used by ships to detect other v
 
 wp_spin_through=Spin Trough=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
 
-wp_snoop_head=Snoop Head=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+wp_snoop_head=Snoop Head=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-wp_snoop_tray=Snoop Tray=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+wp_snoop_tray=Snoop Tray=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-wp_snoop_plate=Snoop Plate=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+wp_snoop_plate=Snoop Plate=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-wp_snoop_slab=Snoop Slab=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+wp_snoop_slab=Snoop Slab=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-wp_snoop_pair=Snoop Pair=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counterdetection by enemies equipped with ESM.
+wp_snoop_pair=Snoop Pair=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
 wp_mushroom=Short Horn=Helicopter-mounted surface search set for Ka-25BSh, optimized for ASW.
 

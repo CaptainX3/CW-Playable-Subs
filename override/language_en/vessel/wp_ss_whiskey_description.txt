@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Whiskey
 Description=[RUS] Whiskey Class SS
-History=Self Noise Rating: 152 db\nEscape Depth: 600 ft\n\nThe Whiskey was initially designed during the war as a follow-on to the S Class, but after the war was redesigned to incorporate captured german technology. The German influence can be clearly seen in the sonar installation, with its prominent chin array. The class was modernized during the 1950's until the definitive Whiskey V that dispensed with deck guns in favor of a streamlined sail. These boats are exceedingly slow and noisy, but with over 200 built, this is the most numerous class of submarine in the world.
+History=Self Noise Rating: 152 db\nEscape Depth: 600 ft\n\nThe Whiskey was initially designed during the war as a follow-on to the S Class, but after the war was redesigned to incorporate captured German technology. The German influence can be clearly seen in the sonar installation, with its prominent chin array. The class was modernized during the 1950's until the definitive Whiskey V that dispensed with deck guns in favor of a streamlined sail. These boats are exceedingly slow and noisy, but with over 200 built, this is the most numerous class of submarine in the world.
 
 [Player Ship Instances]
 PlayerClassNames=Chita, Vyborg, Novosibirsk, Vologda, Kaluga, Ust'-Kamchatsk, Alrosa, Magnitogorsk, Ust'-Bolsheretsk, Lipetsk, Krasnokamensk

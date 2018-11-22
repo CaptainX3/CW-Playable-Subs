@@ -72,9 +72,13 @@ LabelPosition=354,-230.2
 LabelName=Leningrad
 
 [MARKERS]
-Color=255,255,255,255
+Color=0,255,0,255
 Outline=TRUE
 Size=10
+LocationMarkerPosition=358,32.7
+Color=255,255,255,255
+Outline=TRUE
+Size=5
 LocationMarkerPosition=-204.16,-185.34
 LocationMarkerPosition=-142.37,-37.5
 LocationMarkerPosition=-254.81,130.94

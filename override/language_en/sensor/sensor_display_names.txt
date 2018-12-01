@@ -51,6 +51,8 @@ csu_3-4=CSU 3/4=Atlas Elektronik CSU 3/4 active/passive suite.
 
 csu_81-1=CSU 81-1=CSU 81-1 is an integrated sonar sensor suite from Atlas Elektronik. This includes a passive cylindrical bow array, an intercept array and two passive flank arrays.
 
+csu_83-1=CSU 83-1=CSU 83-1 is an integrated sonar sensor suite from Atlas Elektronik. This includes a passive cylindrical bow array, an intercept array and two passive flank arrays.
+
 csu_90-2=CSU 90-2=CSU 90-2 is an integrated sonar sensor suite from Atlas Elektronik. This includes a passive cylindrical bow array, an intercept array and two passive flank arrays.
 
 Thomson_Sintra_TSM_2272=TSM 2272=Hull mounted active/passive sonar used in the Walrus class submarines.

@@ -236,6 +236,15 @@ SonarBaffle=150
 SonarNoisePerKnot=1
 SonarOutput=220
 
+SonarModel=csu_83-1
+SonarType=ACTIVE/PASSIVE
+SonarFrequencies=L,M
+SonarActiveSensitivity=30
+SonarPassiveSensitivity=42
+SonarBaffle=150
+SonarNoisePerKnot=1
+SonarOutput=220
+
 SonarModel=csu_90-2
 SonarType=ACTIVE/PASSIVE
 SonarFrequencies=L,M

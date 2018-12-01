@@ -37,6 +37,7 @@ ger_ssn_212a
 HNLMS_SS_Walrus
 it_ss_sauro_iv
 it_ss_toti
+knm_ssk_ula
 rcn_ssk_victoria
 swe_ss_gotland
 plan_ssn_han

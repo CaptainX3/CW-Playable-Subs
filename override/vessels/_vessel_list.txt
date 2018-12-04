@@ -49,6 +49,7 @@ plan_ss_romeo
 plan_ssk_song
 plan_ssbn_xia
 dprk_ss_romeo
+roc_ssk_hailung
 vnm_ss_kilo
 wp_ssn_akula1
 wp_ssn_akula2

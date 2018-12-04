@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SUT Mod 2
+WeaponDescriptiveName=SUT Mod 2 Torpedo
+WeaponDescription=Surface-ship and submarine-launched, wire-guided acoustic homing heavyweight torpedo with electric propulsion. It is considered the most recent version of the Seal (DM2)/Seeschlange (DM1) family of torpedoes, its successor being the DM2A3/4 (Seehecht) line. 

@@ -3361,7 +3361,54 @@ AudioLoop=FALSE
 [/Model]
 
 
+WeaponObjectReference=sut_mod2
+WeaponSprite=hud/default/wp_dm2a4_sprite.png
+WeaponType=TORPEDO
+Warhead=480
+SurfaceLaunched=FALSE
+SwimOut=FALSE
+WireGuided=TRUE
+WireBreakOnLaunchProbability=0.05
+WireBreakSpeedThreshold=25
+RangeInYards=40000
+RunSpeed=35
+ActiveRunSpeed=35
+TurnRate=24
+SensorAngles=60,25
+SensorRange=3000
+WeaponNoiseValues=160,160
+MaxPitchAngle=40
+HomeSettings=ACTIVE,PASSIVE
+AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
+DepthSettings=LEVEL,SHALLOW,DEEP
+MinCameraDistance=0.5
+ResupplyTime=15
 
+[Model]
+ModelFile=weapons/assets/usn_mk48
+Material=weapons/assets/usn_mk48_mat
+MaterialTextures=weapons/assets/usn_mk48_tx
+MeshPosition=0,0,0
+MeshWeapon=Mk48
+MeshPosition=0,0,0
+MeshWeaponPropRotation=700
+MeshWeaponProp=Mk48_propl
+MeshPosition=0,0,-0.0528
+CavitationParticle=weapons/assets/torpedo_cavitation_particle
+
+AudioSource=TorpedoEngine
+AudioClip=audio/weapons/torpedo_in_water_loop
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1
+AudioLoop=TRUE
+AudioSource=TorpedoSonarPing
+AudioClip=audio/environment/sonar_ping_short
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1.2
+AudioLoop=FALSE;
+[/Model]
 
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

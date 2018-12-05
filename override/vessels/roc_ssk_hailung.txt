@@ -103,8 +103,12 @@ MaterialTextures=vessels/textures/stingrayhull.png
 Mesh=plan_ssk_song
 MeshPosition=0,0,-0.4463
 MeshRudder=plan_ssk_song_rudders
+
+ModelFile=ships/wp_ss_romeo/wp_ss_romeo
 MeshPosition=0,0.1252,0.2932
-MeshBowPlanes=plan_ssk_song_sailplanes
+MeshBowPlanes=wp_ss_romeo_bowplanes
+
+ModelFile=ships/plan_ssk_song/plan_ssk_song
 MeshPosition=0,-0.0017,-0.4409
 MeshSternPlanes=plan_ssk_song_sternplanes
 

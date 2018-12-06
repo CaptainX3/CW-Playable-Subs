@@ -201,6 +201,9 @@ MeshRotation=0,0,0
 MeshPosition=0,-0.056,-0.533
 MeshNoisemakerMount=FALSE
 
+MeshPosition=0,0,0
+ModelFile=ships/plan_ssk_song/plan_ssk_song
+
 //Wake
 MeshPosition=0,0,-0.6496
 BowWaveParticle=ships/particles/bowwave_sub

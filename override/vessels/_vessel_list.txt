@@ -39,6 +39,7 @@ it_ss_sauro_iv
 it_ss_toti
 knm_ssk_ula
 rcn_ssk_victoria
+spa_ssk_galerna
 swe_ss_gotland
 plan_ssn_han
 plan_ssn_shang

@@ -1060,7 +1060,7 @@ SonarOutput=220
 
 // SH3D Dipping Sonar
 // should be only active, small passive sensitivity given for gameplay
-SonarModel=usn_an_aqs-13
+SonarModel=usn_an_aqs_13
 SonarType=DIPPING
 SonarFrequencies=H
 SonarActiveSensitivity=28

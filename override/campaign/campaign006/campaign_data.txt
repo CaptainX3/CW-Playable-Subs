@@ -1,5 +1,5 @@
 [General]
-MapImage=campaign/maps/south_china_sea_chart.png
+MapImage=campaign/maps/south_china_sea_chart_dirty.png
 MapNavigationData=campaign/images/maps/south_china_sea_navmap
 MapElevationData=campaign/images/maps/south_china_sea_bathymetry
 WorldObjectsData=campaign/maps/south_china_sea_world_objects

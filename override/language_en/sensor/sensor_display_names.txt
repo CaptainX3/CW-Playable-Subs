@@ -280,6 +280,10 @@ usn_sps_67=SPS-67=Typical surface-search radar used by ships to detect other ves
 
 usn_an_sps-49=SPS-49=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
 
+usn_an_sps-10=AN/SPS-10=A medium range surface search radar. It was used for the detection, ranging and tracking of surface contacts and to a limited extent, air contacts as well. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
+
+usn_an_sps-55=AN/SPS-55=Typical surface-search radar used by ships to detect other vessels and navigational hazards. While not optimized to do so, these sets are capable of detecting a raised periscope if the conditions are right.
+
 usn_aps-124=AN/APS-124=Raytheon (formerly Texas Instruments) search radar.
 
 usn_aps-115=AN/APS-115=Raytheon long range Maritime Surveillance Radar.

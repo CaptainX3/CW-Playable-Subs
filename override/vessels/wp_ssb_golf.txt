@@ -42,10 +42,18 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=wp_set-65
 TorpedoNumbers=22
-TorpedoTubes=6
-TubeConfig=1,1,1,1,1,1
+TorpedoTubes=7
+TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
+
+//Swap out the marked lines to use the updated missile. Submerged launch.
+VLSTorpedoTypes=wp_r11_slbm
+//VLSTorpedoTypes=wp_r21_slbm
+VLSTorpedoNumbers=3
+VLSMaxDepthToFire=5
+//VLSMaxDepthToFire=150
+VLSMaxSpeedToFire=4
 
 NoisemakerName=wp_noisemaker
 NumberOfNoisemakers=20
@@ -172,6 +180,12 @@ MeshRotation=0,0,0
 MeshPosition=-0.005,-0.0287,0.6
 TorpedoSpawnPosition=-0.005,-0.0287,0.6
 TorpedoEffectPosition=0,0,0.0232
+
+//VLS Launch Position
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.011,0.037
+TorpedoEffectPosition=0,0.011,0.037
 
 //Noisemaker Mount
 MeshRotation=0,0,0

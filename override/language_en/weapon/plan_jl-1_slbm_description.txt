@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=JL-1 SLBM
+WeaponDescriptiveName=JL-1 (SLBM)
+WeaponDescription=The Julang-1, also known as the JL-1 and in US nomenclature as the CSS-N-3, is China's first generation submarine-launched nuclear ballistic missile.\nIn-game range, 275000 yards

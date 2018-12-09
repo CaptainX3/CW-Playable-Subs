@@ -3998,6 +3998,7 @@ DepthWeaponNumberFired=26
 DepthWeaponRateOfFire=1.2
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
+
 // default depth bomb: is very underpowered
 DepthWeaponObjectReference=wp_depth_bomb
 DepthWeaponWarhead=25

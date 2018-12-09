@@ -8,9 +8,9 @@ Weight=5800
 Crew=4
 RADAR=plan_klc_1
 RADARSignature=SMALL
-ActiveSonarModel=usn_aqs_13
-PassiveSonarModel=usn_aqs_13
-SonobuoyTypes=usn_ssq_62
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
+SonobuoyTypes=usn_ssq62
 SonobuoyNumbers=15
 [Weapon Systems]
 TorpedoTypes=usn_mk46
@@ -260,8 +260,8 @@ Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
 //SH60B does not have dipping sonar, added SH3D dipping for gameplay since sonobuoys are dropped sporadically
-ActiveSonarModel=usn_an_aqs-13
-PassiveSonarModel=usn_an_aqs-13
+ActiveSonarModel=FALSE
+PassiveSonarModel=FALSE
 SonobuoyTypes=usn_ssq62,usn_ssq53b
 SonobuoyNumbers=13,13
 [Weapon Systems]
@@ -320,8 +320,8 @@ Weight=9900
 Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
-ActiveSonarModel=usn_an_aqs-13f
-PassiveSonarModel=usn_an_aqs-13f
+ActiveSonarModel=usn_an_aqs_13f
+PassiveSonarModel=usn_an_aqs_13f
 SonobuoyTypes=usn_ssq62,usn_ssq53b
 SonobuoyNumbers=13,13
 [Weapon Systems]
@@ -381,8 +381,8 @@ Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
 //SH60B does not have dipping sonar, added SH3D dipping for gameplay since sonobuoys are dropped sporadically
-ActiveSonarModel=usn_an_aqs-13
-PassiveSonarModel=usn_an_aqs-13
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
 SonobuoyTypes=usn_ssq47,usn_ssq38,usn_ssq53a
 SonobuoyNumbers=13,7,7
 [Weapon Systems]
@@ -441,8 +441,8 @@ Weight=10000
 Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
-ActiveSonarModel=usn_an_aqs-13
-PassiveSonarModel=usn_an_aqs-13
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
 SonobuoyTypes=usn_ssq47,usn_ssq38,usn_ssq53a
 SonobuoyNumbers=10,5,5
 [Weapon Systems]
@@ -492,8 +492,8 @@ Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
 //SH60B does not have dipping sonar, added SH3D dipping for gameplay since sonobuoys are dropped sporadically
-ActiveSonarModel=usn_an_aqs-13
-PassiveSonarModel=usn_an_aqs-13
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
 SonobuoyTypes=usn_ssq62,usn_ssq53b
 SonobuoyNumbers=13,13
 [Weapon Systems]
@@ -552,8 +552,8 @@ Weight=10000
 Crew=4
 RADAR=usn_aps-124
 RADARSignature=SMALL
-ActiveSonarModel=usn_an_aqs-13
-PassiveSonarModel=usn_an_aqs-13
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
 SonobuoyTypes=usn_ssq62,usn_ssq53b
 SonobuoyNumbers=10,10
 [Weapon Systems]
@@ -736,7 +736,7 @@ Length=35.6
 Height=11.8
 Weight=61400
 Crew=11
-RADAR=usn_aps_115
+RADAR=usn_aps-115
 RADARSignature=LARGE
 ActiveSonarModel=FALSE
 PassiveSonarModel=FALSE
@@ -796,7 +796,7 @@ Length=35.6
 Height=11.8
 Weight=61400
 Crew=11
-RADAR=usn_aps_115
+RADAR=usn_aps-115
 RADARSignature=LARGE
 ActiveSonarModel=FALSE
 PassiveSonarModel=FALSE

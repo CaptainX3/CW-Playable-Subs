@@ -43,16 +43,16 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=wp_ugst,russian_moss,wp_s10,wp_ss-n-16,wp_53-65M
 TorpedoNumbers=18,5,4,0,0
-TorpedoTubes=6
+TorpedoTubes=7
 NumberOfWires=6
-TubeConfig=1,1,1,1,1,1
+TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
-//VLSTorpedoTypes=rus_r39_slbm
-//VLSTorpedoNumbers=20
-//VLSMaxDepthToFire=300
-//VLSMaxSpeedToFire=10
+VLSTorpedoTypes=wp_rsm52_slbm
+VLSTorpedoNumbers=20
+VLSMaxDepthToFire=300
+VLSMaxSpeedToFire=10
 
 NoisemakerName=wp_noisemaker
 NumberOfNoisemakers=20
@@ -175,10 +175,10 @@ TorpedoSpawnPosition=-0.015,0.0151,1.28
 TorpedoEffectPosition=0,0,0.0232
 
 //VLS Launch Position
-//MeshPosition=0,0.0785,0.5816
-//MeshRotation=-90,0,0
-//TorpedoSpawnPosition=0,0.0785,0.5816
-//TorpedoEffectPosition=0,0.0785,0.5816
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.0785,0.5816
+TorpedoEffectPosition=0,0.0785,0.5816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

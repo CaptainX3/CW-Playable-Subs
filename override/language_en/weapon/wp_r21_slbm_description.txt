@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=R-21 SLBM
+WeaponDescriptiveName=R-21 (SLBM)
+WeaponDescription=The R-21 missile (D-4 complex) is the first in the USSR combat ballistic underwater-launched missile. The time to prepare the first missile for launch was about 30 min. The time to launch three missiles was no more than 10 min.\nIn-game range, 275000 yards

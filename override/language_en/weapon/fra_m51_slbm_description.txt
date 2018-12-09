@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=M51 SLBM
+WeaponDescriptiveName=M51 (SLBM)
+WeaponDescription=The M51 SLBM is a submarine-launched ballistic missile, built by Airbus Defence & Space, and deployed with the French Navy. Designed to replace the M45 SLBM (In French terminology the MSBS - Mer-Sol-Balistique-Stratégique "Sea-ground-Strategic ballistic"), it was first deployed in 2010. Each missile carries six to ten independently targetable TN 75 thermonuclear warheads.\nIn-game range, 275000 yards

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=RSM-54 SLBM
+WeaponDescriptiveName=RSM-54 (SLBM)
+WeaponDescription=The R-29RMU Sineva, code RSM-54, is a Russian liquid-fueled submarine-launched ballistic missile. Designation SS-N-23A Skiff. It can carry four warheads and is designed to be launched from Delta IV class submarines, which are armed with 16 missiles each. As of 2017, there are 96 launchers deployed on the submarines.\nIn-game range, 275000 yards

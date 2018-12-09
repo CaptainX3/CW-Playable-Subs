@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=M45 SLBM
+WeaponDescriptiveName=M45 (SLBM)
+WeaponDescription=The M45 SLBM is a French Navy submarine-launched ballistic missile (In French terminology, the MSBS - Mer-Sol-Ballistique-Stratégique (Sea-ground-Strategic ballistic missile). Each missile carries six MIRVs, each armed with a thermonuclear warhead of 110 kt. The M45 has a reported accuracy of 350 m CEP using an inertial missile guidance system coupled with computer payload control.\nIn-game range, 275000 yards

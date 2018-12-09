@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=R-11 SLBM
+WeaponDescriptiveName=R-11FM (SLBM)
+WeaponDescription=The R-11FM Zemlya missile was developed by OKB-1 on the basis of the R-11 and R-11M land tactical missiles. On September 16, 1955 for the first time in the world a ballistic missile was launched from a submarine.\nThey could only be fired with the submarine surfaced and the missile raised above the sail but the submarine could be underway at the time.\nIn-game range, 275000 yards

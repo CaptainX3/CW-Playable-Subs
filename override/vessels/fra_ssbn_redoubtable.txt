@@ -42,16 +42,16 @@ RADARSignature=SMALL
 
 TorpedoTypes=fr_f17,usn_moss,fr_sm39
 TorpedoNumbers=18,2,6
-TorpedoTubes=4
+TorpedoTubes=5
 NumberOfWires=4
-TubeConfig=1,1,1,1
+TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
-//VLSTorpedoTypes=fra_m45_slbm
-//VLSTorpedoNumbers=12
-//VLSMaxDepthToFire=300
-//VLSMaxSpeedToFire=10
+VLSTorpedoTypes=fra_m45_slbm
+VLSTorpedoNumbers=12
+VLSMaxDepthToFire=300
+VLSMaxSpeedToFire=10
 
 NoisemakerName=usn_noisemaker
 NumberOfNoisemakers=20
@@ -163,10 +163,10 @@ TorpedoSpawnPosition=0.01,-0.0086,1.237
 TorpedoEffectPosition=0,0,0.0232
 
 //VLS Launch Position
-//MeshPosition=0,0.0785,0.5816
-//MeshRotation=-90,0,0
-//TorpedoSpawnPosition=0,0.0785,0.3816
-//TorpedoEffectPosition=0,0.0785,0.3816
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.0785,0.3816
+TorpedoEffectPosition=0,0.0785,0.3816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

@@ -13,6 +13,7 @@ usn_ssn_sturgeon
 usn_ssn_virginia
 usn_ssn_virginia_imp
 usn_ss_stingray
+usn_ssbn_ohio
 usn_ssbn_ohio_vls
 usn_ssbn_ethan_allen
 usn_ssbn_washington

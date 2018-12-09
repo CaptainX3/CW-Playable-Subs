@@ -29,4 +29,4 @@ HelicopterType=wp_helix
 NumberOfAircraft=0
 AircraftType=wp_il-38_may
 
-PlayerVessels=usn_ssbn_ohio_vls,usn_ssbn_ethan_allen,usn_ssbn_washington,uk_ssbn_resolution,uk_ssbn_vanguard,fra_ssbn_redoubtable,fra_ssbn_triomphant
+PlayerVessels=usn_ssbn_ohio,usn_ssbn_ohio_vls,usn_ssbn_ethan_allen,usn_ssbn_washington,uk_ssbn_resolution,uk_ssbn_vanguard,fra_ssbn_redoubtable,fra_ssbn_triomphant

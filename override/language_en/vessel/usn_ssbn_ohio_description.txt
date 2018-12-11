@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Ohio (SSBN)
+Description=[USA] Ohio Class SSBN
+History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nThe US Navy has a total of 18 Ohio-class submarines which consist of 14 ballistic missile submarines (SSBNs), and four cruise missile submarines (SSGNs). The SSBN submarines are also known as "Trident" submarines, and provide the sea-based leg of the U.S. nuclear triad. Each SSBN submarine is armed with up to 24 Trident II submarine-launched ballistic missiles (SLBM). Each SSGN is capable of carrying 154 Tomahawk cruise missiles, plus a complement of Harpoon missiles to be fired through their torpedo tubes.
+
+[Player Ship Instances]
+PlayerClassNames=Henry M. Jackson,Alabama,Alaska,Nevada,Tennessee,Pennsylvania,West Virginia,Kentucky,Maryland,Nebraska,Rhode Island,Maine,Wyoming,Louisiana
+
+PlayerClassHullNumbers=SSBN-730,SSBN-731,SSBN-732,SSBN-733,SSBN-734,SSBN-735,SSBN-736,SSBN-737,SSBN-738,SSBN-739,SSBN-740,SSBN-741,SSBN-742,SSBN-743

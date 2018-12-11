@@ -4062,7 +4062,7 @@ ResupplyTime=30
 [Model]
 ModelFile=weapons/assets/wp_ss-n-16
 Material=ships/wp_ssgn_yasen/wp_ssgn_yasen_mat
-MaterialTextures=vessels/textures/prop2.png
+MaterialTextures=vessels/textures/darkgreen.png
 MeshPosition=0,0,0
 MeshWeapon=
 MeshMissileBooster=wp_ss-n-16

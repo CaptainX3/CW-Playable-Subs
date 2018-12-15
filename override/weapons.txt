@@ -4294,6 +4294,57 @@ AudioLoop=TRUE
 [/Model]
 
 
+//DPRK KN-11
+WeaponObjectReference=dprk_kn11_slbm
+WeaponSprite=hud/default/dprk_kn11_slbm_sprite.png
+WeaponType=MISSILE
+Warhead=5000
+SurfaceLaunched=FALSE
+MaxLaunchDepth=150
+WireGuided=FALSE
+LandAttack=TRUE
+RangeInYards=2000000
+RunSpeed=40
+CruiseAltitude=500
+ActiveRunSpeed=490
+TurnRate=30
+SensorAngles=60,15
+SensorRange=3000
+WeaponNoiseValues=190,190
+MissileFiringRange=8000,275000
+MaxPitchAngle=89
+BoosterReleasedAfterSeconds=-1
+HomeSettings=FALSE
+AttackSettings=FALSE
+DepthSettings=FALSE
+MinCameraDistance=0.5
+ResupplyTime=30
+[Model]
+ModelFile=weapons/assets/wp_ss-n-16
+Material=ships/wp_ssgn_yasen/wp_ssgn_yasen_mat
+MaterialTextures=vessels/textures/prop2.png
+MeshPosition=0,0,0
+MeshWeapon=
+MeshMissileBooster=wp_ss-n-16
+MeshWeaponCanister=wp_ss-n-16
+MeshPosition=0,0,-0.0594
+MissileTrailParticle=weapons/assets/usn_ugm84_missiletrail
+MeshPosition=0,0,0
+BoosterParticle=weapons/assets/wp_ss-n-16_boosterrelease
+AudioSource=MissileLaunch
+AudioClip=audio/weapons/missile_launch
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1
+AudioLoop=FALSE
+AudioSource=MissileEngine
+AudioClip=audio/weapons/jet_loop
+AudioRollOff=LOGARITHMIC
+AudioDistance=1,25
+AudioPitch=1.1
+AudioLoop=TRUE
+[/Model]
+
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 // - DEPTH CHARGES, MORTARS, & SHELLS ------------------------------------------------------------------------------------------------------------------------------------------------

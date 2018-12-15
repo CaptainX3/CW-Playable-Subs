@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Oberon
+ShipClass=Oberon [UK]
 Description=[GBR] Oberon Class SSK (1968 Era)
 History=Self Noise Rating: 142 db\nEscape Depth: 450 ft\n\nThe Oberon class was a ship class of 27 British-designed submarines operated by five different nations.\nThe Oberons operated during the height of the Cold War, with duties including surveillance, tracking of other ships and submarines, delivery and retrieval of special forces personnel, and serving as targets for anti-submarine training. Submarines of the class were in service until 2000.
 

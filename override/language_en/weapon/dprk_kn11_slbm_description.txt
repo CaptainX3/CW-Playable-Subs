@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=KN11 SLBM
+WeaponDescriptiveName=KN11 (SLBM)
+WeaponDescription=The Pukkuksong-1 or Bukgeukseong-1, alternatively KN-11 in intelligence communities outside North Korea is a North Korean, Submarine Launched Ballistic Missile (SLBM) that was successfully flight tested on 24 August 2016 and is expected by South Korean military sources to reach operational deployment as early as 2017. Pukkuksong-1 is officially recognized by North Korea, South Korea and the United States as a missile that went through a complete, successful test on 24 August 2016.\nIn-game range, 275000 yards

@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=A-184
 WeaponDescriptiveName=Whitehead A-184 torpedo
-WeaponDescription=This torpedo was developer by WASS and has medium performance for its category. It lacks in speed.
+WeaponDescription=This torpedo is a double role heavy torpedo, wire-guided with a final active autoguiding system

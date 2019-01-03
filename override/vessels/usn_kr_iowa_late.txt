@@ -1,4 +1,4 @@
-Designation=CL
+Designation=BB
 ShipType=CAPITAL
 
 Length=262

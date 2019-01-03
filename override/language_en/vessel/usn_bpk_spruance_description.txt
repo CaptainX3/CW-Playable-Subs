@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Spruance
-Description=Spruance Class Anti-Submarine Ship
+Description=Spruance Class Destroyer
 DefensiveWeapons=RIM-7 Sea Sparrow 
 OffensiveWeapons=ASROC ASW Missiles\nMK-45 DP Guns\nASW Torpedoes\nTASM ASuW Missiles
 Aircraft=2 SH-60 ASW helicopter

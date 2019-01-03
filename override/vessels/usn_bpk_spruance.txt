@@ -1,4 +1,4 @@
-Designation=DDG
+Designation=DD
 ShipType=ESCORT
 
 Length=161

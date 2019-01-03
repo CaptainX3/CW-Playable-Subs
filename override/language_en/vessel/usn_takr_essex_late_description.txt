@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Essex (Late)
-Description=Essex Class Tactical Aircraft Carrier
+Description=Essex Class Aircraft Carrier
 DefensiveWeapons=20mm Oerlikon AA guns
 OffensiveWeapons=MK-38 DP Guns
 Aircraft=14 SH-60 ASW helicopters

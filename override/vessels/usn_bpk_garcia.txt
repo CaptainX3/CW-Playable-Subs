@@ -1,4 +1,4 @@
-Designation=FFG
+Designation=FF
 ShipType=ESCORT
 
 Length=126.34

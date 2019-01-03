@@ -1,4 +1,4 @@
-Designation=SS
+Designation=SSK
 ShipType=SUBMARINE
 PlayerHUD=hud/uk
 
@@ -102,10 +102,6 @@ MeshSuperstructureCollider=wp_ss_kilo_coll_ss
 Material=ships/wp_ss_kilo/wp_ss_kilo_mat
 MaterialTextures=vessels/textures/uk_ss_upholder.png
 Mesh=wp_ss_kilo
-MeshPosition=0,-0.048,-0.4662
-MeshRudder=wp_ss_kilo_rudder
-MeshPosition=0,0.0641,0.2571
-MeshBowPlanes=wp_ss_kilo_bowplanes
 MeshPosition=0,0,-0.4804
 MeshSternPlanes=wp_ss_kilo_sternplanes
 
@@ -117,6 +113,14 @@ MeshPosition=0.0,0.021,-0.1398
 Mesh=usn_ssn_permit_wlr9
 MeshPosition=0.0,0.03,-0.1398
 Mesh=usn_ssn_permit_wlr9
+
+MeshPosition=0,-0.0030,-0.4535
+MeshRudder=usn_ssn_permit_rudders
+
+//Bowplanes
+ModelFile=ships/wp_ssn_sierra/wp_ssn_sierra
+MeshPosition=0,0,0.3500
+MeshBowPlanes=wp_ssn_sierra_bowplanes
 
 //Bowplanes Blank
 ModelFile=ships/wp_bpk_udaloy/wp_bpk_udaloy

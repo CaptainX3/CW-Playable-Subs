@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Perry (1990)
-Description=Perry Class Anti-Submarine Ship (1990's version)
+Description=Perry Class Frigate (1990's version)
 DefensiveWeapons=SM-1MR SAM
 OffensiveWeapons=MK-38 DP Guns\nASW Torpedoes
 Aircraft=2 SH-60F ASW helicopter

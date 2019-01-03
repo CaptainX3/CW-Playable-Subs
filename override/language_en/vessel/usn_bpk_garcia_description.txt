@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Garcia
-Description=Garcia Class Anti-Submarine Ship
+Description=Garcia Class Frigate
 DefensiveWeapons=None
 OffensiveWeapons=ASROC ASW Missiles\nMK-33 DP Guns\nASW Torpedoes
 Aircraft=1 SH-2 ASW helicopter

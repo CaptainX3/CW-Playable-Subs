@@ -899,6 +899,15 @@ SonarBaffle=FALSE
 SonarNoisePerKnot=1
 SonarOutput=220
 
+SonarModel=wp_skat3
+SonarType=TOWED
+SonarFrequencies=VL
+SonarActiveSensitivity=0
+SonarPassiveSensitivity=48
+SonarBaffle=FALSE
+SonarNoisePerKnot=1
+SonarOutput=220
+
 SonarModel=wp_amfora_ta
 SonarType=TOWED
 SonarFrequencies=L

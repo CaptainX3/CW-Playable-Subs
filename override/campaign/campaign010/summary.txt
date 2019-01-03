@@ -1,0 +1,5 @@
+Image=campaign/images/c010.png
+PlayerVessels=uk_ssn_astute,uk_ssn_churchill,uk_ssbn_resolution,uk_ssn_trafalgar,uk_ssbn_vanguard,uk_ss_oberon,uk_ss_upholder
+[COMMANDER NAMES]
+CommanderName=REAR ADMIRAL SUBMARINES
+CommanderFleetName=MINISTRY OF DEFENSE

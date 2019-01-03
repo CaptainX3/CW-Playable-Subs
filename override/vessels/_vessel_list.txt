@@ -1,4 +1,5 @@
 usn_ssn_los_angeles
+multi_ssk_scorpene
 usn_ssn_los_angeles_flt2
 usn_ssn_los_angeles_flt3
 usn_ssn_narwhal
@@ -62,6 +63,7 @@ wp_ssn_mike
 wp_ssn_november
 wp_ssn_novemberii
 wp_ssn_sierra
+wp_ssn_sierra2
 wp_ssn_victor1
 wp_ssn_victor2
 wp_ssn_victor3
@@ -85,6 +87,7 @@ wp_ssbn_yankee
 wp_ssgn_charlie1
 wp_ssgn_charlie2
 wp_ssgn_echo2
+wp_ssgn_yankee
 wp_ssg_juliet
 wp_ssgn_oscar
 wp_ssgn_papa
@@ -100,6 +103,7 @@ wp_kr_sverdlov
 wp_pkr_moskva
 wp_pkr_moskva_68
 wp_bpk_udaloy
+wp_bpk_udaloy2
 wp_bpk_kara
 wp_bpk_kresta2
 wp_rkr_kresta1

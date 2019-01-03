@@ -1,4 +1,4 @@
-Designation=CVGH
+Designation=CVN
 ShipType=CAPITAL
 
 Length=332.8

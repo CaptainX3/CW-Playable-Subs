@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Nimitz
-Description=Nimitz Class Nuclear Aircraft Carrier
+Description=Nimitz Class Aircraft Carrier
 DefensiveWeapons=4 Phalanx AA guns
 OffensiveWeapons=None
 Aircraft=90 aircraft and helicopters

@@ -179,7 +179,7 @@ plan_ss_12=SS-12=French medium frequency variable depth sonar imported by China 
 
 plan_sqc_1=SQC-1=This is a Chinese version of the French Eledone low-frequency digital sonar similar in performance to BQQ-5 and mounted on the Han and Xia class submarines.
 
-plan_tsm_2233=TSM-2233=This is the French Eledone low-frequency digital sonar similar in performance to BQQ-5 and mounted on the Song class submarines.
+plan_tsm_2233=TSM-2233=This is the French Eledone low frequency digital sonar similar in performance to BQQ-5 and is fitted on various class of submarines.
 
 wp_bull_horn=Bull Horn=This hull-mounted active/passive medium frequency set is mounted on later Soviet ships where it replaces the earlier Bull Nose medium frequency array.
 
@@ -212,6 +212,8 @@ wp_mare_tail=Mare Tail=This large variable depth sonar (VDS) was first observed 
 wp_horse_tail=Horse Tail=Larger and much more capable than Mare Tail, Horse Tail is a towed low frequency variable depth sonar (VDS) which equips the Kirov and Udaloy classes where it gives these ships the ability to search beneath the layer for considerable distances.
 
 wp_shark_tail=Shark Tail=This is a passive low-frequency towed array that equips all Soviet submarines of recent construction from the Victor III onwards. While not comparable to American towed array systems, it nevertheless provides the Soviets wih an improved sonar capability which earlier generations were lacking, giving these newer boats something of a quantum leap in capabilities and the threat they provide.
+
+wp_skat3=SKAT 3=This is a Soviet passive very low frequency towed array sonar.
 
 wp_amfora_ta=MGK-600=This is the passive towed array component of the advanced sonar suite that equips the Yasen. It is probably similar in performance to the US TB-23.
 
@@ -310,6 +312,8 @@ wp_snoop_plate=Snoop Plate=Mast-mounted surface search radar allows submarines t
 wp_snoop_slab=Snoop Slab=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
 wp_snoop_pair=Snoop Pair=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
+
+wp_strut_pair=Strut Pair=Topaz-V MR-320M "Strut Pair", Air/Surface search radar.
 
 wp_mushroom=Short Horn=Helicopter-mounted surface search set for Ka-25BSh, optimized for ASW.
 

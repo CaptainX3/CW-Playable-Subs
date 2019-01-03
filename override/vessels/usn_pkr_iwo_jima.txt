@@ -1,4 +1,4 @@
-Designation=CGH
+Designation=LPH
 ShipType=CAPITAL
 
 Length=180.0

@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Charles F. Adams
-Description=Charles F. Adams Class Anti-Submarine Ship
+Description=Charles F. Adams Class Destroyer
 DefensiveWeapons=RIM-24 Tartar SAM
 OffensiveWeapons=ASROC ASW Missiles\nMK-42 DP Guns\nASW Torpedoes
 Aircraft=None

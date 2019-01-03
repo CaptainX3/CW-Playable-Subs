@@ -1,4 +1,4 @@
-Designation=SSGN
+Designation=SSBN
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 

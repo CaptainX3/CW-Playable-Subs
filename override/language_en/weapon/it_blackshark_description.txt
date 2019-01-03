@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Black Shark
+WeaponDescriptiveName=Black Shark torpedo
+WeaponDescription=The Black Shark is a heavyweight torpedo developed by WASS of Italy. It is most closely associated with the Scorpène diesel-electric submarines produced by France for the export market, but is also found in the Type 209 submarines. Whitehead Alenia Sistemi Subacquei Italy developed the Black Shark torpedo as an evolution of the A184, with more advanced ECCM abilities and sonar. The advancements in electric motor design and battery allowed an increase in both range and speed.

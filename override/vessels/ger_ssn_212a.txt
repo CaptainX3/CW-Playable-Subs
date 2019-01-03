@@ -1,4 +1,4 @@
-Designation=U
+Designation=SSK
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 

@@ -41,8 +41,8 @@ RADARSignature=SMALL
 TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
-TorpedoTypes=uk_tf,uk_sf,usn_ugm84,usn_moss
-TorpedoNumbers=0,20,5,5
+TorpedoTypes=uk_tf,usn_ugm84,usn_moss
+TorpedoNumbers=20,5,5
 TorpedoTubes=6
 NumberOfWires=6
 TubeConfig=1,1,1,1,1,1

@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Yankee Notch
+Description=[RUS] Yankee Notch Class SSGN
+History=Self Noise Rating: 147 db\nEscape Depth: 600 ft\n\nThese converted SSBN's first appeared in 1983; four Yankee I boats were rebuilt to this configuration. They incorporated a "notch waisted" center section, which replaced the old ballistic missile compartment, featuring eight 533-millimetre torpedo tubes for up to 40 SS-N-21 missiles or additional torpedoes. The forward torpedo tubes were retained as well, with some reports suggesting that the vessels may have also been able to fire 650 mm Type 65 torpedoes. The emphasis on additional SS-N-21 missile carriage suggested a tactical role for these submarines, or as second-strike nuclear submarines. The conversion increased the overall length by 12 metres (39.4 ft) to 141.5 m (464 ft), with a displacement of up to 11,500 tons submerged. While classed as SSNs (attack subs), these boats might also be considered SSGNs by virtue of their heavy missile armament.
+
+[Player Ship Instances]
+PlayerClassNames=Oktyabrist, Decembrist, Novosibirsk, Feliks Dzierzynski
+
+PlayerClassHullNumbers=K-253, K-395, K-408, K-423

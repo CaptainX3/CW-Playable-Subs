@@ -1,6 +1,6 @@
 [Unit Reference]
 ShipClass=Farragut
-Description=Farragut Class Anti-Submarine Ship
+Description=Farragut Class Destroyer
 DefensiveWeapons=Mk-10 Terrier SAM
 OffensiveWeapons=ASROC ASW Missiles\nMK-42 DP Guns\nASW Torpedoes
 Aircraft=None

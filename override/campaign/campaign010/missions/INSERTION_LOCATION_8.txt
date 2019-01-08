@@ -8,7 +8,7 @@ WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
 CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_mpk_poti|wp_mpk_grisha3,wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler,wp_vtr_andizhan_mod|wp_vt_boris_chilikin|wp_vtr_yuniy_partizan|wp_kr_sverdlov,wp_vtr_yuniy_partizan|wp_ms_leninskiy_komsomol|wp_vt_dubna,wp_vtr_yuniy_partizan|wp_ms_leninskiy_komsomol,wp_skr_krivak1
+EnemyShipClasses=wp_mpk_poti|wp_mpk_grisha3,wp_mpk_poti|wp_mpk_grisha3|wp_skr_riga,wp_fv_trawler,wp_vtr_andizhan_mod|wp_vt_boris_chilikin|wp_vtr_yuniy_partizan|wp_kr_sverdlov,wp_vtr_yuniy_partizan|wp_ms_leninskiy_komsomol|wp_vt_dubna,wp_vtr_yuniy_partizan|wp_ms_leninskiy_komsomol,fra_ssn_rubis|multi_ssk_scorpene|ger_ss_209|ger_ssn_212a|HNLMS_SS_Walrus|it_ss_sauro_iv|it_ss_toti|knm_ssk_ula|spa_ssk_galerna|swe_ss_gotland
 FormationCruiseSpeed=8
 
 //Ship positions and headings, otherwise build into a formation

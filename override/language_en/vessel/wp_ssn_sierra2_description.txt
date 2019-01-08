@@ -4,6 +4,6 @@ Description=[RUS] Sierra II Class SSN
 History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThe Project 945A has a considerably larger sail which is 5 m longer than the Sierra I class. The sail also has a curious flat, square leading edge. The masts are offset on the starboard side to make way for two escape pods in the sail. The starboard side also has a 10-point environment sensor fitted at right angles to the front end of the sail. Also, the Sierra II class has a much larger pod on its after fin. The pod houses the Skat 3 passive very low frequency towed sonar array.
 
 [Player Ship Instances]
-PlayerClassNames=Nizhniy Novgorod,Daniil Moskovskiy
+PlayerClassNames=Nizhniy Novgorod,Pskov
 
 PlayerClassHullNumbers=B-534,B-336

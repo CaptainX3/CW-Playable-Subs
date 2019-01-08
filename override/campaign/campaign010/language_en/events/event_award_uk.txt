@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/photos/admiraltyarch.jpg
+Photo=campaign/images/awards/uk/QGM.png
+Music=audio/music/Cold Waters Spotted
+Header=THE SECRETARY OF STATE FOR DEFENCE<n>LONDON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=The Secretary of State for Defence expresses their heartfelt congratulations and takes great pleasure in awarding <POSTHUMOUSLY> the
+Sentence1=<b><size=22>QUEEN'S GALLANTRY MEDAL<n>TO<n>CDR <PLAYERNAME><n>COMMANDING OFFICER,<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=CITATION:<n>Commander <PLAYERNAME> is cited for extraordinary heroism in action against enemies of the United Kingdom on <DATE>. His unwavering resolve and self-sacrificing devotion to duty in the face of death are worthy of the highest emulation.

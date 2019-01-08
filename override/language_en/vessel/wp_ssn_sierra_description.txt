@@ -4,6 +4,6 @@ Description=[RUS] Sierra Class SSN
 History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThis is the latest and most advanced Soviet attack submarine. They are faster and deeper diving than US submarines, and feature the same sensors and weapons as the Victor IIIs in a much quieter hull, benefiting from purchased and stolen western technology.
 
 [Player Ship Instances]
-PlayerClassNames=Konavalov,Kostroma
+PlayerClassNames=Karp,Kostroma
 
 PlayerClassHullNumbers=B-239,B-276

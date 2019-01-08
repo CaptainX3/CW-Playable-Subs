@@ -12,25 +12,25 @@ LocationName=Spitsbergen=Spitsbergen
 LocationName=Murmansk=Soviet Union
 LocationName=Archangelsk=Soviet Union
 LocationName=Gremikha=Soviet Union
-LocationName=Leningrad=Soviet Union
+LocationName=Saint Petersburg=Soviet Union
 
 [CITY TOWN PORT NAMES]
 Color=255,255,255,255
 Outline=TRUE
-Size=10
-Font=2
+Size=16
+Font=4
 
-LabelPosition=-175.12,-185.38
+LabelPosition=-175,-200
 LabelName=Faslane
 LabelPosition=-125.4,-48.75
 LabelName=Torshavn
 LabelPosition=-228.59,129.97
-LabelName=Reykjavik\nKeflavik
+LabelName=Reykjavik
 LabelPosition=-181.71,84.17
 LabelName=Hofn
 LabelPosition=53.1,-180.1
 LabelName=Oslo
-LabelPosition=6.7,-149.6
+LabelPosition=6.7,-140
 LabelName=Bergen
 LabelPosition=76.5,-108
 LabelName=Trondheim
@@ -51,14 +51,15 @@ LabelName=Stockholm
 LabelPosition=265.7,-201.2
 LabelName=Helsinki
 LabelPosition=354,-230.2
-LabelName=Leningrad
+LabelName=Saint Petersburg
 
 [MARKERS]
 Color=0,255,0,255
 Outline=TRUE
-Size=10
+Size=12
 LocationMarkerPosition=-204.16,-185.34
-Color=255,255,255,255
+Color=0,0,255,255
+Outline=TRUE
 Size=5
 LocationMarkerPosition=-142.37,-37.5
 LocationMarkerPosition=-254.81,130.94
@@ -77,10 +78,10 @@ LocationMarkerPosition=162.7,-225.2
 LocationMarkerPosition=265.9,-212.9
 
 [COUNTRY LABELS]
-Color=0,0,0,255
+Color=1,55,0,255
 Outline=FALSE
-Size=12
-Font=2
+Size=13
+Font=1
 LabelPosition=-201.2,103.3
 LabelName=ICELAND
 LabelPosition=-201.2,348.1
@@ -95,21 +96,19 @@ LabelPosition=269.8,-138.3
 LabelName=FINLAND
 LabelPosition=151,-374
 LabelName=POLAND
-LabelPosition=43.7,-369.2
-LabelName=EAST\nGERMANY
-LabelPosition=-25.6,-369.2
-LabelName=WEST\nGERMANY
 LabelPosition=9,-276.2
 LabelName=DENMARK
 Size=26
 LabelPosition=477.3,-285.5
-LabelName=SOVIET\nUNION
+LabelName=RUSSIAN\nFEDERATION
+LabelPosition=-60,-370
+LabelName=European Union
 
 [OCEANS AND SEAS LABELS]
-Color=43,71,97,255
+Color=0,0,128,255
 Outline=FALSE
 Size=16
-Font=3
+Font=4
 LabelPosition=-379,-23
 LabelName=NORTH ATLANTIC\nOCEAN
 LabelPosition=26.7,53.4

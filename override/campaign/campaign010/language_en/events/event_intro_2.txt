@@ -1,15 +1,15 @@
-NextAction=event_intro_3
-Image=campaign/images/LEBEDCLASS2.png
-Photo=campaign/images/photos/fulda.png
-Music=audio/music/Cold Waters Campaign Victory
+NextAction=map
+Image=campaign/images/brexit1.jpg
+Photo=campaign/images/photos/Russiacyberattack.jpg
+Music=
 Header=<DATE>
 ForwardDate=7,14
 
 Font=0
 Outline=FALSE
 Color=180,71,64,255
-Title=<b>SOVIETS ATTACK!</b>
+Title=<b>CYBER ATTACK!</b>
 Color=57,61,73,255
-Sentence1=West Germany invaded as Iceland falls to the Reds!
+Sentence1=Recent news reports suggest that Russian Military Intelligence Service may have hacked into UK media outlet servers.
 Color=218,218,208,255
-Sentence2=With a surprise attack the Red Army has invaded West Germany in an apparently retaliatory operation. A major blow to NATO defensive capabilities is the capture of Iceland, which fell overnight as Soviet forces were able to land on the island undetected and seize all major assets. NATO has now lost significant ability to protect the North Atlantic.
+Sentence2=It is understood that the hack took place on the request of a number of EU member states.

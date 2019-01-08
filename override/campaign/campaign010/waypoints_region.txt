@@ -107,3 +107,15 @@ WaypointName=I2
 WaypointPosition=-203.2,87.5
 Alignment=ENEMY
 ConnectedZones=I1
+
+//London
+WaypointName=U1
+WaypointPosition=-180,-310
+Alignment=FRIENDLY
+ConnectedZones=U2
+
+//Faslane
+WaypointName=U2
+WaypointPosition=-180,-160
+Alignment=FRIENDLY
+ConnectedZones=U1

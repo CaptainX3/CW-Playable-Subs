@@ -1,5 +1,5 @@
 [General]
-MapImage=campaign/maps/norwegian_sea_chart.png
+MapImage=campaign/maps/norwegian_sea_chart_vivid.png
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
@@ -9,8 +9,8 @@ MapHeightInNM=1800
 MapTimeCompression=3600
 Hemisphere=NORTH
 EquatorYValue=0
-JulianStartDate=2451701.5
-StartDateRange=30
+JulianStartDate=2458572.5
+StartDateRange=0
 MapSpeedModifier=2
 PlayerStartTelegraphs=2,3,6
 PlayerStartDepths=50,150,600
@@ -19,7 +19,7 @@ PortImage=campaign/images/holy_loch
 TransitImage=campaign/images/nato submarine
 TimePenaltyOnSunk=12
 DisruptTime=48,72
-CampaignPoints=600
+CampaignPoints=1000
 CampaignStartPoints=300
 PlayerPositionOnLeavePort=-242,-154
 
@@ -46,7 +46,7 @@ UseLandWar=FALSE
 IconsInOccupiedZonesOnly=FALSE
 HoursToNextGeneralEvent=60
 HoursToNextGeneralEventRange=-24,48
-FirstOccupiedTerritory=WG1,WG2,WG3
+FirstOccupiedTerritory=U1
 TerritoryTakebackThreshold=5
 NewFrontProbability=0.3
 
@@ -107,7 +107,7 @@ LinksToWaypoint=IG7
 //Iceland
 //Reykjavik/Keflavik 2
 Alignment=ENEMY
-Function=AIRBASE,NAVAL_BASE,SOSUS_NODE
+Function=AIRBASE,NAVAL_BASE
 BaseMapPosition=-259.3,135.1
 RelatedSOSUS=DENMARKSTRAIT
 AircraftType=wp_il-38_may
@@ -115,6 +115,7 @@ AircraftTypeInvaded=plan_y-8x
 AircraftPrepTime=10
 AircraftHeadings=45,110
 AircraftSearchRange=700
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=IG3
 LinksToRegionWaypoint=I1
 
@@ -136,7 +137,7 @@ LinksToRegionWaypoint=N7
 
 //Bergen 5
 Alignment=ENEMY
-Function=STRATEGIC_NODE,NAVAL_BASE,INSERTION_TARGET
+Function=STRATEGIC_NODE,NAVAL_BASE
 BaseMapPosition=-25.9,-147.5
 MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=NC4
@@ -144,7 +145,7 @@ LinksToRegionWaypoint=N6
 
 //Trondheim 6
 Alignment=ENEMY
-Function=STRATEGIC_NODE,NAVAL_BASE,AIRBASE,INSERTION_TARGET
+Function=STRATEGIC_NODE,NAVAL_BASE,AIRBASE
 BaseMapPosition=67.2,-83.5
 AircraftType=plan_y-8x
 AircraftTypeInvaded=wp_il-38_may
@@ -152,6 +153,7 @@ AircraftSearchRange=700
 AircraftPrepTime=15
 AircraftHeadings=315,45
 AircraftSearchRange=700
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=NC3
 LinksToRegionWaypoint=N5
 
@@ -170,13 +172,14 @@ LinksToRegionWaypoint=N2
 
 //Narvik 8
 Alignment=ENEMY
-Function=STRATEGIC_NODE,NAVAL_BASE,AIRBASE,INSERTION_TARGET
+Function=STRATEGIC_NODE,NAVAL_BASE,AIRBASE
 BaseMapPosition=156.9,9.1
 AircraftType=plan_y-8x
 AircraftTypeInvaded=wp_tu-142_bear
 AircraftPrepTime=15
 AircraftHeadings=235,50
 AircraftSearchRange=700
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=NC2
 LinksToRegionWaypoint=N3
 
@@ -210,7 +213,7 @@ AircraftTypeInvaded=plan_y-8x
 AircraftPrepTime=15
 AircraftHeadings=330,0
 AircraftSearchRange=700
-MissionTypes=LANDING_FORCE,SHIP_RESUPPLY,SUB_RESUPPLY,RESUPPLY_CONVOY
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=SC1
 CombatCoords=1234,1234
 
@@ -224,13 +227,9 @@ CombatCoords=1234,1234
 
 //Leningrad
 Alignment=ENEMY
-Function=NAVAL_BASE,AIRBASE,INSERTION_TARGET
+Function=NAVAL_BASE,INSERTION_TARGET
 BaseMapPosition=321.9,-216.6
-AircraftType=wp_tu-142_bear
-AircraftPrepTime=15
-AircraftHeadings=240,260
-AircraftSearchRange=700
-MissionTypes=SS_PATROL,SS_WOLFPACK
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
 LinksToWaypoint=BE1
 CombatCoords=1234,1234
 
@@ -240,6 +239,9 @@ Alignment=ENEMY
 Function=STRATEGIC_NODE,NAVAL_BASE,SOSUS_NODE
 BaseMapPosition=162.90,-274.80
 RelatedNodes=Berga,Karlskrona
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
+LinksToWaypoint=BE2
+CombatCoords=1234,1234
 
 //Berga
 //Region=Sweden
@@ -247,12 +249,18 @@ Alignment=ENEMY
 Function=STRATEGIC_NODE,NAVAL_BASE,SOSUS_NODE
 BaseMapPosition=128.30,-268.50
 RelatedNodes=Gotland,Karlskrona
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
+LinksToWaypoint=BE3
+CombatCoords=1234,1234
 
 //Karlskrona
 Alignment=ENEMY
 Function=STRATEGIC_NODE,NAVAL_BASE,SOSUS_NODE
 BaseMapPosition=109.60,-300.00
 RelatedNodes=Gotland,Berga
+MissionTypes=LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
+LinksToWaypoint=BE4
+CombatCoords=1234,1234
 
 [SOSUS]
 SOSUSName=DENMARKSTRAIT
@@ -269,12 +277,12 @@ SOSUSAngle=-25
 SOSUSDetectionRange=120
 SOSUSAlignment=ENEMY
 
-SOSUSName=FAROESSOUTH
-SOSUSStartPosition=-164.20,-133.20
-SOSUSEndPosition=-145.30,-39.30
-SOSUSAngle=15
-SOSUSDetectionRange=120
-SOSUSAlignment=ENEMY
+//SOSUSName=FAROESSOUTH
+//SOSUSStartPosition=-164.20,-133.20
+//SOSUSEndPosition=-145.30,-39.30
+//SOSUSAngle=15
+//SOSUSDetectionRange=120
+//SOSUSAlignment=ENEMY
 
 SOSUSName=NORWAYSPITSBERGEN
 SOSUSStartPosition=180.10,40.70
@@ -293,7 +301,7 @@ PlayerMissionThreshold=0
 
 CommandoLoadTime=120
 
-DefaultMissionTypes=SSN_WOLFPACK,SS_WOLFPACK
+DefaultMissionTypes=SSN_WOLFPACK,SS_WOLFPACK,RESUPPLY_CONVOY
 Mission=SS_SPECOPS_0
 Mission=SS_SPECOPS_1
 Mission=LANDING_FORCE_0
@@ -334,7 +342,7 @@ Mission=SSBN_PATROL_1
 
 [NON-PLAYER MISSIONS]
 Non-PlayerMissionTypes=SS_PATROL,SSN_PATROL,ASW_PATROL,RESUPPLY_CONVOY,SSBN_PATROL,SS_WOLFPACK,LANDING_FORCE,SSN_WOLFPACK,ASUW_STRIKE,SUB_RESUPPLY,SHIP_RESUPPLY
-Non-PlayerMissionFrequency=0.09,0.09,0.09,0.09,0.10,0.09,0.09,0.09,0.09,0.09,0.09
+Non-PlayerMissionFrequency=0.04,0.04,0.04,0.54,0.10,0.04,0.04,0.04,0.04,0.04,0.04
 Non-PlayerMission=SS_PATROL_0
 Non-PlayerMission=SSN_PATROL_0
 Non-PlayerMission=ASW_PATROL_0
@@ -383,7 +391,7 @@ Event=event_sunk_lost_at_sea=LOST_AT_SEA
 Event=event_early_end_1
 Event=event_early_end_2
 Event=event_campaign_statistics=STATISTICS
-Event=event_award_bronze_star
+Event=event_award_uk
 Event=event_award_silver_star
 Event=event_award_navy_cross
 Event=event_award_medal_of_honor

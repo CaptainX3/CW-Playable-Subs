@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Alfa II
 Description=[RUS] Alfa II Class SSN
-History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 120 db\nEscape Depth: 1000 ft\n\nThe Alfa II class submarine is the modernized version of the original Alfa class. Having learned from past mistakes, the Russian Navy modified the entire sub, installing a much more modern reactor system, allowing the sub to move a bit faster than its predecessor and making it significantly quieter. The sub was also modified to add two additional torpedo tubes and a slightly larger weapon storage compartment. Anechoic coating was added to the hull for additional stealth, and all electronic systems have been updated to modern standards. These upgrades make the Alfa II a very fast, agile, and deadly modern attack submarine.
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 118 db\nEscape Depth: 1000 ft\n\nThe Alfa II class submarine is the modernized version of the original Alfa class. Having learned from past mistakes, the Russian Navy modified the entire sub, installing a much more modern reactor system, allowing the sub to move a bit faster than its predecessor and making it significantly quieter. The sub was also modified to add two additional torpedo tubes and a slightly larger weapon storage compartment. Anechoic coating was added to the hull for additional stealth, and all electronic systems have been updated to modern standards. These upgrades make the Alfa II a very fast, agile, and deadly modern attack submarine.
 
 [Player Ship Instances]
 PlayerClassNames=Konavalov, Kostroma, Pskov, Nizhniy Novgorod, Daniil Moskovskiy, Tambov, Pantera, Magadan, Kuzbass, Volk, Leopard, Tigr, Samara, Vepr, Gepard

@@ -29,7 +29,7 @@ TestDepth=1150
 EscapeDepth=600
 
 [Acoustics & Sensors]
-SelfNoise=95
+SelfNoise=110
 ActiveSonarReflection=25
 ActiveSonarModel=plan_tsm_2233
 PassiveSonarModel=plan_tsm_2233

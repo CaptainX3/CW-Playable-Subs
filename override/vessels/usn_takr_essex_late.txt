@@ -31,8 +31,8 @@ TestDepth=0
 [Acoustics & Sensors]
 SelfNoise=185
 ActiveSonarReflection=25
-ActiveSonarModel=usn_sqs-23
-PassiveSonarModel=usn_sqs-23
+ActiveSonarModel=usn_an_sqs-23
+PassiveSonarModel=usn_an_sqs-23
 TowedArrayModel=FALSE
 AnechoicCoating=FALSE
 RADAR=usn_an_sps-10

@@ -1,5 +1,4 @@
 usn_ssn_los_angeles
-multi_ssk_scorpene
 usn_ssn_los_angeles_flt2
 usn_ssn_los_angeles_flt3
 usn_ssn_narwhal
@@ -43,6 +42,7 @@ knm_ssk_ula
 rcn_ssk_victoria
 spa_ssk_galerna
 swe_ss_gotland
+multi_ssk_scorpene
 plan_ssn_han
 plan_ssn_shang
 plan_ssn_sui

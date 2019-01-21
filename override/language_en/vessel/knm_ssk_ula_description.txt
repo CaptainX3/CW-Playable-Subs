@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Ula [NOR]
 Description=[NOR] Ula Class SSK
-History=The Ula Class submarines are among the most silent and maneuverable submarines in the world. This, in combination with their relatively small size, makes them difficult to detect from surface vessels and ideal for operations in coastal areas. The Ula class is regarded as one of the most effective and cost-effective platforms in the Royal Norwegian Navy.
+History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nThe Ula Class submarines are among the most silent and maneuverable submarines in the world. This, in combination with their relatively small size, makes them difficult to detect from surface vessels and ideal for operations in coastal areas. The Ula class is regarded as one of the most effective and cost-effective platforms in the Royal Norwegian Navy.
 
 [Player Ship Instances]
 PlayerClassNames=HNoMS Ula,HNoMS Utsira,HNoMS Utstein,HNoMS Utvaer,HNoMS Uthaug,HNoMS Uredd

@@ -30,7 +30,7 @@ TestDepth=656
 EscapeDepth=600
 
 [Acoustics & Sensors]
-SelfNoise=90
+SelfNoise=110
 ActiveSonarReflection=15
 ActiveSonarModel=csu_83-1
 PassiveSonarModel=csu_83-1

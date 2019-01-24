@@ -1079,7 +1079,7 @@ SonarNoisePerKnot=0
 SonarOutput=210
 
 // SH60F Dipping Sonar
-SonarModel=usn_an_aqs-13f
+SonarModel=usn_an_aqs_13f
 SonarType=DIPPING
 SonarFrequencies=H
 SonarActiveSensitivity=32

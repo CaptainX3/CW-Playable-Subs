@@ -1,4 +1,4 @@
-Designation=SSB
+Designation=SSBN
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 
@@ -42,13 +42,21 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=wp_set-65,wp_53-65M
 TorpedoNumbers=20,10
-TorpedoTubes=4
-TubeConfig=1,1,1,1
+TorpedoTubes=5
+TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 NoisemakerName=wp_noisemaker
 NumberOfNoisemakers=20
 NoisemakerReloadTime=20
+
+//Swap out the marked lines to use the older missile. Surfaced launch.
+//VLSTorpedoTypes=wp_r11_slbm
+VLSTorpedoTypes=wp_r21_slbm
+VLSTorpedoNumbers=3
+//VLSMaxDepthToFire=5
+VLSMaxDepthToFire=52
+VLSMaxSpeedToFire=4
 
 [Subsystems]
 LabelPosition=364.3,28
@@ -178,6 +186,12 @@ MeshRotation=0,0,0
 MeshPosition=-0.014,0.0018,0.803
 TorpedoSpawnPosition=-0.014,0.0018,0.842
 TorpedoEffectPosition=0,0,0.0232
+
+//VLS Launch Position
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.011,0.177
+TorpedoEffectPosition=0,0.011,0.177
 
 ModelFile=weapons/assets/usn_tasm
 MeshRotation=0,0,0

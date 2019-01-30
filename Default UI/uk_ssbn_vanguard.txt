@@ -44,16 +44,16 @@ TowedArrayPosition=-0.109,0.003,-0.779
 [Weapon Systems]
 TorpedoTypes=uk_sf,usn_moss
 TorpedoNumbers=20,5
-TorpedoTubes=4
+TorpedoTubes=5
 NumberOfWires=4
-TubeConfig=1,1,1,1
+TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=20
 
-//VLSTorpedoTypes=usn_trident
-//VLSTorpedoNumbers=16
-//VLSMaxDepthToFire=300
-//VLSMaxSpeedToFire=10
+VLSTorpedoTypes=usn_trident
+VLSTorpedoNumbers=16
+VLSMaxDepthToFire=300
+VLSMaxSpeedToFire=10
 
 NoisemakerName=usn_noisemaker
 NumberOfNoisemakers=25
@@ -553,10 +553,10 @@ TorpedoSpawnPosition=0.0727,-0.0086,0.547
 TorpedoEffectPosition=0.0727,-0.0086,0.547
 
 //VLS Launch Position
-//MeshPosition=0,0.0785,0.1700
-//MeshRotation=-90,0,0
-//TorpedoSpawnPosition=0,0.0785,0.1700
-//TorpedoEffectPosition=0,0.0785,0.1700
+MeshPosition=0,0.0785,0.1700
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.0785,0.1700
+TorpedoEffectPosition=0,0.0785,0.1700
 
 //Noisemaker Mount
 MeshRotation=0,0,0

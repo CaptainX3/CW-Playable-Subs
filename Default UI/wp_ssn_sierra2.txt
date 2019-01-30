@@ -2,18 +2,18 @@ Designation=SSN
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 
-Length=107
-Beam=12.28
+Length=110
+Beam=14.2
 HullHeight=0.08
-Displacement=8300
+Displacement=9100
 Crew=61
 Range=10000
 HullNumbers=FALSE
 
 [Movement]
 SurfaceSpeed=10
-SubmergedSpeed=34
-TelegraphSpeeds=-5,0,5,10,15,20,34
+SubmergedSpeed=32
+TelegraphSpeeds=-5,0,5,10,15,20,32
 AccelerationRate=0.3
 DecelerationRate=0.08
 RudderTurnRate=1
@@ -26,21 +26,21 @@ Waterline=0.04
 SubmergedAt=0.15
 CavitationParameters=20,-100
 PropRotationSpeed=-150
-TestDepth=1800
+TestDepth=2000
 EscapeDepth=600
 
 [Acoustics & Sensors]
-SelfNoise=120
-ActiveSonarReflection=30
+SelfNoise=115
+ActiveSonarReflection=28
 ActiveSonarModel=wp_shark_gill
 PassiveSonarModel=wp_shark_gill
-TowedArrayModel=wp_shark_tail
+TowedArrayModel=wp_skat3
 AnechoicCoating=TRUE
 RADAR=wp_snoop_pair
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=wp_ugst,wp_ss-n-16,wp_53-65M,russian_moss,wp_kalibr_3m54,wp_kalibr_3m14
+TorpedoTypes=wp_ugst,wp_ss-n-15,wp_53-65M,russian_moss,wp_kalibr_3m54,wp_kalibr_3m14
 TorpedoNumbers=24,8,0,5,6,8
 TorpedoTubes=8
 NumberOfWires=4
@@ -99,7 +99,7 @@ MeshHullCollider=wp_ssn_sierra_coll_hull
 MeshSuperstructureCollider=wp_ssn_sierra_coll_ss
 
 Material=ships/wp_ssn_sierra/wp_ssn_sierra_mat
-MaterialTextures=ships/wp_ssn_sierra/wp_ssn_sierra_tx,ships/wp_ssn_sierra/wp_ssn_sierra_spec,ships/wp_ssn_sierra/wp_ssn_sierra_nm
+MaterialTextures=vessels/textures/wp_ssn_sierra2_tx.png,ships/wp_ssn_sierra/wp_ssn_sierra_spec,ships/wp_ssn_sierra/wp_ssn_sierra_nm
 Mesh=wp_ssn_sierra
 MeshPosition=0,0,-0.6569
 MeshRudder=wp_ssn_sierra_rudder

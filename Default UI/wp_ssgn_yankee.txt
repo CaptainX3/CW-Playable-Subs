@@ -1,23 +1,23 @@
-Designation=SSBN
+Designation=SSGN
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 
-Length=130
-Beam=10
+Length=141.5
+Beam=15
 HullHeight=0.08
-Displacement=8500
-Crew=143
+Displacement=11500
+Crew=120
 Range=10000
 HullNumbers=FALSE
 
 [Movement]
-SurfaceSpeed=20
-SubmergedSpeed=25
-TelegraphSpeeds=-5,0,5,10,15,20,25
+SurfaceSpeed=13
+SubmergedSpeed=27
+TelegraphSpeeds=-5,0,5,10,15,20,27
 AccelerationRate=0.08
 DecelerationRate=0.08
 RudderTurnRate=0.5
-TurnRate=1.5
+TurnRate=1.8
 PivotPointTurning=0.256
 DiveRate=1
 SurfaceRate=1
@@ -26,36 +26,35 @@ Waterline=0.02
 SubmergedAt=0.132
 CavitationParameters=20,-100
 PropRotationSpeed=190,-190
-TestDepth=900
+TestDepth=1475
 EscapeDepth=600
 PeriscopeDepthInFeet=41
 
 [Acoustics & Sensors]
-SelfNoise=133
-ActiveSonarReflection=29
-ActiveSonarModel=uk_2001
-PassiveSonarModel=uk_2001
-TowedArrayModel=uk_2026
+SelfNoise=147
+ActiveSonarReflection=25
+ActiveSonarModel=wp_shark_gill
+PassiveSonarModel=wp_shark_gill
+TowedArrayModel=wp_shark_tail
 AnechoicCoating=TRUE
-RADAR=uk_t1006
+RADAR=wp_snoop_tray
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=uk_tf
-TorpedoNumbers=20
-TorpedoTubes=7
-NumberOfWires=6
-TubeConfig=1,1,1,1,1,1,1
+TorpedoTypes=wp_set-65,wp_53-65M
+TorpedoNumbers=16,4
+TorpedoTubes=5
+TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
-VLSTorpedoTypes=usn_polaris
-VLSTorpedoNumbers=16
+VLSTorpedoTypes=wp_s10
+VLSTorpedoNumbers=40
 VLSMaxDepthToFire=300
 VLSMaxSpeedToFire=10
 
 NoisemakerName=wp_noisemaker
-NumberOfNoisemakers=40
+NumberOfNoisemakers=20
 NoisemakerReloadTime=20
 
 [Subsystems]
@@ -105,43 +104,33 @@ MeshHullCollider=wp_ssbn_yankee_coll_hull
 MeshSuperstructureCollider=wp_ssbn_yankee_coll_ss
 
 Material=ships/wp_ssbn_yankee/wp_ssbn_yankee_mat
-MaterialTextures=vessels/textures/darkgrey.png
+MaterialTextures=vessels/textures/wp_ssgn_yankee_tx.png,ships/wp_ssbn_yankee/wp_ssbn_yankee_spec,ships/wp_ssbn_yankee/wp_ssbn_yankee_nm
 Mesh=wp_ssbn_yankee
 MeshPosition=0,-0.08988,-0.8477
 MeshRudder=wp_ssbn_yankee_rudder
-MeshPosition=0,0.01523,0.8
+MeshPosition=0,0.08523,0.58
 MeshBowPlanes=wp_ssbn_yankee_sailplanes
 MeshPosition=0,-0.03299,-0.7925
 MeshSternPlanes=wp_ssbn_yankee_sternplanes
+MeshPosition=-0.035,-0.03254,-0.898
+MeshProp=wp_ssbn_yankee_prop_l
+MeshPosition=.035,-0.03254,-0.898
+MeshProp=wp_ssbn_yankee_prop_r
 
-//Dome
-ModelFile=ships/usn_ssn_permit/usn_ssn_permit
-MeshRotation=0,0,0
-MeshPosition=-0.0,-0.005,0.2688
-Mesh=usn_ssn_permit_wlr9
-MeshPosition=-0.0,0.003,0.2688
-Mesh=usn_ssn_permit_wlr9
-
-
+[Model]
 ModelFile=ships/usn_ssn_permit/usn_ssn_permit
 Material=ships/materials/usn_masts
-MeshPosition=0.015,0.025,0.542
-MastHeight=0.1
+MeshPosition=0.015,0.040,0.542
+MastHeight=0.085
 MeshMast=usn_ssn_permit_periscope
 
 MeshPosition=-0.010,0.025,0.541
-MastHeight=0.1
+MastHeight=0.085
 MeshMast=usn_ssn_permit_esm_mast
 
 MeshPosition=0,0.025,0.500
-MastHeight=0.1
+MastHeight=0.085
 MeshMast=usn_ssn_permit_radar_mast
-
-
-ModelFile=ships/wp_ssbn_yankee/wp_ssbn_yankee
-MeshPosition=-0.0,-0.03254,-0.898
-MeshProp=wp_ssbn_yankee_prop_l
-MaterialTextures=terrain/sand
 
 [Weapon Systems]
 //Torpedo Mounts
@@ -170,23 +159,11 @@ MeshPosition=0.01,-0.0086,1.237
 TorpedoSpawnPosition=0.01,-0.0086,1.237
 TorpedoEffectPosition=0,0,0.0232
 
-//Tube 5
-MeshRotation=0,0,0
-MeshPosition=0.01,-0.0086,1.237
-TorpedoSpawnPosition=0.01,-0.0086,1.237
-TorpedoEffectPosition=0,0,0.0232
-
-//Tube 6
-MeshRotation=0,0,0
-MeshPosition=0.01,-0.0086,1.237
-TorpedoSpawnPosition=0.01,-0.0086,1.237
-TorpedoEffectPosition=0,0,0.0232
-
 //VLS Launch Position
-MeshPosition=0,0.0785,0.1700
-MeshRotation=-90,0,0
-TorpedoSpawnPosition=0,0.0785,0.1700
-TorpedoEffectPosition=0,0.0785,0.1700
+MeshPosition=0.1,0.0,0.2816
+MeshRotation=0,0,0
+TorpedoSpawnPosition=0.1,0.0,0.2816
+TorpedoEffectPosition=0.1,0.0,0.2816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

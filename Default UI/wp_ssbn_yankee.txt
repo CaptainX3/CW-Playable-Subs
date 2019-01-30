@@ -43,15 +43,15 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=wp_set-65,wp_53-65M
 TorpedoNumbers=16,4
-TorpedoTubes=4
-TubeConfig=1,1,1,1
+TorpedoTubes=5
+TubeConfig=1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
-//VLSTorpedoTypes=rus_r39_slbm
-//VLSTorpedoNumbers=12
-//VLSMaxDepthToFire=300
-//VLSMaxSpeedToFire=10
+VLSTorpedoTypes=wp_r27_slbm
+VLSTorpedoNumbers=16
+VLSMaxDepthToFire=300
+VLSMaxSpeedToFire=10
 
 NoisemakerName=wp_noisemaker
 NumberOfNoisemakers=20
@@ -160,10 +160,10 @@ TorpedoSpawnPosition=0.01,-0.0086,1.237
 TorpedoEffectPosition=0,0,0.0232
 
 //VLS Launch Position
-//MeshPosition=0,0.0785,0.5816
-//MeshRotation=-90,0,0
-//TorpedoSpawnPosition=0,0.0785,0.3816
-//TorpedoEffectPosition=0,0.0785,0.3816
+MeshPosition=0,0.0785,0.5816
+MeshRotation=-90,0,0
+TorpedoSpawnPosition=0,0.0785,0.2816
+TorpedoEffectPosition=0,0.0785,0.2816
 
 //Noisemaker Mount
 MeshRotation=0,0,0

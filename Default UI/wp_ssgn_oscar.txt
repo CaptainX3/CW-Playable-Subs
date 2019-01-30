@@ -117,10 +117,10 @@ MeshPosition=0,0.0616,0.853
 MeshBowPlanes=wp_ssgn_oscar_bowplanes
 MeshPosition=0,0.0,-0.9758
 MeshSternPlanes=wp_ssgn_oscar_sternplanes
-//MeshPosition=-0.045,-0.008,-1.133
-//MeshProp=wp_ssgn_oscar_prop_l
-//MeshPosition=.045,-0.008,-1.133
-//MeshProp=wp_ssgn_oscar_prop_r
+MeshPosition=-0.045,-0.008,-1.133
+MeshProp=wp_ssgn_oscar_prop_l
+MeshPosition=.045,-0.008,-1.133
+MeshProp=wp_ssgn_oscar_prop_r
 
 [Model]
 ModelFile=ships/usn_ssn_permit/usn_ssn_permit
@@ -138,10 +138,10 @@ MastHeight=0.085
 MeshMast=usn_ssn_permit_radar_mast
 
 ModelFile=ships/wp_ssbn_delta4/wp_ssbn_delta4
-MeshPosition=-0.045,-0.008,-1.133
-MeshProp=wp_ssbn_delta4_prop_l
-MeshPosition=.045,-0.008,-1.133
-MeshProp=wp_ssbn_delta4_prop_r
+//MeshPosition=-0.045,-0.008,-1.133
+//MeshProp=wp_ssbn_delta4_prop_l
+//MeshPosition=.045,-0.008,-1.133
+//MeshProp=wp_ssbn_delta4_prop_r
 MaterialTextures=terrain/sand
 
 [Weapon Systems]

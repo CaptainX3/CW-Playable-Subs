@@ -39,7 +39,7 @@ fr_dmux21=DMUX 21=This system, used by the Redoutable Class SSBN, is its sonar s
 
 fr_dmux80=DMUX 80=This system, used by the Triomphant Class SSBN, is its sonar suite, with performance comparable to the American AN/BQQ-10.
 
-fr_dsuv62c=ETBF DSUV 62C=The ETBF DSUV 62C is a towed array, with performance comparable to the American TB-16.
+fr_dsuv62c=DSUV 62C=The ETBF DSUV 62C is a towed array, with performance comparable to the American TB-16.
 
 ae_tas3=AE TAS3=ATLAS ELEKTRONIK TAS-3 low-frequency Towed Array Sonar.
 
@@ -328,3 +328,5 @@ wp_korshun=Wet Eye II=Airborne pulse doppler panoramic surface search ASW-integr
 wp_korshun_k=Wet Eye 2=Airborne pulse doppler panoramic surface search ASW-integrated radar plus digital attack avionics suite for 1980s Tu-142M (Mod 3).
 
 plan_aps_504=Litton APSO-504(V3)=Airborne pulse doppler panoramic surface search ASW-integrated radar for the Y-8X maritime patrol aircraft.
+
+vnm_ge2-01=GE02-01=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.

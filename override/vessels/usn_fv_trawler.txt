@@ -33,7 +33,7 @@ ActiveSonarModel=FALSE
 PassiveSonarModel=FALSE
 TowedArrayModel=FALSE
 AnechoicCoating=FALSE
-RADAR=FALSE;
+RADAR=civ_furuno
 RADARSignature=MEDIUM
 
 [Model]

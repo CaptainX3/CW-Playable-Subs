@@ -106,6 +106,7 @@ MeshPosition=0,0.1291,0.330
 MeshBowPlanes=plan_ssn_han_sailplanes
 MeshPosition=0,-0.0121,-0.617
 MeshSternPlanes=plan_ssn_han_sternplanes
+Material=ships/plan_ssn_han/plan_ssn_han_mat
 MeshPosition=0,-0.002,-0.71461
 MeshProp=plan_ssn_han_prop
 

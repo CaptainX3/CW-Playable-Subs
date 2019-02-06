@@ -126,7 +126,7 @@ MastHeight=0.085
 MeshMast=usn_ssn_narwhal_radar_mast
 
 ModelFile=ships/usn_ssn_narwhal/usn_ssn_narwhal
-MeshPosition=0,-0.0042,-0.6914
+MeshPosition=0,-0.0037,-0.709
 MeshProp=usn_ssn_narwhal_prop
 MaterialTextures=ships/usn_ssn_narwhal/usn_ssn_narwhal_tx,ships/usn_ssn_narwhal/usn_ssn_narwhal_spec,ships/usn_ssn_narwhal/usn_ssn_narwhal_nm
 

@@ -43,6 +43,7 @@ RADARSignature=SMALL
 TorpedoTypes=wp_test-71mke
 TorpedoNumbers=18
 TorpedoTubes=6
+NumberOfWires=4
 TubeConfig=1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30

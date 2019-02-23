@@ -6,8 +6,7 @@
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Special Notes About Playable Surface Ships **(MAKE SURE YOU READ THIS!)**](#special-notes-about-playable-surface-ships)
 ---
-* [**Mod Installation - Release Version**](#mod-installation-release-version)
-* [**Mod Installation - Development Version**](#mod-installation-development-version)
+* [**Mod Installation Instructions**](#mod-installation-instructions)
 * [**Updating the Mod**](#updating-the-mod)
 ---
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
@@ -23,11 +22,9 @@
 ---
 ## Welcome to the New Playable Subs Mod
 
-* This Github repository is the official development center for the New Playable Subs & More mod for Cold Waters. In this repository, we have two versions of the mod - the official stable release version and the development version.
+* This Github repository is the official development center for the New Playable Subs & More mod for Cold Waters.
 
-* [Click here](#mod-installation-release-version) to read the instructions for installing the latest official, stable public release of the mod. This is the release that most users will want to download. It will be updated periodically to reflect the latest major changes after they have been completed and are verified working.
-
-* The development version of the mod is what you're seeing on the main page. **The development version of the mod is a constantly changing work in progress between multiple developers, and is not guaranteed to be completely working or bug free.** If you would like to try the latest development version of the mod, you can [click here](#mod-installation-development-version) and follow the instructions.
+* [Click here](#mod-installation-instructions) to read the instructions for installing the latest build of the mod. Be aware that the mod is always a work in progress and is not always guaranteed to be completely bug free. If you do spot a bug, please follow the instructions below to report it to us. You can check the current status of all bug reports by clicking the Issues tab at the top of this page.
 
 * If you have a bug report, the best place to let us know about it is to [open a new Issue](https://github.com/CaptainX3/CW-Playable-Subs/issues) here on Github and we'll see it and respond. You can also let us know directly in the [official CW Discord](https://discord.gg/mMvpzSV), in the **pbs_mod** channel. This Discord is also a fast way to ask for tech support for the mod as well.
 
@@ -46,6 +43,9 @@
 ---
 ## Current List of Playable Ships and Submarines
 
+* **Multi-Nation Submarines**
+  * Scorpène Class SS (Chile, Malaysia, India, Brazil)
+
 * **United States**
   * Los Angeles (Flight I) Class SSN
   * Los Angeles (Flight II) Class SSN
@@ -62,6 +62,7 @@
   * Virginia Class SSN
   * Improved Virginia Class SSN
   * Stingray Class SS
+  * Ohio Class SSBN
   * Ohio Class SSGN (Conversion)
   * Ethan Allen Class SSBN
   * Washington Class SSBN
@@ -69,6 +70,7 @@
 
 * **United Kingdom**
   * Astute Class SSN
+  * Churchill Class SSN
   * Trafalgar Class SSN
   * Upholder Class SS
   * Vanguard Class SSBN
@@ -83,6 +85,9 @@
   * Type 209 Class SS
   * Type 212a Class SS
 
+* **Taiwan**
+  * Hai Lung Class SS
+
 * **France**
   * Rubis Class SSN
   * Redoubtable Class SSBN
@@ -91,6 +96,12 @@
 * **Italy**
   * Sauro IV Class SS
   * Toti Class SS
+
+* **Norway**
+  * Ula Class SSK
+
+* **Spain**
+  * Galerna Class SSK
 
 * **Netherlands**
   * Walrus Class SS
@@ -110,6 +121,7 @@
 
 * **North Korea**
   * Romeo Class SS
+  * Sinpo Class SSB
 
 * **Japan**
   * Yushio Class SS
@@ -124,6 +136,7 @@
   * November Class SSN
   * November II Class SSN
   * Sierra Class SSN
+  * Sierra II Class SSN
   * Victor I Class SSN
   * Victor II Class SSN
   * Victor III Class SSN
@@ -144,6 +157,7 @@
   * Experimental Typhoon Class SSBN "Red October" (Conventional Drive)
   * Experimental Typhoon Class SSBN "Red October" (Silent Drive)
   * Yankee Class SSBN
+  * Yankee Notch Class SSGN
   * Charlie I Class SSGN
   * Charlie II Class SSGN
   * Echo II Class SSGN
@@ -165,7 +179,8 @@
 ---
 ## Other Important Changes
 
-* The Free Roam campaigns are set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies as their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission.
+* The World Map Mission Editor is not currently working properly. This feature is still in development and it will be announced when it is fully functional. For now, do not use this feature.
+* The Free Roam campaigns are set up so that the player is tasked with a SEAL insertion mission with an extremely long timeframe (2400-3600 hours) to allow the player to roam the map and sink enemies at their leisure. Once the player is ready, they can insert the SEAL team at the designated location and trigger the final SSBN hunting mission.
 * Player home base in SCS campaign changed to Okinawa, since it is a much more likely location for a US sub base in this theater of operations, and hopefully will somewhat ease the issue of automatically failing your mission whenever you need to rearm. (Special Note: I am not changing the base back to Guam simply because there is no full base in Okinawa in the real world. The image used for the sub base in the SCS campaign is a simple submarine tender in an empty harbor, which means it could be anywhere.) 
 * Minimum aircraft distance to allow exiting a mission (NearbyAircraftMinDistance) changed from 10000 to 3500, so you're not stuck waiting forever for aircraft to disappear after you sink their mothership.
 * In this version of the mod, there is only ONE version of each sub instead of separate vanilla and playable versions like before. (This means that the playable Yasen you love will also be the Yasen you face in the campaigns and single missions.)
@@ -190,26 +205,7 @@ Since the game is not designed for playable surface ships, we've had to make som
 
 
 ---
-## Mod Installation (Release Version)
-
-* STEP 1: [Click here](https://github.com/CaptainX3/CW-Playable-Subs/releases) to open the Releases page.
-
-* STEP 2: Click on the **Source code (zip)** link to initiate the download. Save the ZIP file to your desktop or wherever you can access it easily.
-
-* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
-
-* STEP 4: Now you'll see three files in the window - Readme.md, a Default UI folder, and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
-
-* STEP 5: Open this directory **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and drag the **override** folder you just extracted into it. You should now see two folders here - **default** and **override**.
-
-* STEP 6: You're done. Run the game and enjoy all of the new stuff!
-
-***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the new colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
-
-
-
----
-## Mod Installation (Development Version)
+## Mod Installation Instructions
 
 * STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
 
@@ -230,7 +226,7 @@ Since the game is not designed for playable surface ships, we've had to make som
 ---
 ## Updating The Mod
 
-* To update the mod, follow STEPS 1 thru 4 in the installation instructions above for whichever version you want to use, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+* To update the mod, follow STEPS 1 thru 4 in the installation instructions above, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
 
 
 

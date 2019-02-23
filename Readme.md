@@ -2,7 +2,7 @@
 
 * [Welcome to the New Playable Subs Mod](#welcome-to-the-new-playable-subs-mod)
 * [Submitting Bug Reports and Suggestions](#submitting-bug-reports-and-suggestions)
-* [Current List of Playable Ships and Submarines](#current-list-of-playable-ships-and-submarines)
+* [Complete List of Playable Ships and Submarines](#complete-list-of-playable-ships-and-submarines)
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Special Notes About Playable Surface Ships **(MAKE SURE YOU READ THIS!)**](#special-notes-about-playable-surface-ships)
 ---
@@ -41,7 +41,8 @@
 
 
 ---
-## Current List of Playable Ships and Submarines
+## Complete List of Playable Ships and Submarines
+***Last Updated February 23, 2019***
 
 * **Multi-Nation Submarines**
   * Scorpène Class SS (Chile, Malaysia, India, Brazil)

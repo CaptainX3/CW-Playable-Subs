@@ -6,8 +6,8 @@
 * [Other Important Changes **(MAKE SURE YOU READ THIS!)**](#other-important-changes)
 * [Special Notes About Playable Surface Ships **(MAKE SURE YOU READ THIS!)**](#special-notes-about-playable-surface-ships)
 ---
-* [**Mod Installation Instructions**](#mod-installation-instructions)
-* [**Updating the Mod**](#updating-the-mod)
+* [First Time Mod Installation Instructions](#mod-installation-instructions)
+* [Updating the Mod](#updating-the-mod)
 ---
 * [Sonar Signature List Sorting](#sonar-signature-list-sorting)
 * [Single Missions & Campaigns Color Coding](#single-missions-list-color-coding)
@@ -42,70 +42,11 @@
 
 ---
 ## Complete List of Playable Ships and Submarines
-***Last Updated February 23, 2019***
-
-* **Multi-Nation Submarines**
-  * Scorpène Class SS (Chile, Malaysia, India, Brazil)
-
-* **United States**
-  * Los Angeles (Flight I) Class SSN
-  * Los Angeles (Flight II) Class SSN
-  * Los Angeles (Flight III 688i) Class SSN
-  * Narwhal Class SSN
-  * Narwhal II Class SSN
-  * Permit Class SSN (Early)
-  * Permit Class SSN
-  * Seawolf Class SSN
-  * Skipjack Class SSN (Early)
-  * Skipjack Class SSN
-  * Sturgeon Class SSN (Early)
-  * Sturgeon Class SSN
-  * Virginia Class SSN
-  * Improved Virginia Class SSN
-  * Stingray Class SS
-  * Ohio Class SSBN
-  * Ohio Class SSGN (Conversion)
-  * Ethan Allen Class SSBN
-  * Washington Class SSBN
-  * Nautilus Class SSN
-
-* **United Kingdom**
-  * Astute Class SSN
-  * Churchill Class SSN
-  * Trafalgar Class SSN
-  * Upholder Class SS
-  * Vanguard Class SSBN
-  * Oberon Class SS
-  * Resolution Class SSBN
+***In Alphabetical Order By Nation - List Last Updated February 23, 2019***
 
 * **Australia**
   * Collins Class SS
   * Oberon Class SS
-
-* **Germany**
-  * Type 209 Class SS
-  * Type 212a Class SS
-
-* **Taiwan**
-  * Hai Lung Class SS
-
-* **France**
-  * Rubis Class SSN
-  * Redoubtable Class SSBN
-  * Triomphant Class SSBN
-
-* **Italy**
-  * Sauro IV Class SS
-  * Toti Class SS
-
-* **Norway**
-  * Ula Class SSK
-
-* **Spain**
-  * Galerna Class SSK
-
-* **Netherlands**
-  * Walrus Class SS
 
 * **China (PLAN)**
   * Han Class SSN
@@ -117,16 +58,32 @@
   * Song Class SS
   * Xia Class SSBN
 
-* **Vietnam**
-  * Kilo Class SS
+* **France**
+  * Rubis Class SSN
+  * Redoubtable Class SSBN
+  * Triomphant Class SSBN
+
+* **Germany**
+  * Type 209 Class SS
+  * Type 212a Class SS
+
+* **Italy**
+  * Sauro IV Class SS
+  * Toti Class SS
+
+* **Japan**
+  * Yushio Class SS
+  * Oyashio Class SS
 
 * **North Korea**
   * Romeo Class SS
   * Sinpo Class SSB
 
-* **Japan**
-  * Yushio Class SS
-  * Oyashio Class SS
+* **Norway**
+  * Ula Class SSK
+
+* **Netherlands**
+  * Walrus Class SS
 
 * **Russia**
   * Akula I Class SSN
@@ -166,6 +123,49 @@
   * Oscar II Class SSGN
   * Papa Class SSGN
   * Yasen Class SSGN
+
+* **Taiwan**
+  * Hai Lung Class SS
+
+* **Spain**
+  * Galerna Class SSK
+
+* **United Kingdom**
+  * Astute Class SSN
+  * Churchill Class SSN
+  * Trafalgar Class SSN
+  * Upholder Class SS
+  * Vanguard Class SSBN
+  * Oberon Class SS
+  * Resolution Class SSBN
+
+* **United States**
+  * Los Angeles (Flight I) Class SSN
+  * Los Angeles (Flight II) Class SSN
+  * Los Angeles (Flight III 688i) Class SSN
+  * Narwhal Class SSN
+  * Narwhal II Class SSN
+  * Permit Class SSN (Early)
+  * Permit Class SSN
+  * Seawolf Class SSN
+  * Skipjack Class SSN (Early)
+  * Skipjack Class SSN
+  * Sturgeon Class SSN (Early)
+  * Sturgeon Class SSN
+  * Virginia Class SSN
+  * Improved Virginia Class SSN
+  * Stingray Class SS
+  * Ohio Class SSBN
+  * Ohio Class SSGN (Conversion)
+  * Ethan Allen Class SSBN
+  * Washington Class SSBN
+  * Nautilus Class SSN
+
+* **Vietnam**
+  * Kilo Class SS
+
+* **Multi-Nation Submarines**
+  * Scorpène Class SS (Chile, Malaysia, India, Brazil)
 
 * **Special Submarines**
   * Jive Turkey II Class SSN
@@ -208,6 +208,8 @@ Since the game is not designed for playable surface ships, we've had to make som
 ---
 ## Mod Installation Instructions
 
+***IMPORTANT NOTE: Only follow this process when installing the mod for the FIRST TIME. If you already have the mod and want to update your copy, [click here for instructions.](#updating-the-mod)***
+
 * STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
 
 * STEP 2: Click the "Download ZIP" option.
@@ -227,7 +229,17 @@ Since the game is not designed for playable surface ships, we've had to make som
 ---
 ## Updating The Mod
 
-* To update the mod, follow STEPS 1 thru 4 in the installation instructions above, and then navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+* STEP 1: Click the green "Clone or Download" button that you see at the top of this page.
+
+* STEP 2: Click the "Download ZIP" option.
+
+* STEP 3: Double click on the ZIP file to open it. Inside you'll see a single folder called **CW-Playable-Subs** with the release date and version number. Click on this folder to open it.
+
+* STEP 4: Now you'll see three files in the window - Readme.md, a Default UI folder, and an **override** folder. You want to extract ONLY the **override** folder to wherever you can easily access it.
+
+* STEP 5: Navigate to **Steam\SteamApps\common\Cold Waters\ColdWaters_Data\StreamingAssets** and DELETE the existing **override** folder. Once you have deleted the old folder, you can then drag in the updated copy. **DO NOT DRAG THE NEW COPY AND TRY TO OVERWRITE THE OLD ONE - you will end up with major bugs this way!**
+
+***SPECIAL NOTE: If you'd like to have all subs use the default UI instead of the colored UIs, [click here for instructions.](#how-to-set-all-subs-to-use-the-default-ui)***
 
 
 

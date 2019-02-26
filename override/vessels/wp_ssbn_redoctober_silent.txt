@@ -11,9 +11,9 @@ Range=10000
 HullNumbers=TRUE
 
 [Movement]
-SurfaceSpeed=25
+SurfaceSpeed=22
 SubmergedSpeed=14
-TelegraphSpeeds=-5,0,5,10,15,20,25
+TelegraphSpeeds=-5,0,4,8,10,12,22
 AccelerationRate=0.08
 DecelerationRate=0.08
 RudderTurnRate=0.5

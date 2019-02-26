@@ -63,7 +63,7 @@ NearbyAircraftMinDistance=3500
 
 [Miscellaneous]
 //Flat % chance for whales
-WhaleProbability=0.1
+WhaleProbability=0.5
 //Probability * pixel value of traffic map (0-1), rolls 2x
 NeutralVesselProbability1=0.5
 NeutralVesselProbability2=0.33

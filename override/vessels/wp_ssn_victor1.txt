@@ -11,7 +11,7 @@ Range=10000
 HullNumbers=FALSE
 
 [Movement]
-SurfaceSpeed=16
+SurfaceSpeed=15
 SubmergedSpeed=32
 TelegraphSpeeds=-5,0,5,10,15,20,32
 AccelerationRate=0.27

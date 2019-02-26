@@ -12,8 +12,8 @@ HullNumbers=FALSE
 
 [Movement]
 SurfaceSpeed=15
-SubmergedSpeed=29
-TelegraphSpeeds=-5,0,5,10,15,20,29
+SubmergedSpeed=30
+TelegraphSpeeds=-5,0,5,10,15,22,30
 AccelerationRate=0.13
 DecelerationRate=0.035
 RudderTurnRate=0.5
@@ -36,7 +36,7 @@ ActiveSonarReflection=43
 ActiveSonarModel=wp_mgk540
 PassiveSonarModel=wp_mgk540
 TowedArrayModel=wp_pelamida
-AnechoicCoating=FALSE
+AnechoicCoating=TRUE
 RADAR=wp_snoop_tray
 RADARSignature=SMALL
 

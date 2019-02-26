@@ -22,7 +22,7 @@ SurfaceRate=0
 BallastRate=0
 Waterline=0
 SubmergedAt=0
-CavitationParameters=0,0
+CavitationParameters=20,-100
 PropRotationSpeed=-350,350
 TestDepth=0
 

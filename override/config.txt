@@ -32,12 +32,12 @@ BottomBounceRange=15000,20000
 BottomBounceDepthRange=2000,2800
 AttenuationFactor=0.0008
 SpreadingFactor=20
-OceanBaseAmbientNoise=75
+OceanBaseAmbientNoise=89
 NoisePerSeaState=3
-MaxNoiseFromRain=20
+MaxNoiseFromRain=10
 NoiseFromCavitation=20
-NoiseFromTransient=5
-TargetNoisePerKnot=1
+NoiseFromTransient=2
+TargetNoisePerKnot=0.2
 PassiveCompressionFactor=3.2
 LandAbsorptionFold=3,4
 MaxShallowsAbsorption=20
@@ -51,7 +51,7 @@ SeaStateProbability=0.05,0.1,0.2,0.2,0.2,0.1,0.1,0.05
 SeaStateSeasonModifier=0.25
 UnderwaterParticles=environment/underwater_particles
 RunningSilentBonus=5,8
-DetectionThreshold=10
+DetectionThreshold=5
 MaintainContactThreshold=1
 ContactProfileGraphicFactor=2
 
@@ -63,7 +63,7 @@ NearbyAircraftMinDistance=3500
 
 [Miscellaneous]
 //Flat % chance for whales
-WhaleProbability=0.5
+WhaleProbability=0.35
 //Probability * pixel value of traffic map (0-1), rolls 2x
 NeutralVesselProbability1=0.5
 NeutralVesselProbability2=0.33

@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Victor II
 Description=[RUS] Victor II Class SSN
-History=Self Noise Rating: 136 db\nEscape Depth: 600 ft\n\nThe seven boats in this class were the result of an effort to redesign the Victor class for the new pro-submarine mission of the 1970's. Although they lack towed arrays and are only somewhat quieter than Victor I's and somewhat slower, the main upgrade is the capability to fire the SS-N-15 stand-off ASW missile, which make these far more dangerous opponents, should they be able to detect you.
+History=Self Noise Rating: 136 dB\nEscape Depth: 600 ft\n\nThe seven boats in this class were the result of an effort to redesign the Victor class for the new pro-submarine mission of the 1970's. Although they lack towed arrays and are only somewhat quieter than Victor I's and somewhat slower, the main upgrade is the capability to fire the SS-N-15 stand-off ASW missile, which make these far more dangerous opponents, should they be able to detect you.
 
 [Player Ship Instances]
 PlayerClassNames=Obninsk, Daniil Moskovskiy, Tambov, Moskva, Pobeda

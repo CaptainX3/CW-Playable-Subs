@@ -1,10 +1,9 @@
 [Unit Reference]
 ShipClass=Stingray
 Description=[USA] Stingray Class SS
-History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 109 db\nEscape Depth: 600 ft\n\nThe Stingray Class was developed by the United States as their first modern attempt at a small diesel electric submarine dedicated to shallow water operations, a role which none of the existing US attack subs can adequately fill. The plans for the original Kilo Class were obtained by the US government, and US Navy designers worked to completely overhaul the submarine into the modern version seen here. Upgrades include advanced anechoic tiling, a modern sonar package, a redesigned power train capable of much higher top speeds, and an overhaul of the propulsion system on the sub. These advances make the sub one of the quietest boats ever created, matching the ultra-modern Virginia class in emitted noise levels.
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 109 dB\nEscape Depth: 600 ft\n\nThe Stingray Class was developed by the United States as their first modern attempt at a small diesel electric submarine dedicated to shallow water operations, a role which none of the existing US attack subs can adequately fill. The plans for the original Kilo Class were obtained by the US government, and US Navy designers worked to completely overhaul the submarine into the modern version seen here. Upgrades include advanced anechoic tiling, a modern sonar package, a redesigned power train capable of much higher top speeds, and an overhaul of the propulsion system on the sub. These advances make the sub one of the quietest boats ever created, matching the ultra-modern Virginia class in emitted noise levels.
 
 [Player Ship Instances]
 PlayerClassNames=Stingray,Barracuda,Swordfish
 
 PlayerClassHullNumbers=SS-300,SS-301,SS-302
-

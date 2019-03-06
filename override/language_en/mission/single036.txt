@@ -3,5 +3,5 @@ MissionLocation=Near the Paracel Islands
 Briefing=7 AUG 2000
 Briefing=US naval forces continue to challenge the exclusion zone around the Paracel Islands. Weapons free, you are cleared to engage any US naval vessels in the area without warning.
 Briefing=
-Briefing=Primary Objective:
-Briefing=Sink enemy warships
+Briefing=<b>Primary Objective:</b>
+Briefing=- Sink enemy warships

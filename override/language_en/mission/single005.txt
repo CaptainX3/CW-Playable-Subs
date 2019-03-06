@@ -1,5 +1,5 @@
 Image=campaign/images/ohio 1.jpg
-MissionLocation=In the north Barents Sea
+MissionLocation=In the North Barents Sea
 Briefing=Your SSBN is being hunted by Russian submarines. Eliminate them.
 Briefing=
 Briefing=<b>Primary Objectives:</b>

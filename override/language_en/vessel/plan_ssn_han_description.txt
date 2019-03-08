@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Han
 Description=[PLAN] Han Class SSN
-History=Self Noise Rating: 152 db\nEscape Depth: 600 ft\n\nIn service since 1974, the Hans are first-generation Chinese nuclear attack submarines. They are notoriously noisy and known to have poor radiation shielding, earning them the nickname 'glowboats'. They are fitted with sonars and firecontrol systems derived from French and Italian designs.
+History=Self Noise Rating: 152 dB\nEscape Depth: 600 ft\n\nIn service since 1974, the Hans are first-generation Chinese nuclear attack submarines. They are notoriously noisy and known to have poor radiation shielding, earning them the nickname 'glowboats'. They are fitted with sonars and fire-control systems derived from French and Italian designs.
 
 [Player Ship Instances]
 PlayerClassNames=Long March I,Long March II,Long March III,Long March IV,Long March V

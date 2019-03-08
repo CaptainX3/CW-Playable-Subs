@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Akula II
 Description=[RUS] Akula II Class SSN
-History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThe Akula II is a significant improvement over the original Akula, featuring even more advanced quieting technology, an anechoic coating, a deeper operational depth, and 6 external torpedo tubes in addition to the standard 8. The Akula II is the first class produced by Russia that is quieter than the Los Angeles class subs of the United States.
+History=Self Noise Rating: 120 dB\nEscape Depth: 600 ft\n\nThe Akula II is a significant improvement over the original Akula, featuring even more advanced quieting technology, an anechoic coating, a deeper operational depth, and 6 external torpedo tubes in addition to the standard 8. The Akula II is the first class produced by Russia that is quieter than the Los Angeles class subs of the United States.
 
 [Player Ship Instances]
 PlayerClassNames=Samara, Vepr, Kuguar, Rys, Nerpa

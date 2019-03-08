@@ -5,5 +5,5 @@ Briefing=
 Briefing=<b>Primary Objectives:</b>
 Briefing=- Survive
 Briefing=
-Briefing=SPECIAL NOTE:
+Briefing=<b>SPECIAL NOTE:</b>
 Briefing=This mission does not have a specific goal programmed in. You can either run to the edge of the map without getting destroyed, or fight the pursuing fleet - the choice is yours. You can consider the mission a success if you survive until you reach the edge of the map, or when you destroy the Soviet fleet.

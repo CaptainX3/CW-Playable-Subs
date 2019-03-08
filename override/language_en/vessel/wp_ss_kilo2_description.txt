@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Kilo II
 Description=[RUS] Kilo II Class SS
-History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 109 db\nEscape Depth: 600 ft\n\nA significantly upgraded version of the original, the Kilo II is an impressive feat of engineering. Originally developed by the United States as the Stingray Class, it is currently unclear exactly how the Russian Navy got ahold of the plans for this submarine. Nevertheless, several hulls have already been constructed and are now in service. Upgrades from the original Kilo include advanced anechoic tiling, a modern sonar package, a redesigned power train capable of much higher top speeds, and an overhaul of the propulsion system on the sub. These advances make the sub one of the quietest boats ever created, matching the ultra-modern Virginia class in emitted noise levels.
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 109 dB\nEscape Depth: 600 ft\n\nA significantly upgraded version of the original, the Kilo II is an impressive feat of engineering. Originally developed by the United States as the Stingray Class, it is currently unclear exactly how the Russian Navy got their hands on the plans for this submarine. Nevertheless, several hulls have already been constructed and are now in service. Upgrades from the original Kilo include advanced anechoic tiling, a modern sonar package, a redesigned power train capable of much higher top speeds, and an overhaul of the propulsion system on the sub. These advances make the sub one of the quietest boats ever created, matching the ultra-modern Virginia class in emitted noise levels.
 
 [Player Ship Instances]
 PlayerClassNames=Novorossiysk,Rostov-on-Don,Staryy Oskol,Krasnodar,Velikiy Novgorod,Kolpino

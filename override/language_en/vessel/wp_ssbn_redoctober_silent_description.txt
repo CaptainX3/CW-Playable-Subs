@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Red October (Silent)
 Description=[RUS] Typhoon Class SSBN "Red October" (Silent Drive)
-History=<b>FANTASY DESIGN</b>\nSelf Noise Rating: 85 db\nEscape Depth: 600 ft\n\n<b>WARNING: This sub is programmed to be ultra-quiet, and will be very difficult to detect by the AI, to the point of being a borderline cheat. Be aware of this before choosing this sub to use.</b>\n\nAn extremely advanced, top-secret version of the Typhoon class, the Red October is a one of a kind vessel designed for a surprise first-strike attack against the enemies of Russia. It is equipped with the very latest in Soviet technology, including a magnetohydrodynamic ("caterpillar") drive that makes the sub extremely quiet, but reduces its maximum submerged speed to around 14 knots.
+History=<b>FANTASY DESIGN</b>\nSelf Noise Rating: 85 dB\nEscape Depth: 600 ft\n\n<b>WARNING: This sub is programmed to be ultra-quiet, and will be very difficult to detect by the AI, to the point of being a borderline cheat. Be aware of this before choosing this sub to use.</b>\n\nAn extremely advanced, top-secret version of the Typhoon class, the Red October is a one of a kind vessel designed for a surprise first-strike attack against the enemies of Russia. It is equipped with the very latest in Soviet technology, including a magneto-hydrodynamic ("caterpillar") drive that makes the sub extremely quiet, but reduces its maximum submerged speed to around 14 knots.
 
 [Player Ship Instances]
 PlayerClassNames=Red October

@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Galerna [SPA]
 Description=[SPA] Galerna Class SSK
-History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nThe Agosta class submarines in Spanish service had a projected service life of 30 years. However, due to delays in the successor S-80-class program, they have undergone numerous repairs. Galerna was scheduled for another large overhaul in the summer of 2017, the fifth over her career, to extend her service life until the delivery of the next generation of submarines between 2021 and 2028.
+History=Self Noise Rating: 115 dB\nEscape Depth: 600 ft\n\nThe Agosta class submarines in Spanish service had a projected service life of 30 years. However, due to delays in the successor S-80-class program, they have undergone numerous repairs. Galerna was scheduled for another large overhaul in the summer of 2017, the fifth over her career, to extend her service life until the delivery of the next generation of submarines between 2021 and 2028.
 
 [Player Ship Instances]
 PlayerClassNames=ESPS Galerna,ESPS Siroco, ESPS Mistral, ESPS Tramontana

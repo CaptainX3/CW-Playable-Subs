@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Papa
 Description=[RUS] Papa Class SSGN (1968 Era)
-History=Self Noise Rating: 151 db\nEscape Depth: 600 ft\n\nK-222 was designed as an extremely fast attack submarine, and was the first submarine built with a titanium hull. She was armed with 10 SS-N-7 Starbright (П-70 «Аметист») missiles in individual tubes forward of the sail, between the inner and outer hulls, which were both of titanium alloy. Similar in design to the Charlie class, K-222 was designed to intercept and attack aircraft carrier groups. Like the Charlie class and the later Oscar class, her cruise missiles could only be reloaded in port, making her one of the Soviet Navy's "one shot" boats.\nK-162 was renamed K-222 in 1978.
+History=Self Noise Rating: 151 dB\nEscape Depth: 600 ft\n\nK-222 was designed as an extremely fast attack submarine, and was the first submarine built with a titanium hull. She was armed with 10 SS-N-7 Starbright (П-70 «Аметист») missiles in individual tubes forward of the sail, between the inner and outer hulls, which were both of titanium alloy. Similar in design to the Charlie class, K-222 was designed to intercept and attack aircraft carrier groups. Like the Charlie class and the later Oscar class, her cruise missiles could only be reloaded in port, making her one of the Soviet Navy's "one shot" boats.\nK-162 was renamed K-222 in 1978.
 
 [Player Ship Instances]
 PlayerClassNames=K-162

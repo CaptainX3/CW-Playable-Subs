@@ -1,6 +1,6 @@
 Image=campaign/images/pact landing sunk
 MissionLocation=Norwegian Sea. 200 miles due West of Narvik.
-Briefing=Soviet transport fleet is headed to Narvik. As you silently makes your approach, sonar reports a surface contact.
+Briefing=Soviet transport fleet is headed to Narvik. As you silently make your approach, sonar reports a surface contact.
 Briefing=
 Briefing=<b>Primary Objectives:</b>
 Briefing=- Prevent the transport Fleet from arriving in Narvik

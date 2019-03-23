@@ -5,7 +5,7 @@ MapName=North Atlantic 1968 NATO vs Red
 MapName=North Atlantic 1968 Red vs NATO
 MapName=South China Sea 2000 NATO vs Red
 MapName=South China Sea 2000 Red vs NATO
-MapName=World Map
+//MapName=World Map
 
 [ERRORS & WARNINGS]
 NoGroups=ERROR: No groups of vessels set as active. Check at least one box in the Use Group column on the Enemy Tab.

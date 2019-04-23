@@ -158,6 +158,18 @@ Mesh=wp_ss_whiskey_rudder
 MeshPosition=-.095,.003,-.73
 Mesh=wp_ss_whiskey_rudder
 
+//Canister
+ModelFile=ships/wp_rkr_kirov/wp_rkr_kirov
+MaterialTextures=vessels/textures/black.png
+MeshPosition=0.015,0.095,0.117
+MeshRotation=0,0,90
+MeshScale=2,2,2
+Mesh=wp_rkr_kirov_asw_launcher
+MeshPosition=-0.015,0.095,0.117
+MeshRotation=0,0,90
+MeshScale=2,2,2
+Mesh=wp_rkr_kirov_asw_launcher
+
 [Weapon Systems]
 //Torpedo Mounts
 MeshPosition=-0.0727,-0.0086,0.547
@@ -183,8 +195,8 @@ TorpedoEffectPosition=0.0662,-0.02946,0.5365
 //VLS Launch Position
 MeshPosition=0,0.0785,0.5816
 MeshRotation=-90,0,0
-TorpedoSpawnPosition=0,0.0785,0.0816
-TorpedoEffectPosition=0,0.0785,0.0816
+TorpedoSpawnPosition=0,0.0785,0.0216
+TorpedoEffectPosition=0,0.0785,0.0216
 
 //Noisemaker Mount
 MeshRotation=0,0,0

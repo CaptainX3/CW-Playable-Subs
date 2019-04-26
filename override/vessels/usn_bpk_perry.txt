@@ -25,7 +25,7 @@ BallastRate=0
 Waterline=0
 SubmergedAt=0
 CavitationParameters=20,-100
-PropRotationSpeed=-350,350
+PropRotationSpeed=350
 TestDepth=0
 
 [Acoustics & Sensors]
@@ -40,9 +40,9 @@ RADARSignature=MEDIUM
 
 [Weapon Systems]
 NavalGuns=usn_mk-38_shell
-NavalGunFiringArcBearingMin=-120
-NavalGunFiringArcBearingMax=120
-NavalGunRestAngle=0
+NavalGunFiringArcBearingMin=45
+NavalGunFiringArcBearingMax=-45
+NavalGunRestAngle=180
 NavalGunParticle=weapons/assets/SmallMuzzleFlash
 NavalGunSmokeParticle=weapons/assets/SmallMuzzleSmoke
 
@@ -53,22 +53,15 @@ TubeConfig=6
 TorpedoTubeSize=21
 TubeReloadTime=0
 
-//MissileType=wp_ss-n-14
-//MissilesPerLauncher=4,4
-
-//RBULaunchers=wp_rbu6000_mortar,wp_rbu6000_mortar
-//RBUSalvos=8,8
-//RBUFiringArcBearingMin=-130,0
-//RBUFiringArcBearingMax=0,130
-
 [Defenses]
 Anti-MissileGunHitProbability=0.015
 Anti-MissileGunRange=4000
-Anti-MissileGunFiringArcStart=-150
-Anti-MissileGunFiringArcFinish=150
-Anti-MissileGunRestAngle=0
-Anti-MissileGunUsesRADAR=1
-Anti-MissileRADARRestAngle=0
+Anti-MissileGunFiringArcStart=75
+Anti-MissileGunFiringArcFinish=-75
+Anti-MissileGunRestAngle=180
+Anti-MissileGunUsesRADAR=0
+Anti-MissileRADARRestAngle=180
+Anti-MissileGunParticle=ships/particles/usn_phalanx_burst
 ChaffType=wp_chaff
 ChaffProbability=0.12
 NumberChaffLaunched=2
@@ -77,140 +70,136 @@ NumberOfNoisemakers=20
 NoisemakerReloadTime=20
 
 [Model]
-ModelFile=ships/wp_bpk_kashin/wp_bpk_kashin
+ModelFile=ships/usn_ff_knox/usn_ff_knox
 
 //Hull and Deck
 MeshPosition=0,0,0
 MeshRotation=0,0,0
 
-MeshHullCollider=wp_bpk_kashin_coll_hull
-MeshSuperstructureCollider=wp_bpk_kashin_coll_ss
+MeshHullCollider=usn_ff_knox_coll_hull
+MeshSuperstructureCollider=usn_ff_knox_coll_ss
 
-Material=ships/wp_bpk_kashin/wp_bpk_kashin_mat
-//MaterialTextures=ships/wp_bpk_kashin/wp_bpk_kashin_tx,ships/wp_bpk_kashin/wp_bpk_kashin_spec,ships/wp_bpk_kashin/wp_bpk_kashin_nm
-MaterialTextures=vessels/textures/usn_kashin.png
-Mesh=wp_bpk_kashin,wp_bpk_kashin_d
-MeshPosition=0,-0.0228,-0.909
-MeshRudder=wp_bpk_kashin_rudder
+Material=ships/usn_ff_knox/usn_ff_knox_mat
+MaterialTextures=ships/usn_ff_knox/usn_ff_knox_tx,ships/usn_ff_knox/usn_ff_knox_spec,ships/usn_ff_knox/usn_ff_knox_nm
+Mesh=usn_ff_knox,usn_ff_knox_d
+MeshPosition=0,-0.0163,-0.8725
+MeshRudder=usn_ff_knox_rudder
 
 MeshPosition=0,0,0
-Mesh=wp_bpk_kashin_deck,wp_bpk_kashin_deck_d
-
-Material=ships/materials/underside
-Mesh=wp_bpk_kashin_undersides,wp_bpk_kashin_undersides_d
-
-Material=ships/materials/trans
-Mesh=wp_bpk_kashin_trans,wp_bpk_kashin_trans_d
+Mesh=usn_ff_knox_deck,usn_ff_knox_deck_d
 
 Material=ships/materials/boats
-Mesh=wp_bpk_kashin_boats,wp_bpk_kashin_boats_d
+Mesh=usn_ff_knox_boats,usn_ff_knox_boats_d
 
-Material=ships/materials/wp_peelgroup
-Mesh=wp_bpk_kashin_peelgroup,wp_bpk_kashin_peelgroup_d
+Material=ships/materials/underside
+Mesh=usn_ff_knox_undersides,usn_ff_knox_undersides_d
+
+Material=ships/materials/trans
+Mesh=usn_ff_knox_trans,usn_ff_knox_trans_d
+
+Material=ships/materials/usn_parts
+Mesh=usn_ff_knox_parts,usn_ff_knox_parts_d
 
 Material=ships/materials/crew_soviet
-Mesh=wp_bpk_kashin_crew,HIDE
+Mesh=usn_ff_knox_crew,HIDE
 
-//Material=ships/materials/hullnumbers/hullnumber
-//MeshHullNumber=wp_bpk_kashin_hullnumber
 
-Material=ships/materials/modular_parts
-Mesh=wp_bpk_kashin_parts,wp_bpk_kashin_parts_d
-MeshPosition=-0.0507,-0.060,-0.86
-MeshProp=wp_bpk_kashin_prop_l
-MeshPosition=0.0507,-0.060,-0.86
-MeshProp=wp_bpk_kashin_prop_r
+Material=ships/materials/usn_parts
+MeshRotation=-5,0,0
+MeshPosition=-0.0,-0.075,-0.8167
+MeshProp=usn_ff_knox_prop
 
 //RADARs
-RADARSpeed=180
-RADARDirection=1
-
-Material=ships/materials/wp_palmfrond
-MeshPosition=0,0.379,0.3075
-MeshRADAR=wp_palmfrond,HIDE
-
-MeshPosition=0,0.3867,0.1536
-MeshRADAR=wp_palmfrond,HIDE
-
-Material=ships/materials/wp_bignet_mat
-RADARSpeed=100
-MeshPosition=0,0.3578,0.0516
-MeshRADAR=wp_bpk_kashin_bignet,HIDE
-
-Material=ships/materials/wp_headnet_c
 RADARSpeed=120
-MeshPosition=0,0.4365,0.2481
-MeshRADAR=wp_bpk_kashin_headnet_c,HIDE
+RADARDirection=1
+MeshRotation=0,0,0
+MeshPosition=0,0.24,0.408
+MeshRADAR=usn_ff_knox_navradar
 
-//Flags
-MeshPosition=0,0,0
-MeshRotation=270,90,0
-Material=ships/materials/flag_us
-MeshMainFlag=wp_bpk_kashin_animatedflag
+RADARSpeed=100
+Material=ships/materials/usn_sps_40
+MeshPosition=0,0.345,0.0824
+MeshRADAR=usn_ff_knox_sps_40,HIDE
 
-
-[Weapon Systems]
+RADARSpeed=100
+Material=ships/materials/usn_sps_67
+MeshPosition=0,0.4713,0.0156
+MeshRADAR=usn_ff_knox_sps_67,HIDE
 
 //Naval Guns
-
-MeshRotation=0,180,0
-Material=ships/materials/modular_parts
-MeshPosition=0,0.0713,-0.70
-MeshNavalGun=wp_bpk_kashin_AK726
-MeshPosition=0,0.0265,0
+Material=ships/materials/usn_parts
 MeshRotation=0,0,0
-MeshNavalGunBarrel=wp_bpk_kashin_AK726_guns
-NavalGunSpawnPosition=0,0,0.12
+MeshPosition=0,0.155,-0.135
+MeshNavalGun=usn_ff_knox_127mm_turret
+MeshPosition=0,0.02,0.015
+MeshNavalGunBarrel=usn_ff_knox_127mm_gun
+NavalGunSpawnPosition=0,0,0.094
+
+//ASROC
+//Missile Mounts
+MeshRotation=-15,0,0
+MeshPosition=0.0,0.12,0.67
+Mesh=usn_ff_knox_asroc
+MeshRotation=0,0,0
+
+MeshRotation=15,0,0
+MeshPosition=0,-0.0210,0.012
+ChildMesh=usn_ff_knox_asroc_mount
 
 //Torpedo Mounts
-MeshRotation=0,0,0
-Material=ships/materials/modular_parts
-MeshPosition=0,0.1208,-0.0576
-MeshTorpedoMount=wp_bpk_kashin_torpedomount
-TorpedoSpawnPosition=0.0216,0.0047,0.0057
-TorpedoEffectPosition=0,0.0055,0.041
+MeshRotation=0,-45,0
+MeshPosition=-0.0496,0.1196,-0.2512
+MeshTorpedoMount=FALSE
+TorpedoSpawnPosition=0,0,0
+TorpedoEffectPosition=0,0,0
 
-
-
-//RBU
-
-//Missile Defense CIWS Guns and RADARs
-MeshRotation=0,0,0
-MeshPosition=-0.11,0.1477,-0.0796
-MeshCIWSGun=wp_bpk_udaloy_AK630
-
-
-MeshPosition=0.11,0.174,0.185
-MeshCIWSRADAR=wp_bpk_udaloy_basstilt
 
 //Noisemaker Mount
 MeshRotation=0,0,0
 MeshPosition=0,-0.011,-1.106
 MeshNoisemakerMount=FALSE
 
+//Missile Defense CIWS Guns and RADARs
+MeshRotation=0,180,0
+MeshPosition=0,0.075,-0.8369
+MeshCIWSGun=usn_ff_knox_ciws
+MeshPosition=0,0.075,-0.8369
+MeshCIWSRADAR=usn_ff_knox_ciwsradar
+
+
+
+//Flags
+MeshPosition=0,0,0
+MeshRotation=270,90,0
+Material=ships/materials/flag_us
+MeshMainFlag=usn_ff_knox_animatedflag,HIDE
+
+Material=ships/materials/flag_signal_us
+MeshOtherFlags=usn_ff_knox_signals,HIDE
+
 //Wake and Smoke
 MeshPosition=0,0,0
-MeshRotationn=0,0,0
 Material=FALSE
 BowWaveParticle=ships/particles/bowwave
 PropWashParticle=ships/particles/bowwave
-CavitationParticle=ships/particles/wp_bpk_kashin_cavitation
-FunnelSmokeParticle=ships/particles/wp_bpk_kashin_smokeemitter
+CavitationParticle=ships/particles/usn_ff_knox_cavitation
+FunnelSmokeParticle=ships/particles/usn_ff_knox_smokeemitter
 
-//Wake planes
-MeshPosition=0,0,1.13
-MeshHullWake=wp_bpk_kashin_hullwake
-MeshPosition=0,-0.062,-0.885
-MeshSternWake=wp_bpk_kashin_sternwake
+MeshPosition=0,0,0.969
+MeshHullWake=usn_ff_knox_hullwake
 
-//Ocean surface particles
-ParticleBowWavePosition=0,0,1.106
-ParticlePropWashPosition=0,-0.056,-0.892
-ParticleHullFoamPosition=0,0,0.39
-ParticleHullFoamParameters=10,0.35,0.35,0.055,0,0,0.25
-ParticleSternFoamPosition=0,0,-0.767
-ParticleSternFoamParameters=25,0.35,0.2,0.025,0.01,0,0.25
-KelvinWaves=4.0,4.0
+MeshPosition=0,0,-0.87
+MeshSternWake=usn_ff_knox_sternwake
+
+ParticleBowWavePosition=0,0,0.94
+ParticlePropWashPosition=0,-0.07,-0.9
+
+ParticleHullFoamPosition=0,0,0.4
+ParticleHullFoamParameters=10,0.25,0.25,0.055,0,0,0.25
+
+ParticleSternFoamPosition=0,0,-0.5
+ParticleSternFoamParameters=25,0.25,0.1,0.025,0.01,0,0.25
+KelvinWaves=3.3,3.3
 
 EngineAudioClip=audio/units/turbine_small
 EngineAudioRollOff=LOGARITHMIC

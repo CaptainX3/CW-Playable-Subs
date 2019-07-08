@@ -1,9 +1,10 @@
 [Unit Reference]
 ShipClass=George Washington
 Description=[USA] George Washington Class SSBN
-History=Self Noise Rating: 145 dB\nEscape Depth: 600 ft\n\nThe George Washington class was a class of nuclear-powered ballistic missile submarines deployed by the United States Navy. The George Washington, along with the later Ethan Allen, Lafayette, James Madison, and Benjamin Franklin classes comprised the "41 for Freedom" group of submarines that represented the Navy's main contribution to the nuclear deterrent force through the late 1980s.
+History=Self Noise Rating: 145 db\nEscape Depth: 600 ft\n\nThe George Washington class was a class of nuclear-powered ballistic missile submarines deployed by the United States Navy. The George Washington, along with the later Ethan Allen, Lafayette, James Madison, and Benjamin Franklin classes comprised the "41 for Freedom" group of submarines that represented the Navy's main contribution to the nuclear deterrent force through the late 1980s.
 
 [Player Ship Instances]
 PlayerClassNames=George Washington,Patrick Henry,Theodore Roosevelt,Robert E. Lee,Abraham Lincoln
 
 PlayerClassHullNumbers=SSBN-598,SSBN-599,SSBN-600,SSBN-601,SSBN-602
+	

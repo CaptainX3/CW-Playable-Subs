@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=November
 Description=[RUS] November Class SSN
-History=Self Noise Rating: 156 dB\nEscape Depth: 600 ft\n\nDesigned in the 1950's, poorly armed, loud and with inferior sonar systems, these were the Soviet Union's first nuclear submarines. Over the years they have received little in the way of upgrades, rendering them second-rate opponents at best.
+History=Self Noise Rating: 156 db\nEscape Depth: 600 ft\n\nDesigned in the 1950's, poorly armed, loud and with inferior sonar systems, these were the Soviet Union's first nuclear submarines. Over the years they have received little in the way of upgrades, rendering them second-rate opponents at best.
 
 [Player Ship Instances]
 PlayerClassNames=Konavalov, Kostroma, Slava, Nizhniy Novgorod, Daniil Moskovskiy, Krasny Krim, Pantera, Magadan, Krasnaya Swesda, Volk

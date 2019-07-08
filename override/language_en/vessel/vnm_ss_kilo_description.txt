@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Kilo [VNM]
 Description=[VNM] Kilo Class SS
-History=Self Noise Rating: 118 dB\nEscape Depth: 600 ft\n\nThis is the latest and most advanced diesel-electric submarine built by the Soviets. The version Kilo 636MV (exported to Vietnam) contains a GE2-01 radar and an improved MGK 400E sonar. In this version, the submarine is also able to operate in more weather conditions than the original Kilo-class submarines.
+History=Self Noise Rating: 118 db\nEscape Depth: 600 ft\n\nThis is the latest and most advanced diesel-electric submarine built by the Soviets. The version Kilo 636MV (exported to Vietnam) contains a GE2-01 radar and an improved MGK 400E sonar. In this version, the submarine is also able to operate in more weather conditions than the original Kilo-class submarines.
 
 [Player Ship Instances]
 PlayerClassNames=Hà Nội,Hồ Chí Minh City,Hải Phòng,Khánh Hoà,Đà Nẵng,Bà Riạ-Vũng Tàu

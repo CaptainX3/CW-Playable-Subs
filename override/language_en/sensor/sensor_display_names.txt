@@ -7,13 +7,13 @@ chn_type_603=TYPE-603=This sonar is the one that originally equipped the first H
 
 chn_hsjg_206a=H/SJG-206A= This is the towed array fitted on the latest Shang Class SSN, it has good performances but still a little inferior to the American TB-29.
 
-chn_hsq2_262a=H/SQ2-262A=This sonar suite is an improvement over the Soviet Romeo Class one.
+chn_hsq2_262a=H/SQ2-262A=This sonar suite is an improvement over the soviet Romeo Class one.
 
-chn_hsq2_262b=H/SQ2-262B=This sonar suite is an improvement over the Soviet Trout Cheek passive sonar. It has a better sensitivity and incorporates an active search attack sonar.
+chn_hsq2_262b=H/SQ2-262B=This sonar suite is an improvement over the soviet Trout Cheek passive sonar. It has a better sensitivity and incorporates an active search attack sonar.
 
 chn_hsqc_207=H/SQC-207=This sonar suite is an upgraded version of the H/SQ2-262B sonar and it is fitted on the Shang Class submarines.
 
-chn_hsqc_207_late=H/SQC-207 Imp=The best sonar suite available to the PLAN. It's said it's better than a AN/BQQ-5.
+chn_hsqc_207_late=H/SQC-207 Imp=That's the best sonar suite available to the PLAN. It's said it's better than a AN/BQQ-5.
 
 de_stn_dbqs40=STN DBQS-40=The ATLAS STN DBQS-40 is one of the most advanced sonar suite available on modern submarines.
 
@@ -33,11 +33,11 @@ it_jp_64=JP-64=This medium frequency active search sonar is the active component
 
 it_velox=Velox=This medium frequency passive search sonar is the passive component of the Toti Class sonar suite. It has medium performances.
 
-fr_dmux20=DMUX 20=Thales Underwater Systems (formerly Thomson Marconi Sonar) multifunctional passive sonar.
+fr_dmux20=DMUX 20=This system, used by the Rubis Class SSN, is its sonar suite, with performance comparable to the American AN/BQQ-5.
 
-fr_dmux21=DMUX 21=Thales Underwater Systems (formerly Thomson Marconi Sonar) multi-function passive bow and flank arrays.
+fr_dmux21=DMUX 21=This system, used by the Redoutable Class SSBN, is its sonar suite, with performance comparable to the American AN/BQQ-5.
 
-fr_dmux80=DMUX 80=Thales Underwater Systems (formerly Thomson Marconi Sonar) bow and flank array sonar suite.
+fr_dmux80=DMUX 80=This system, used by the Triomphant Class SSBN, is its sonar suite, with performance comparable to the American AN/BQQ-10.
 
 fr_dsuv62c=DSUV 62C=The ETBF DSUV 62C is a towed array, with performance comparable to the American TB-16.
 
@@ -55,7 +55,7 @@ csu_83-1=CSU 83-1=CSU 83-1 is an integrated sonar sensor suite from Atlas Elektr
 
 csu_90-2=CSU 90-2=CSU 90-2 is an integrated sonar sensor suite from Atlas Elektronik. This includes a passive cylindrical bow array, an intercept array and two passive flank arrays.
 
-Thomson_Sintra_TSM_2272=TSM 2272=Thomson Sintra TSM 2272 Eledone Octopus hull mounted active/passive sonar.
+Thomson_Sintra_TSM_2272=TSM 2272=Hull mounted active/passive sonar used in the Walrus class submarines.
 
 uk_187=Type 187=Type 187 Active-Passive attack sonar.
 
@@ -71,7 +71,7 @@ uk_2054=SONAR 2054=Thales Underwater Systems Type 2054 composite sonar suite.
 
 uk_2074=SONAR 2074=Marconi/Plessey Type 2074 hull-mounted active and passive search and attack sonar.
 
-uk_2076=SONAR 2076=Sonar 2076 is an integrated suite of active and passive sonar systems including bow, fin, flank and towed arrays.
+uk_2076=SONAR 2076=Sonar 2076 is a submarine sonar detection system designed by Thales for the Royal Navy.
 
 uk_2026=SONAR 2026=UK Type 2026 Towed Array.
 
@@ -81,25 +81,25 @@ uk_2065=SONAR 2065=Type 2065 towed array.
 
 Type_2026_towed_array=Type 2026=Type 2026 Towed Array.
 
-wp_mgk400m=MGK-400M=The MGK-400M is the updated version of the original MGK-400.
+wp_mgk400m=MGK-400M=The MGK-400M is the updated version of the original MGK-400 fitted on the Kilo Class SS. It's and advanced sonar suite.
 
-wp_mgk540=MGK-540=A highly advanced Russian sonar suite. Roughly equivalent to the US BQQ-10 system.
+wp_mgk540=MGK-540=A highly advanced Russian sonar suite, equipped only on the Akula Class submarines. Roughly equivalent to the US BQQ-10 system.
 
-wp_mgk600=MGK-600=MGK-600 Irtysh-Amfora Spherical Array. Active/Passive Search & Track
+wp_mgk600=MGK-600=MGK-600 Irtysh-Amfora Spherical Array.
 
-wp_mgk600_towed=MGK-600=MGK-600 Irtysh-Amfora Towed Array. Passive-Only Towed Array Sonar System
+wp_mgk600_towed=MGK-600=MGK-600 Irtysh-Amfora Towed Array.
 
 wp_zvezdam2=Zvezda M-2=The Zvezda sonar system is considered by its designers to be the equivalent of American AN/SQS-53 in terms of overall performance.
 
 wp_zvezdam2t=Zvezda M-2=The Zvezda sonar system is considered by its designers to be the equivalent of American AN/SQS-53 in terms of overall performance.
 
-wp_pelamida=Pelamida=The latest and most advanced Russian towed sonar array.
+wp_pelamida=Pelamida=The latest and most advanced Russian towed sonar array, equipped only on the Akula Class submarines.
 
-ind_ushus=USHUS=The USHUS sonar suite is a suite developed by the Defence Research and Development Organization of the Indian government, made to be used on submarines of the Indian Navy, such as the Sindhughosh and Arihant class vessels.
+ind_ushus=USHUS=The USHUS sonar suite is a suite developed by the Defense Research and Development Organization of the Indian government, made to be used on submarines of the Indian Navy, such as the Sindhughosh and Arihant class vessels.
 
 usn_an_bqq_10=AN/BQQ-10=This next-generation replacement for the AN/BQQ-5 system uses more advanced algorithms and has significant capability over the previous version.
 
-ksm_sonderapparat=SU-Apparat Nibelung=This array was developed in World War II using both passive and active search, and could detect a convoy from one hundred kilometres if conditions were right.
+ksm_sonderapparat=SU-Apparat Nibelung=This array was developed in World War II using both passive and active search, and could detect a convoy from one hundred kilometers if conditions were right.
 
 uk_asdic=ASDIC Sonar=This array was one of the first of its kind, using a loud directional noise and measuring the echo to determine the location of hidden submarines.
 
@@ -113,15 +113,15 @@ usn_an_sqr-19=AN/SQR-19=The AN/SQR-19 Tactical Towed Array SONAR (TACTAS) provid
 
 usn_an_sqs-26=AN/SQS-26=AN/SQS-26 was a United States Navy surface ship, bow mounted, low frequency, active/passive sonar developed by the Naval Underwater Sound Laboratory and built by General Electric and the EDO Corporation. At one point, it was installed on 87 US Navy warships from the 1960s to the 1990s and may still be in use on ships transferred to other navies.
 
-usn_an_sqs-23=AN/SQS-23=The AN/SQS-23 was a long range, azimuth-scanning type of search and attack sonar used for search, search-analyse, attack-RDT, attack-SDT and hand-key applications.
+usn_an_sqs-23=AN/SQS-23=The AN/SQS-23 was a long range, azimuth-scanning type of search and attack sonar used for search, search-analyze, attack-RDT, attack-SDT and hand-key applications.
 
-usn_an_sqr-18=AN/SQR-18=The AN/SQR-18 series began with the SQR-18 Interim Escort Towed-Array Surveillance System (IETASS) that was developed to be a simpler version of the AN/ SQR-14/15 long-range towed arrays for frigates and minesweepers. During tests, the SQR-18 towed array generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on Belknap (CG 26)-class cruisers, Spruance (DD 963)-class destroyers, and Oliver Hazard Perry (FFG 7)-and Knox (FF 1052)-class frigates. Also fitted in Japanese destroyers and Indonesian Ahmed Yani Class frigates.
+usn_an_sqr-18=AN/SQR-18=The AN/SQR-18 series began with the SQR-18 Interim Escort Towed-Array Surveillance System (IETASS) that was developed to be a simpler version of the AN/ SQR-14/15 long-range towed arrays for frigates and minesweepers. During tests, the SQR-18 towed array generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on Belknap (CG 26)-class cruisers, Spruance (DD 963)-class destroyers, and Oliver Hazard Perry (FFG 7)-and Knox (FF 1052)-class frigates. Also fitted in Japanese destroyers and Indonesian Ahmed Yani-class frigates.
 
 usn_an_bqg-4=AN/BQG-4=The AN/BQG-4 is a passive ranging sonar system developed by the United States for export to other NATO nation's submarines. These include the upgraded Australian Oberon Class boats.
 
 csu_3-41=CSU 3-41=The CSU 3-41 is an active attack sonar system designed and developed by West Germany in the early 70s. They began exporting it to other NATO nations by the mid 70s as they found more success with the CSU 81-1.
 
-usn_an_sqr-15=AN/SQR-15=The AN/SQR-14/15 series began with the SQR-14 Interim Towed-Array Surveillance System (ITASS) that was developed as a long-range towed arrays for frigates and minesweepers to backup SOSUS. These arrays are much longer than the later SQR-18/19 towed arrays generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on, Bronstein (FF 1037)-and Knox (FF 1052)-class frigates, circa 1983/84 the arrays were removed from their original platforms and placed aboard six of the Spruance (DD 963) Class destroyers, three on each coast.
+usn_an_sqr-15=AN/SQR-15=The AN/SQR-14/15 series began with the SQR-14 Interim Towed-Array Surveillance System (ITASS) that was developed as a long-range towed arrays for frigates and minesweepers to backup SOSUS. These arrays are much longer than the later SQR-18/19 towed arrays generated excess noise, which contributed to its unreliability in the first convergence zone. Deployed on, Bronstein (FF 1037)-and Knox (FF 1052)-class frigates, cica 1983/84 the arrays were removed from their original platforms and placed aboard six of the Spruance (DD 963)-class destroyers, three on each coast.
 
 
 // ----- End New Sonars --------------------------------------------------------------------------------
@@ -133,9 +133,9 @@ usn_an_bqr_21=AN/BQR-21=This is an updated version of the BQR-2 boasting new dig
 
 usn_an_bqs_4=AN/BQS-4=This system formed the active component of the sonar suite on 1950's era USN subs. Unlike the BQR-2 though, it is still powerful enough to detect otherwise silent enemies.
 
-usn_an_bqq_2=AN/BQQ-2=The first spherical integrated sonar array, mounted in the Permit and Sturgeon class submarines.
+usn_an_bqq_2=AN/BQQ-2=The first spherical integrated sonar array, mounted in the Permit- and Sturgeon class submarines.
 
-usn_an_bqq_5=AN/BQQ-5=This advanced sonar suite uses a spherical array with the latest digital signal processing techniques and was first introduced in the Los Angeles-class fast attack submarines, and subsequently to the Permit and Sturgeon classes where it replaced the analogue BQQ-2 spherical array.
+usn_an_bqq_5=AN/BQQ-5=This advanced sonar suite uses a spherical array with the latest digital signal processing techniques and was first introduced in the Los Angeles-class fast attack submarines, and subsequently to the Permit and Sturgeon classes where it replaced the analog BQQ-2 spherical array.
 
 usn_bqr_25=BQR-25=The BQR-25 Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
 
@@ -165,7 +165,7 @@ usn_an_aqs_13f=AQS-13F=Active dipping sonar primarily used by the SH-2F ASW heli
 
 plan_sjd_3=SJD-3=This is a Chinese high frequency hull-mounted scanning sonar based on an improved Stag Hoof design that equips several frigates.
 
-plan_eh_5=EH-5=Keel-mounted high frequency scanning array that equips the early Jianghu Class frigates.
+plan_eh_5=EH-5=Keel-mounted high frequency scanning array that equips the early Jianghu-class frigates.
 
 plan_sjd_5=SJD-5=This is a Chinese high frequency bow-mounted scanning sonar based on an improved Buck Toe design that equips several frigates.
 
@@ -189,21 +189,21 @@ wp_wolf_paw=Wolf Paw=This is an older medium frequency sonar set that equipped m
 
 wp_trout_cheek=Trout Cheek=This system was derived from the German wartime Balkongerat sonar fitted in the Type XXI. It is comparable to the BQR-2/BQS-4 suite fitted to the Skipjack.
 
-wp_squid_arm=Squid Arm=This is an advanced low frequency sonar array unique to the Alfa Class fast attack submarine where it feeds a highly automated command-and-control system, the details of which little is known.
+wp_squid_arm=Squid Arm=This is an advanced low frequency sonar array unique to the Alfa-class fast attack submarine where it feeds a highly automated command-and-control system, the details of which little is known.
 
 wp_shark_teeth=Shark Teeth=This cylindrical low frequency array is fitted on the Victor, Juliet, Tango and Charlie class submarines. It is comparable in performance to the US BQQ-2 and doubles the detection range compared to the earlier Trout Cheek MF array.
 
-wp_shark_gill=Shark Gill=The latest generation of Soviet sonar systems, this cylindrical low frequency array is used on submarines where it equips the Victor III, Charlie II, Delta III and IV, Typhoon and Oscar classes. Compared to the earlier Shark Teeth, this set is better than the BQQ-2 of the early Permit  and Sturgeon classes, and almost comparable to the BBQ-5 that equips the latest US subs.\n \nIt is rumoured that an advanced version of this suite equips the Sierra Class submarine, but little is known at this time.
+wp_shark_gill=Shark Gill=The latest generation of Soviet sonar systems, this cylindrical low frequency array is used on submarines where it equips the Victor III, Charlie II, Delta III and IV, Typhoon and Oscar classes. Compared to the earlier Shark Teeth, this set is better than the BQQ-2 of the early Permit- and Sturgeon classes, and almost comparable to the BBQ-5 that equips the latest US subs.\n \nIt is rumored that an advanced version of this suite equips the Sierra-class submarine, but little is known at this time.
 
-wp_amfora=MGK-600=Little is known about this integrated spherical sonar suite that equips Russian next-generation boats such as the Yasen Class.
+wp_amfora=MGK-600=Little is known about this integrated spherical sonar suite that equips Russian next-generation boats such as the Yasen-class.
 
 wp_buck_toe=Buck Toe=Definitely antiquated by 1980's standards, this is a searchlight-style high frequency active array, little better than WW2 active sonars.
 
 wp_shark_fin=Shark Fin=This medium frequency set equips some Soviet boats of the late 1960's, where it forms the active component of the Shark Teeth passive suite.
 
-wp_pike_jaw=Pike Jaw=This high frequency set is common among the late 1950's generation where it equips the Foxtrot and November Class boats, generally in conjunction with Trout Cheek. It can therefore be assumed that Pike Jaw is likewise a derivative of German wartime designs.
+wp_pike_jaw=Pike Jaw=This high frequency set is common among the late 1950's generation where it equips the Foxtrot and November class boats, generally in conjunction with Trout Cheek. It can therefore be assumed that Pike Jaw is likewise a derivative of German wartime designs.
 
-wp_stag_ear=Stag Ear=This is a very old high frequency set that equips the Whiskey Class diesel subs.
+wp_stag_ear=Stag Ear=This is a very old high frequency set that equips the Whiskey-class diesel subs.
 
 wp_foal_tail=Foal Tail=This high frequency variable depth sonar (VDS) is a shipboard derivative of the dipping sonar mounted on the Ka-25 Hormone A anti-submarine helicopters. Commonly mounted on smaller patrol ships, the ability to search beneath the layer makes it a dangerous system to encounter in shallow waters.
 
@@ -211,7 +211,7 @@ wp_mare_tail=Mare Tail=This large variable depth sonar (VDS) was first observed 
 
 wp_horse_tail=Horse Tail=Larger and much more capable than Mare Tail, Horse Tail is a towed low frequency variable depth sonar (VDS) which equips the Kirov and Udaloy classes where it gives these ships the ability to search beneath the layer for considerable distances.
 
-wp_shark_tail=Shark Tail=This is a passive low-frequency towed array that equips all Soviet submarines of recent construction from the Victor III onwards. While not comparable to American towed array systems, it nevertheless provides the Soviets with an improved sonar capability which earlier generations were lacking, giving these newer boats something of a quantum leap in capabilities and the threat they provide.
+wp_shark_tail=Shark Tail=This is a passive low-frequency towed array that equips all Soviet submarines of recent construction from the Victor III onwards. While not comparable to American towed array systems, it nevertheless provides the Soviets wih an improved sonar capability which earlier generations were lacking, giving these newer boats something of a quantum leap in capabilities and the threat they provide.
 
 wp_skat3=SKAT 3=This is a Soviet passive very low frequency towed array sonar.
 
@@ -219,7 +219,7 @@ wp_amfora_ta=MGK-600=This is the passive towed array component of the advanced s
 
 wp_horse_jaw=Horse Jaw=This is a follow-on to the Moose Jaw that equips the Kirov and Udaloy classes, and gives these ships tremendous capability against even silent US submarines.
 
-wp_moose_jaw=Moose Jaw=This is a very large low-frequency array first observed on the Moskva, but which also equips the Kiev class.
+wp_moose_jaw=Moose Jaw=This is a very large low-frequency array first observed on the Moskva's, but which also equips the Kiev class.
 
 //WP SONOBUOYS
 wp_rgb_56=Crow Egg=First generation sonobuoy introduced 1956. 8 to a container. 
@@ -268,7 +268,7 @@ uk_t1006=Type 1006=The Kelvin Hughes Type 1006 family of naval radars are surfac
 
 uk_t1007=Type 1007=The Kelvin Hughes Type 1007 family of naval radars are high-definition surface warning and navigational radar systems in service with the U.K. Royal Navy and several other world navies. The radars are available in I-band and F-band versions.
 
-fumb_ant_3=FuMB Ant 3=This radar array was used by the German Navy in World War II.
+fumb_ant_3=FuMB Ant 3=This radar array was used by the German navy in World War II.
 
 usn_bps_12=BPS-12=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
@@ -294,7 +294,7 @@ usn_ln_66=LN-66=Helicopter-mounted surface search set for the SH-2F Seasprite he
 
 plan_klc_1=KLC-1=Helicopter-mounted surface search set for the Z-9C Dauphin, optimized for over-the-horizon targeting.
 
-plan_type_360=Type 360=An air/surface search radar manufactured by Yangzhou Marine Electronic Instruments Research Institute and is reportedly based on Selenia RAN-10S / SPS–774.
+plan_type_360=Type 360=An air/surface search radar manufactured by Yangzhou Marine Electronic Instruments Research Institute and is reportedly based on Selenia RAN-10S / SPS – 774.
 
 // ----- End New Radars --------------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Delta IV
 Description=[RUS] Delta IV Class SSBN
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nAlthough externally similar to the earlier Delta Class boats, this is largely an entirely new, third-generation submarine design. These submarines are larger, carry a larger missile, and have enhanced quieting features compared to earlier classes. In addition, they are also designed to operate under and surface through ice, making them difficult to find should they be allowed to transit to their operating areas.
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nAlthough externally similar to the earlier Delta Class boats, this is largely an entirely new, third-generation submarine design. These submarines are larger, carry a larger missile, and have enhanced quieting features compared to earlier classes. In addition, they are also designed to operate under and surface through ice, making them difficult to find should they be allowed to transit to their operating areas.
 
 [Player Ship Instances]
 PlayerClassNames=Verkhoturye, Ekaterinburg, Podmoskovye, Tula, Bryansk, Karelia, Novomoskovsk

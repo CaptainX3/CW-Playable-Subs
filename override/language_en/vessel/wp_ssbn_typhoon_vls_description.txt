@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Typhoon (VLS)
 Description=[RUS] Typhoon Class SSGN
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nA modern conversion of the Typhoon class that removes the SLBM system and replaces it with a VLS system for up to 50 cruise missiles. Two torpedo tubes were removed in favor of an expanded forward space that can store up to 60 weapons.
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nA modern conversion of the Typhoon class that removes the SLBM system and replaces it with a VLS system for up to 50 cruise missiles. Two torpedo tubes were removed in favor of an expanded forward space that can store up to 60 weapons.
 
 [Player Ship Instances]
 PlayerClassNames=Dmitriy Donskoy, Simbirsk, Arkhangelsk, Severstal, Krasnaya Oktyabr, Krasnaya Swesda, Slawa

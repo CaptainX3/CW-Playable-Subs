@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=R-27 SLBM
 WeaponDescriptiveName=R-27 (SLBM)
-WeaponDescription=The R-27 Zyb was a submarine-launched ballistic missile developed by the Soviet Union and employed by the Soviet Navy from 1968 through 1988. NATO assigned the missile the reporting name SS-N-6 Serb.It was a liquid fuel rocket using a hypergolic combination of unsymmetrical dimethyl-hydrazine (UDMH) as fuel, and nitrogen tetroxide (NTO) as oxidizer. Between 1974 and 1990, 161 missile launches were conducted, with an average success rate of 93%. Total production was 1800 missiles.\nIn-game range, 275000 yards
+WeaponDescription=The R-27 Zyb was a submarine-launched ballistic missile developed by the Soviet Union and employed by the Soviet Navy from 1968 through 1988. NATO assigned the missile the reporting name SS-N-6 Serb.It was a liquid fuel rocket using a hypergolic combination of unsymmetrical dimethylhydrazine (UDMH) as fuel, and nitrogen tetroxide (NTO) as oxidizer. Between 1974 and 1990, 161 missile launches were conducted, with an average success rate of 93%. Total production was 1800 missiles.\nIn-game range, 275000 yards

@@ -1,9 +1,7 @@
 [Unit Reference]
 ShipClass=Sauro IV [ITA]
 Description=[ITA] Sauro IV Class SSK (1990 Era)
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nThe fourth series of the Italian Sauro class submarines represents a big step forward when compared to the third series. The Sauro-IV submarines, built in the 1990s, have completely new electronics, new mechanical parts, better soundproofing and a new anechoic finish. This makes these boats difficult to locate. The two Sauro-IV submarines are still in service, alongside the modern Type 212.
-
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe fourth series of the Italian Sauro class submarines represents a big step forward when compared to the third series. The Sauro-IV submarines, built in the 1990s, have completely new electronics, new mechanical parts, better soundproofing and a new anechoic finish. This makes these boats difficult to locate. The two Sauro-IV submarines are still in service, alongside the modern Type 212.
 [Player Ship Instances]
 PlayerClassNames=ITS Primo Longobardo,ITS Gianfranco Gazzana Priaroggia
-
 PlayerClassHullNumbers=S524,S525

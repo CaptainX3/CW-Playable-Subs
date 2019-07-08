@@ -1,9 +1,8 @@
 [Unit Reference]
 ShipClass=Gotland [SWE]
 Description=[SWE] Gotland Class SS
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nThe Gotland Class submarines of the Swedish Navy are modern diesel-electric submarines, which were designed and built by the Kockums shipyard in Sweden. They are the first submarines in the world to feature a Stirling engine air-independent propulsion (AIP) system, which extends their underwater endurance from a few days to weeks. This capability had previously only been available with nuclear-powered submarines.
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Gotland Class submarines of the Swedish Navy are modern diesel-electric submarines, which were designed and built by the Kockums shipyard in Sweden. They are the first submarines in the world to feature a Stirling engine air-independent propulsion (AIP) system, which extends their underwater endurance from a few days to weeks. This capability had previously only been available with nuclear-powered submarines.
 
 [Player Ship Instances]
 PlayerClassNames=HMS Gotland,HMS Uppland,HMS Halland
-
 PlayerClassHullNumbers=S100,S101,S102

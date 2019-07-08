@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Song
 Description=[PLAN] Song Class SSK
-History=Self Noise Rating: 115 dB\nEscape Depth: 600 ft\n\nThe Song is the first really modern Chinese submarine design, with a modern teardrop hull shape and single shaft propulsion. Compared to previous designs, it incorporates rafting for improved quieting, features the latest in French digital sonar coupled with an advanced fire-control system capable of firing the the YU-5 wire-guided ASW torpedo and the stand-off CY-1 ASW missile.
+History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nThe Song is the first really modern Chinese submarine design, with a modern teardrop hull shape and single shaft propulsion. Compared to previous designs, it incorporates rafting for improved quieting, features the latest in French digital sonar coupled with an advanced firecontrol system capable of firing the the YU-5 wireguided ASW torpedo and the stand-off CY-1 ASW missile.
 
 [Player Ship Instances]
 PlayerClassNames=SS-320,SS-321,SS-322,SS-323,SS-324,SS-325,SS-326,SS-327,SS-328,SS-329,SS-330,SS-331,SS-332

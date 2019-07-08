@@ -1,9 +1,8 @@
 [Unit Reference]
 ShipClass=Walrus [NLD]
 Description=[NLD] Walrus Class SS
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nThe Walrus Class submarine replaced the Zwaardvis class submarines in the Royal Dutch Navy. 
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Walrus Class submarine replaced the Zwaardvis class submarines in the Royal Dutch Navy. 
 
 [Player Ship Instances]
 PlayerClassNames=HNLMS Walrus,HNLMS Zeeleeuw,HNLMS Dolfijn,HNLMS Bruinvis
-
 PlayerClassHullNumbers=S802,S803,S808,S810

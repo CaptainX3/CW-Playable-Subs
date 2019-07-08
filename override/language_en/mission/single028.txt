@@ -5,7 +5,7 @@ Briefing=
 Briefing=<b>Primary Objectives:</b>
 Briefing=- Sink all contacts
 Briefing=
-Briefing=(It could be <b>ANYTHING</b>, including neutrals!)
+Briefing=(It could be ANYTHING, including neutrals!)
 Briefing=
 Briefing=
 Briefing=
@@ -13,3 +13,6 @@ Briefing=
 Briefing=
 Briefing=
 Briefing=(Mission Submitted By Ramius. Included with permission.)
+
+
+

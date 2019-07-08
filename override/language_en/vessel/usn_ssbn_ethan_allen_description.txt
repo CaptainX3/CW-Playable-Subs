@@ -1,9 +1,10 @@
 [Unit Reference]
 ShipClass=Ethan Allen
 Description=[USA] Ethan Allen Class SSBN
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nThe Ethan Allen class of fleet ballistic missile submarine was an evolutionary development from the George Washington class. The Ethan Allen, together with the George Washington, Lafayette, James Madison, and Benjamin Franklin classes comprised the "41 for Freedom" that were the Navy's main contribution to the nuclear deterrent force through the late 1980s.
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Ethan Allen class of fleet ballistic missile submarine was an evolutionary development from the George Washington class. The Ethan Allen, together with the George Washington, Lafayette, James Madison, and Benjamin Franklin classes comprised the "41 for Freedom" that were the Navy's main contribution to the nuclear deterrent force through the late 1980s.
 
 [Player Ship Instances]
 PlayerClassNames=Ethan Allen,Sam Houston,Thomas A. Edison,John Marshall,Thomas Jefferson
 
 PlayerClassHullNumbers=SSBN-608,SSBN-609,SSBN-610,SSBN-611,SSBN-612
+	

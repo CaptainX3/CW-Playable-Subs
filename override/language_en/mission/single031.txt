@@ -1,7 +1,7 @@
 Image=campaign/images/plan landing 2
 MissionLocation=Near Jan Mayen
 Briefing=
-Briefing=You have been hiding off of the northern coast of Jan Mayen for several days. A large convoy with escorts is now approaching the Southeast side of the island. They don't know you're here. Take them by surprise!
+Briefing=You have been hiding off of the northern coast of Jan Mayen for several days. A large convoy with escorts is now approaching the southeast side of the island. They don't know you're here. Take them by surprise!
 Briefing=
 Briefing=<b>Primary Objectives:</b>
 Briefing=- Sink all convoy ships
@@ -9,3 +9,4 @@ Briefing=
 Briefing=<b>Secondary Objectives:</b>
 Briefing=- Sink all escorts
 Briefing=- Survive
+

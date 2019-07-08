@@ -3,5 +3,5 @@ MissionLocation=In the Denmark Strait
 Briefing=8 NOV 1984
 Briefing=At least one NATO attack submarine is reported to be operating in the area. Proceed with caution.
 Briefing=
-Briefing=<b>Primary Objective:</b>
-Briefing=- Fight a one-on-one duel with an enemy SSN
+Briefing=Primary Objective:
+Briefing=Fight a one-on-one duel with an enemy SSN

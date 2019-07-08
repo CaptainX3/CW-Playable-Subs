@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Romeo [DPRK]
 Description=[DPRK] Romeo Class SS
-History=Self Noise Rating: 135 dB\nEscape Depth: 400 ft\n\nThis is the North Korean version of the Type 033.
+History=Self Noise Rating: 135 db\nEscape Depth: 400 ft\n\nThis is the North Korean version of the Type 033.
 
 [Player Ship Instances]
 PlayerClassNames=Kim Jong-Un

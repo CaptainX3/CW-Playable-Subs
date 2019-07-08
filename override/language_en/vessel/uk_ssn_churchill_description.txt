@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Churchill [UK]
 Description=[GBR] Churchill Class SSN (1968 Era)
-History=Self Noise Rating: 133 dB\nEscape Depth: 600 ft\n\nThe three Improved Valiant Class submarines, sometimes known as the Churchill class, were nuclear-powered fleet submarines which served with the Royal Navy from the 1970s until the early 1990s. The Churchill class was based on the older Valiant class, but featured many internal improvements. HMS Conqueror was the most famous of the class, sinking the Argentinian cruiser ARA General Belgrano during the 1982 Falklands War.\nHMS Churchill evaluated both the American Mark 48 torpedo and the UGM-84 Harpoon missile, though only the latter was adopted by the Royal Navy.
+History=Self Noise Rating: 133 db\nEscape Depth: 600 ft\n\nThe three Improved Valiant Class submarines, sometimes known as the Churchill class, were nuclear-powered fleet submarines which served with the Royal Navy from the 1970s until the early 1990s. The Churchill class was based on the older Valiant class, but featured many internal improvements. HMS Conqueror was the most famous of the class, sinking the Argentinian cruiser ARA General Belgrano during the 1982 Falklands War.\nHMS Churchill evaluated both the American Mark 48 torpedo and the UGM-84 Harpoon missile, though only the latter was adopted by the Royal Navy.
 
 [Player Ship Instances]
 PlayerClassNames=HMS Churchill,HMS Conqueror,HMS Courageous

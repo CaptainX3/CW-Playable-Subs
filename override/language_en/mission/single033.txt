@@ -3,5 +3,5 @@ MissionLocation=In the Denmark Strait
 Briefing=14 NOV 1984
 Briefing=A NATO ASW patrol has pursued you into the Denmark Strait. Now it is time to go on the offensive.
 Briefing=
-Briefing=<b>Primary Objective:</b>
-Briefing=- Sink enemy escorts
+Briefing=Primary Objective:
+Briefing=Sink enemy escorts

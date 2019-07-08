@@ -1,9 +1,8 @@
 [Unit Reference]
 ShipClass=Scorpène [MULTI]
 Description=[MULTI] Scorpène Class SS
-History=Self Noise Rating: 110 dB\nEscape Depth: 600 ft\n\nThe Scorpène Class submarines are a class of diesel-electric attack submarines jointly developed by the French Direction des Constructions Navales (DCN) and the Spanish company Navantia, and now by Naval Group. It features diesel propulsion and an additional air-independent propulsion (AIP). They are currently in-Service or being built for Chile, Malaysia, India and Brazil.
+History=Self Noise Rating: 110 db\nEscape Depth: 600 ft\n\nThe Scorpène-class submarines are a class of diesel-electric attack submarines jointly developed by the French Direction des Constructions Navales (DCN) and the Spanish company Navantia, and now by Naval Group. It features diesel propulsion and an additional air-independent propulsion (AIP). They are currently in-Service or being built for Chile, Malaysia, India and Brazil.
 
 [Player Ship Instances]
 PlayerClassNames=O'Higgins,Carrera,KD Tunku Abdul Rahman,KD Tun Abdul Razak,INS Kalvari,INS Khanderi,INS Karanj,INS Vela,INS Vagir,INS Vagsheer,Riachuelo,Humaitá,Tonelero,Angostura
-
 PlayerClassHullNumbers=SS-23,SS-22,S-01,S-02,S21,S22,S23,S24,S25,S26,S40,S41,S42,S43

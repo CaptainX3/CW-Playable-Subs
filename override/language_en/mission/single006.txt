@@ -1,5 +1,5 @@
 Image=campaign/images/pact ssbn 2
-MissionLocation=In the North Barents Sea
+MissionLocation=In the north Barents Sea
 Briefing=Your SSBN is being hunted by NATO submarines. Eliminate them.
 Briefing=
 Briefing=<b>Primary Objectives:</b>

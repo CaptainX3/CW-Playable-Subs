@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Sinpo [DPRK]
 Description=[DPRK] Sinpo Class SSB
-History=Self Noise Rating: 130 dB\nEscape Depth: 600 ft\n\nThe Sinpo class submarine, also called the Gorae ("whale") or Pongdae class, is a new class of submarine produced in North Korea. Only one submarine has been observed in service. It is the largest submarine designed and built for the Korean People's Navy. There has been speculation the design is influenced by modern Russian submarines of Kilo class, or Golf class submarine, but the submarine is significantly smaller than these designs.
+History=Self Noise Rating: 130 db\nEscape Depth: 600 ft\n\nThe Sinpo class submarine, also called the Gorae ("whale") or Pongdae class, is a new class of submarine produced in North Korea. Only one submarine has been observed in service. It is the largest submarine designed and built for the Korean People's Navy. There has been speculation the design is influenced by modern Russian submarines of Kilo class, or Golf class submarine, but the submarine is significantly smaller than these designs.
 
 [Player Ship Instances]
 PlayerClassNames=Sinpo

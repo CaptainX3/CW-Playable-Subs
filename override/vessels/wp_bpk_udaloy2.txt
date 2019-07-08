@@ -64,10 +64,10 @@ RBUFiringArcBearingMax=0,130
 [Defenses]
 Anti-MissileGunHitProbability=0.015
 Anti-MissileGunRange=4000
-Anti-MissileGunFiringArcStart=-150,-150,30,30
-Anti-MissileGunFiringArcFinish=-30,-30,150,150
-Anti-MissileGunRestAngle=0,0,0,0
-Anti-MissileGunUsesRADAR=0,0,1,1
+Anti-MissileGunFiringArcStart=-150,-150
+Anti-MissileGunFiringArcFinish=-30,-30
+Anti-MissileGunRestAngle=0,0
+Anti-MissileGunUsesRADAR=0,0
 Anti-MissileRADARRestAngle=0,0
 ChaffType=wp_chaff
 ChaffProbability=0.12
@@ -105,8 +105,6 @@ Mesh=wp_bpk_udaloy_trans,wp_bpk_udaloy_trans_d
 
 Material=ships/materials/boats
 Mesh=wp_bpk_udaloy_boats,wp_bpk_udaloy_boats_d
-
-
 
 
 Material=ships/materials/modular_parts
@@ -155,7 +153,6 @@ MeshPosition=0,0,0
 MeshRotation=270,90,0
 Material=ships/materials/flag_soviet
 MeshMainFlag=wp_bpk_udaloy_animatedflag
-
 
 
 //Deck Props

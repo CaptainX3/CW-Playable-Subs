@@ -1,4 +1,4 @@
 [Weapon Reference]
-WeaponName=Kalibr (S)
+WeaponName=SS-N-27 (S)
 WeaponDescriptiveName=Kalibr 3M54 Anti-Ship Cruise Missile
-WeaponDescription=The Kalibr 3M54 is a modern Russian anti-ship cruise missile equipped on late model ships and submarines. It features a 300km range and a 500kg warhead. 
+WeaponDescription=The SS-N-27 (Kalibr 3M54) is a modern Russian anti-ship cruise missile equipped on late model ships and submarines. It features a 300km range and a 500kg warhead. 

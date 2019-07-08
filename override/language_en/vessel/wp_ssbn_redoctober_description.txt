@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Red October
 Description=[RUS] Typhoon Class SSBN "Red October" (Conventional Drive)
-History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 126 db\nEscape Depth: 600 ft\n\nAn extremely advanced, top-secret version of the Typhoon class, the Red October is a one of a kind vessel designed for a surprise first-strike attack against the enemies of Russia. It is equipped with the very latest in Soviet technology.
+History=<b>THEORETICAL DESIGN</b>\nSelf Noise Rating: 126 dB\nEscape Depth: 600 ft\n\nAn extremely advanced, top-secret version of the Typhoon class, the Red October is a one of a kind vessel designed for a surprise first-strike attack against the enemies of Russia. It is equipped with the very latest in Soviet technology.
 
 [Player Ship Instances]
 PlayerClassNames=Red October

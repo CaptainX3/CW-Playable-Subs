@@ -2,7 +2,7 @@
 [Torpedoes and Missiles]
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 // TABLE OF CONTENTS
 //
 // USA TORPS
@@ -14,16 +14,17 @@
 // RUSSIA MISSILES
 // WEAPONS FROM OTHER NATIONS
 // SPECIAL WEAPONS
-// SLBMs
+// SLBMS
+// SONOBUOYS
 // DEPTH CHARGES, MORTARS, & SHELLS
 //
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - USA TORPS --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
+// - USA TORPS ---------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=usn_mk48_adcap
 WeaponSprite=hud/default/usn_mk48_adcap_sprite.png
@@ -260,6 +261,7 @@ AudioLoop=FALSE
 //AudioLoop=TRUE
 //[/Model]
 
+
 WeaponObjectReference=usn_mk46
 WeaponSprite=hud/default/usn_mk46_sprite.png
 WeaponType=TORPEDO
@@ -308,6 +310,7 @@ AudioPitch=1.2
 AudioLoop=FALSE
 [/Model]
 
+
 WeaponObjectReference=usn_mk48
 WeaponSprite=weapons/sprites/usn_mk48_sprite
 WeaponType=TORPEDO
@@ -355,6 +358,7 @@ AudioPitch=1.2
 AudioLoop=FALSE
 [/Model]
 
+
 WeaponObjectReference=usn_mk50
 WeaponSprite=hud/default/usn_mk50_sprite.png
 WeaponType=TORPEDO
@@ -399,6 +403,7 @@ AudioDistance=1,25
 AudioPitch=1.2
 AudioLoop=FALSE;
 [/Model]
+
 
 WeaponObjectReference=usn_mk46_early
 WeaponSprite=hud/default/usn_mk46_sprite.png
@@ -447,6 +452,7 @@ AudioDistance=1,25
 AudioPitch=1.2
 AudioLoop=FALSE;
 [/Model]
+
 
 WeaponObjectReference=usn_moss
 WeaponSprite=weapons/sprites/usn_moss_sprite
@@ -538,9 +544,9 @@ AudioLoop=TRUE
 [/Model]
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - USA MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
+// - USA MISSILES ------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=usn_ugm84
 WeaponSprite=weapons/sprites/usn_ugm84_sprite
@@ -595,6 +601,7 @@ AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
 
+
 WeaponObjectReference=usn_tasm
 WeaponSprite=weapons/sprites/usn_tasm_sprite
 WeaponType=MISSILE
@@ -647,6 +654,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 WeaponObjectReference=usn_tlam
 WeaponSprite=weapons/sprites/usn_tlam_sprite
@@ -701,6 +709,7 @@ AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
 
+
 WeaponObjectReference=usn_rur-5
 WeaponSprite=hud/default/usn_rur-5_sprite.png
 WeaponType=MISSILE
@@ -747,6 +756,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 WeaponObjectReference=usn_rur-5early
 WeaponSprite=hud/default/usn_rur-5_sprite.png
@@ -796,9 +806,9 @@ AudioLoop=TRUE
 [/Model]
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - UK WEAPONS --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
+// - UK WEAPONS --------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=uk_sf
 WeaponSprite=hud/default/uk_sf_sprite.png
@@ -902,9 +912,9 @@ AudioLoop=FALSE;
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - PLAN TORPS --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
+// - PLAN TORPS --------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=plan_yu-1
 WeaponSprite=hud/default/plan_yu-1_sprite.png
@@ -1058,9 +1068,9 @@ SurfaceLaunched=FALSE
 WireGuided=TRUE
 WireBreakOnLaunchProbability=0.1
 WireBreakSpeedThreshold=15
-RangeInYards=50000
+RangeInYards=40000
 RunSpeed=40
-ActiveRunSpeed=65
+ActiveRunSpeed=55
 TurnRate=20
 SensorAngles=70,20
 SensorRange=3000
@@ -1105,9 +1115,9 @@ Warhead=300
 SurfaceLaunched=FALSE
 WireGuided=TRUE
 WireBreakOnLaunchProbability=0.1
-RangeInYards=50000
-RunSpeed=45
-ActiveRunSpeed=65
+RangeInYards=44000
+RunSpeed=40
+ActiveRunSpeed=50
 TurnRate=20
 SensorAngles=70,20
 SensorRange=3500
@@ -1145,9 +1155,9 @@ AudioLoop=FALSE;
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - PLAN MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - PLAN MISSILES ----------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=plan_c-801
 WeaponSprite=weapons/sprites/plan_c-801_sprite
@@ -1202,6 +1212,7 @@ AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
 
+
 WeaponObjectReference=plan_cy-1
 WeaponSprite=hud/default/plan_cy-1_sprite.png
 WeaponType=MISSILE
@@ -1248,23 +1259,6 @@ AudioRollOff=LOGARITHMIC
 AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
-[/Model]
-[Aerial Dropped Sonobuoy]
-WeaponObjectReference=wp_sonobuoy
-WeaponType=SONOBUOY
-RangeInYards=0
-RunSpeed=0
-ActiveRunSpeed=0
-MaxPitchAngle=7
-MinCameraDistance=0.5
-[Model]
-ModelFile=weapons/assets/usn_moss
-Material=weapons/assets/wp_soviet_torps_mat
-MaterialTextures=weapons/assets/wp_soviet_torps_tx
-MeshPosition=0,0,0
-MeshWeapon=MOSS
-MeshPosition=0,0,-0.017
-ParachuteParticle=weapons/assets/parachute
 [/Model]
 
 
@@ -1378,9 +1372,9 @@ AudioLoop=TRUE
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - RUSSIA TORPS --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - RUSSIA TORPS -----------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=wp_ugst
 WeaponSprite=hud/default/wp_ugst_sprite.png
@@ -1975,6 +1969,7 @@ AudioPitch=1.2
 AudioLoop=FALSE
 [/Model]
 
+
 WeaponObjectReference=wp_mg-74
 WeaponSprite=weapons/sprites/usn_moss_sprite
 WeaponType=DECOY
@@ -2017,6 +2012,7 @@ AudioDistance=1,25
 AudioPitch=1
 AudioLoop=TRUE
 [/Model]
+
 
 WeaponObjectReference=russian_moss
 WeaponSprite=weapons/sprites/usn_moss_sprite
@@ -2107,9 +2103,10 @@ AudioPitch=1
 AudioLoop=TRUE
 [/Model]
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - RUSSIA MISSILES --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// --------------------------------------------------------------------------------------------------
+// - RUSSIA MISSILES --------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 
 WeaponObjectReference=wp_kalibr_3m54
@@ -2754,6 +2751,7 @@ AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
 
+
 WeaponObjectReference=wp_ss-n-7
 WeaponSprite=weapons/sprites/wp_ss-n-7_sprite
 WeaponType=MISSILE
@@ -2806,6 +2804,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 WeaponObjectReference=wp_ss-n-14
 WeaponSprite=hud/default/wp_ss-n-16_sprite.png
@@ -2910,9 +2909,9 @@ AudioLoop=TRUE
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - WEAPONS FROM OTHER NATIONS ------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - WEAPONS FROM OTHER NATIONS ---------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=it_a184
 WeaponSprite=weapons/sprites/usn_mk48_sprite
@@ -3086,20 +3085,20 @@ DepthSettings=SKIM
 MinCameraDistance=0.5
 ResupplyTime=60
 [Model]
-ModelFile=weapons/assets/plan_c-801
-Material=weapons/assets/plan_c-801_mat
-MaterialTextures=weapons/assets/plan_c-801_tx
+ModelFile=weapons/assets/usn_tasm
+Material=weapons/assets/usn_tasm_mat
+MaterialTextures=weapons/assets/usn_tasm_tx
 MeshPosition=0,0,0
-MeshWeapon=c-801
-MeshWeaponCanister=c-801_canister
-MeshPosition=0,0,-0.0342
-MeshMissileBooster=c-801_booster
-MeshPosition=0,0,-0.0421
+MeshWeapon=TASM
+MeshWeaponCanister=TASM_Canister
+MeshPosition=0,0,-0.0443
+MeshMissileBooster=TASM_Booster
+MeshPosition=0,0,-0.0758
 CavitationParticle=weapons/assets/torpedo_cavitation_particle
-MeshPosition=0,0,-0.0682
+MeshPosition=0,0,-0.0758
 MissileTrailParticle=weapons/assets/usn_ugm84_missiletrail
-MeshPosition=0,0,-0.0337
-BoosterParticle=weapons/assets/plan_c-801_boosterrelease
+MeshPosition=0,0,-0.0443
+BoosterParticle=weapons/assets/usn_ugm84_boosterrelease
 
 AudioSource=MissileLaunch
 AudioClip=audio/weapons/missile_launch
@@ -3409,9 +3408,9 @@ AudioLoop=FALSE;
 [/Model]
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - SPECIAL WEAPONS -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - SPECIAL WEAPONS --------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 WeaponObjectReference=usn_mk48_adcap_jt
 WeaponSprite=hud/default/usn_mk48_adcap_jt_sprite.png
@@ -3563,6 +3562,7 @@ AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
 
+
 WeaponObjectReference=usn_tasm_jt
 WeaponSprite=hud/default/usn_tasm_jt_sprite.png
 WeaponType=MISSILE
@@ -3615,6 +3615,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 WeaponObjectReference=usn_tlam_jt
 WeaponSprite=hud/default/usn_tlam_jt_sprite.png
@@ -3715,9 +3716,9 @@ AudioLoop=TRUE
 
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - SLBMs ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - SLBMs ------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
 
 //US-UK Trident
 WeaponObjectReference=usn_trident
@@ -3772,6 +3773,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 //US-UK Polaris
 WeaponObjectReference=usn_polaris
@@ -4047,6 +4049,7 @@ AudioDistance=1,25
 AudioPitch=1.1
 AudioLoop=TRUE
 [/Model]
+
 
 //RUS RSM50
 WeaponObjectReference=wp_rsm50_slbm
@@ -4433,9 +4436,32 @@ AudioLoop=TRUE
 [/Model]
 
 
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-// - DEPTH CHARGES, MORTARS, & SHELLS ------------------------------------------------------------------------------------------------------------------------------------------------
-// -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+// - SONOBUOY ---------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------
+
+[Aerial Dropped Sonobuoy]
+WeaponObjectReference=wp_sonobuoy
+WeaponType=SONOBUOY
+RangeInYards=0
+RunSpeed=0
+ActiveRunSpeed=0
+MaxPitchAngle=7
+MinCameraDistance=0.5
+[Model]
+ModelFile=weapons/assets/usn_moss
+Material=weapons/assets/wp_soviet_torps_mat
+MaterialTextures=weapons/assets/wp_soviet_torps_tx
+MeshPosition=0,0,0
+MeshWeapon=MOSS
+MeshPosition=0,0,-0.017
+ParachuteParticle=weapons/assets/parachute
+[/Model]
+
+
+// --------------------------------------------------------------------------------------------------------------------------------------------------
+// - DEPTH CHARGES, MORTARS, & SHELLS ---------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Depth Charges, Mortars and Shells]
 
@@ -4465,6 +4491,7 @@ DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
 
+
 DepthWeaponObjectReference=wp_rbu2500_mortar
 DepthWeaponWarhead=25
 DepthWeaponRange=300,2750
@@ -4489,6 +4516,7 @@ DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
 
+
 DepthWeaponObjectReference=wp_rbu1000_mortar
 DepthWeaponWarhead=100
 DepthWeaponRange=110,1100
@@ -4512,6 +4540,7 @@ MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
+
 
 //Peoples Liberation Army Navy
 
@@ -4539,6 +4568,7 @@ DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
 
+
 DepthWeaponObjectReference=plan_type81_mortar
 DepthWeaponWarhead=25
 DepthWeaponRange=600,3200
@@ -4562,6 +4592,7 @@ MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
+
 
 DepthWeaponObjectReference=plan_type87_mortar
 DepthWeaponWarhead=25
@@ -4587,6 +4618,7 @@ DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 DepthWeaponLaunchParticle=weapons/assets/rbu_launchFlare
 [/Model]
 
+
 //Naval Guns
 //USN
 DepthWeaponObjectReference=usn_mark_42_shell
@@ -4597,6 +4629,7 @@ DepthWeaponRateOfFire=1.5
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=usn_9x3_mk-7_shell
 DepthWeaponWarhead=800
 DepthWeaponRange=100,21000
@@ -4604,6 +4637,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
+
 
 DepthWeaponObjectReference=usn_mk-30_shell
 DepthWeaponWarhead=10
@@ -4613,6 +4647,7 @@ DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=usn_mk-38_shell
 DepthWeaponWarhead=10
 DepthWeaponRange=100,21000
@@ -4620,6 +4655,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
+
 
 DepthWeaponObjectReference=usn_mk-42_shell
 DepthWeaponWarhead=10
@@ -4629,6 +4665,7 @@ DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=usn_mk-45_shell
 DepthWeaponWarhead=10
 DepthWeaponRange=100,21000
@@ -4636,6 +4673,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
+
 
 //Soviet Union
 DepthWeaponObjectReference=wp_6x3_b-38_shell
@@ -4646,6 +4684,7 @@ DepthWeaponRateOfFire=0.1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=wp_ak-130_shell
 DepthWeaponWarhead=15
 DepthWeaponRange=100,23000
@@ -4653,6 +4692,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1.5
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
+
 
 DepthWeaponObjectReference=wp_sm2_shell
 DepthWeaponWarhead=15
@@ -4662,6 +4702,7 @@ DepthWeaponRateOfFire=4
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=wp_ak-100_shell
 DepthWeaponWarhead=10
 DepthWeaponRange=100,21000
@@ -4669,6 +4710,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1
 DepthWeaponReloadTime=10
 DepthWeaponVelocity=5.2
+
 
 DepthWeaponObjectReference=wp_b-34_shell
 DepthWeaponWarhead=10
@@ -4678,6 +4720,7 @@ DepthWeaponRateOfFire=4
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
 
+
 DepthWeaponObjectReference=wp_ak-726_shell
 DepthWeaponWarhead=10
 DepthWeaponRange=100,8200
@@ -4685,6 +4728,7 @@ DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=0.75
 DepthWeaponReloadTime=10.0
 DepthWeaponVelocity=5.2
+
 
 DepthWeaponObjectReference=wp_ak-725_shell
 DepthWeaponWarhead=5
@@ -4703,6 +4747,7 @@ DepthWeaponNumberFired=26
 DepthWeaponRateOfFire=1.2
 DepthWeaponReloadTime=30
 DepthWeaponVelocity=5.2
+
 
 // default depth bomb: is very underpowered
 DepthWeaponObjectReference=wp_depth_bomb
@@ -4723,6 +4768,7 @@ MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 [/Model]
 
+
 DepthWeaponObjectReference=wp_depth_bomb_50
 DepthWeaponWarhead=50
 DepthWeaponContactExploded=TRUE
@@ -4738,6 +4784,7 @@ MeshDepthWeapon=RGB-60
 MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 [/Model]
+
 
 DepthWeaponObjectReference=wp_depth_bomb_120
 // assume Soviet version of Torpex so > equal weight of TNT but less than full munition weight
@@ -4757,6 +4804,7 @@ MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 [/Model]
 
+
 DepthWeaponObjectReference=wp_depth_bomb_250
 DepthWeaponWarhead=250
 DepthWeaponContactExploded=TRUE
@@ -4773,6 +4821,7 @@ MeshDepthWeapon=RGB-60
 MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 [/Model]
+
 
 //wp_depth_bomb_500=Depth Bomb KAB-500=KAB-500PL Zagon Guided Heavy Aerial Dropped Depth Bomb
 DepthWeaponObjectReference=wp_depth_bomb_500
@@ -4791,6 +4840,7 @@ MeshDepthWeapon=RGB-60
 MeshPosition=0,0,-0.014
 DepthWeaponBubblesParticle=weapons/assets/rbu_bubbles
 [/Model]
+
 
 // USN Depth Bombs
 
@@ -4829,6 +4879,7 @@ MeshDepthWeapon=influence_mine
 MeshPosition=0,0,0
 [/Model]
 
+
 [Countermeasures]
 CountermeasureName=USN Noisemaker
 CountermeasureObjectReference=usn_noisemaker
@@ -4847,6 +4898,7 @@ MeshPosition=0,0,0
 CountermeasureParticle=countermeasures/assets/noisemaker_fx
 [/Model]
 
+
 CountermeasureName=WP Noisemaker
 CountermeasureObjectReference=wp_noisemaker
 CountermeasureType=NOISEMAKER
@@ -4864,6 +4916,7 @@ MeshPosition=0,0,0
 CountermeasureParticle=countermeasures/assets/noisemaker_fx
 [/Model]
 
+
 CountermeasureName=Chaff
 CountermeasureObjectReference=wp_chaff
 CountermeasureType=CHAFF
@@ -4875,6 +4928,7 @@ CountermeasureDescription=Aerial bursting chaff.
 MeshPosition=0,0,0
 CountermeasureParticle=countermeasures/assets/chaff_burst
 [/Model]
+
 
 CountermeasureName=Knuckle
 CountermeasureObjectReference=knuckle

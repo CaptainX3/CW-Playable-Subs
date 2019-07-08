@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Alfa
 Description=[RUS] Alfa Class SSN
-History=Self Noise Rating: 142 db\nEscape Depth: 600 ft\n\nThese are among the fastest submarines ever built. Highly automated and fitted with advanced sonar and weapons, an exotic liquid-metal reactor propels these boats at a staggering 40+ kts underwater. These high speeds allow them to outrun most ASW torpedoes, but it makes the Alfas extremely noisy. However at slower speeds they are quiet and fitted with special creep motors for silent running.
+History=Self Noise Rating: 142 dB\nEscape Depth: 600 ft\n\nThese are among the fastest submarines ever built. Highly automated and fitted with advanced sonar and weapons, an exotic liquid-metal reactor propels these boats at a staggering 40+ Kts underwater. These high speeds allow them to outrun most ASW torpedoes, but it makes the Alfas extremely noisy. However at slower speeds they are quiet and fitted with special creep motors for silent running.
 
 [Player Ship Instances]
 PlayerClassNames=Konavalov, Kostroma, Pskov, Nizhniy Novgorod, Daniil Moskovskiy, Tambov, Pantera, Magadan, Kuzbass, Volk, Leopard, Tigr, Samara, Vepr, Gepard

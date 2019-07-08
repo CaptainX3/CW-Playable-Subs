@@ -10,6 +10,3 @@ Briefing=- Avoid Detection
 Briefing=- Survive
 Briefing=
 Briefing=(Mission Submitted By III./JG 2 Oberst. Included with permission.)
-
-
-

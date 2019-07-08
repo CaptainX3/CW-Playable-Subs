@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=RSM-50 SLBM
 WeaponDescriptiveName=RSM-50 (SLBM)
-WeaponDescription=The R-29R Stingray, code RSM-50, is a Russian submarine-launched ballistic missile. The design of the RSM-50 missile started in 1970s and it was accepted into service in 1977. The main difference from the RSM-40 was the ability to carry one, three or seven warheads. Each warhead was individually targeted. The missile had astronavigation, which could correct not only discrepancies in the missile course, but also any mistakes in the position of the launching boat.\nIn-game range, 275000 yards
+WeaponDescription=The R-29R Stingray, code RSM-50, is a Russian submarine-launched ballistic missile. The design of the RSM-50 missile started in 1970s and it was accepted into service in 1977. The main difference from the RSM-40 was the ability to carry one, three or seven warheads. Each warhead was individually targeted. The missile had astro-navigation, which could correct not only discrepancies in the missile course, but also any mistakes in the position of the launching boat.\nIn-game range, 275000 yards

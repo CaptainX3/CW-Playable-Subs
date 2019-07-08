@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Permit
 Description=[USA] Permit Class SSN
-History=Self Noise Rating: 136 db\nEscape Depth: 600 ft\n\nIn service since 1961, this class introduced low-frequency sonar and rafting, making them orders of magnitude more capable than earlier SSN's. Originally named the Thresher Class, they were renamed after the lead ship USS Thresher sank with all hands during trials in 1963. This was the worst submarine disaster in history. Although quiet by Soviet standards, they are inferior to the more advanced Sturgeon and Los Angeles classes.
+History=Self Noise Rating: 136 dB\nEscape Depth: 600 ft\n\nIn service since 1961, this class introduced low-frequency sonar and rafting, making them orders of magnitude more capable than earlier SSN's. Originally named the Thresher Class, they were renamed after the lead ship USS Thresher sank with all hands during trials in 1963. This was the worst submarine disaster in history. Although quiet by Soviet standards, they are inferior to the more advanced Sturgeon and Los Angeles classes.
 
 [Player Ship Instances]
 PlayerClassNames=Permit,Plunger,Barb,Pollack,Haddo,Jack,Tinosa,Dace,Guardfish,Flasher,Greenling,Gato,Haddock

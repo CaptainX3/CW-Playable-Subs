@@ -64,10 +64,10 @@ RBUFiringArcBearingMax=0,130
 [Defenses]
 Anti-MissileGunHitProbability=0.015
 Anti-MissileGunRange=4000
-Anti-MissileGunFiringArcStart=-150,-150
-Anti-MissileGunFiringArcFinish=-30,-30
-Anti-MissileGunRestAngle=0,0
-Anti-MissileGunUsesRADAR=0,0
+Anti-MissileGunFiringArcStart=-150,-150,30,30
+Anti-MissileGunFiringArcFinish=-30,-30,150,150
+Anti-MissileGunRestAngle=0,0,0,0
+Anti-MissileGunUsesRADAR=0,0,1,1
 Anti-MissileRADARRestAngle=0,0
 ChaffType=wp_chaff
 ChaffProbability=0.12

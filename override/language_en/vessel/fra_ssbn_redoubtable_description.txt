@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Redoutable [FRA]
 Description=[FRA] Redoutable Class SSBN (1984 Era)
-History=Self Noise Rating: 140 db\nEscape Depth: 600 ft\n\nThe Le Redoutable-class submarine was a ballistic missile submarine class of the French Marine Nationale. In French, the type is called Sous-marin Nucléaire Lanceur d'Engins (SNLE), literally "Missile-launching nuclear submarine". When commissioned, they constituted the strategic part of the naval component of the French nuclear triad, then called Force de frappe (the aircraft carriers Clemenceau and Foch constituting the tactical part). The class entered active service in 1971 with Redoutable, six submarines were built in total.
+History=Self Noise Rating: 140 dB\nEscape Depth: 600 ft\n\nThe Le Redoutable-class submarine was a ballistic missile submarine class of the French Marine Nationale. In French, the type is called Sous-marin Nucléaire Lanceur d'Engins (SNLE), literally "Missile-launching nuclear submarine". When commissioned, they constituted the strategic part of the naval component of the French nuclear triad, then called Force de frappe (the aircraft carriers Clemenceau and Foch constituting the tactical part). The class entered active service in 1971 with Redoutable, six submarines were built in total.
 
 [Player Ship Instances]
 PlayerClassNames=FS Redoutable,FS Terrible,FS Foudroyant,FS Indomptable,FS Tonnant,FS Inflexible

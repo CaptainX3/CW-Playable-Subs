@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Foxtrot
 Description=[RUS] Foxtrot Class SS
-History=Self Noise Rating: 136 db\nEscape Depth: 600 ft\n\nSome 58 of these boats were built from 1957 to 1971. In the early 60's these boats represented the last of the old inexpensive conventional submarines designed to prowl the North Atlantic for NATO convoys but in the 1980's they are mostly used as special operations boats for Spetsnaz operations. Though bordering on outdated, they are quiet boats and can still be a threat to non-vigilant NATO submarine captains.
+History=Self Noise Rating: 136 dB\nEscape Depth: 600 ft\n\nSome 58 of these boats were built from 1957 to 1971. In the early 60's these boats represented the last of the old inexpensive conventional submarines designed to prowl the North Atlantic for NATO convoys but in the 1980's they are mostly used as special operations boats for Spetsnaz operations. Though bordering on outdated, they are quiet boats and can still be a threat to non-vigilant NATO submarine captains.
 
 [Player Ship Instances]
 PlayerClassNames=B-64,B-123,B-316,B-432,B-373,B-493,B-463,B-445,B-631,B-390,B-455,B-481,B-285,B-114,B-205,B-140

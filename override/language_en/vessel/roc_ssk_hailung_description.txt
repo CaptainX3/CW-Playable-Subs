@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Hai Lung [ROC]
 Description=[ROC] Hai Lung Class SSK
-History=Self Noise Rating: 115 db\nEscape Depth: 600 ft\n\nThe Chien Lung class of submarine, also known as the Hai Lung (Sea Dragon) class, was manufactured in the Netherlands for the Republic of China (Taiwan) and is currently in service with its Navy. They are a modified version of the Dutch Navy's Zwaardvis class which itself is based on the US Barbel class.
+History=Self Noise Rating: 115 dB\nEscape Depth: 600 ft\n\nThe Chien Lung class of submarine, also known as the Hai Lung (Sea Dragon) class, was manufactured in the Netherlands for the Republic of China (Taiwan) and is currently in service with its Navy. They are a modified version of the Dutch Navy's Zwaardvis class which itself is based on the US Barbel class.
 
 [Player Ship Instances]
 PlayerClassNames=ROCS Sea Dragon,ROCS Sea Tiger

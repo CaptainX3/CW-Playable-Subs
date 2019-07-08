@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=EXOCET
 WeaponDescriptiveName=Exocet Missile (SM-39)
-WeaponDescription=The missile is housed inside a watertight launched capsule (VSM or véhicule Sous marin), which is fired by the submarine's torpedo-launch tubes. On leaving the water, the capsule is ejected and the missile's motor is ignited. It then behaves like an MM40. The missile will be fired at depth, which makes it particularly suitable for discreet submarine operations.
+WeaponDescription=The missile is housed inside a watertight launched capsule (VSM), which is fired by the submarine's torpedo-launch tubes. On leaving the water, the capsule is ejected and the missile's motor is ignited. It then behaves like an MM40. The missile will be fired at depth, which makes it particularly suitable for discreet submarine operations.

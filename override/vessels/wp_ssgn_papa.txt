@@ -40,7 +40,7 @@ RADAR=wp_snoop_tray
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=wp_uset-80,wp_set-65,wp_53-65M
+TorpedoTypes=wp_test-71,wp_set-65,wp_53-65M
 TorpedoNumbers=20,0,0
 TorpedoTubes=5
 NumberOfWires=4

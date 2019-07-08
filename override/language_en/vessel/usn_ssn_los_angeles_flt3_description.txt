@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Los Angeles (688i)
 Description=[USA] Los Angeles Class (688i) SSN
-History=Self Noise Rating: 120 db\nEscape Depth: 600 ft\n\nThis class is an improved version of the original 688 design that adds improved quieting, the improved BSY-1 combat control system, under-ice capability and increased weapon storage in the form of 12 vertical launch (VLS) tubes in the forward ballast tank that can carry either TASM anti-ship or TLAM land-strike cruise missiles.
+History=Self Noise Rating: 120 dB\nEscape Depth: 600 ft\n\nThis class is an improved version of the original 688 design that adds improved quieting, the improved BSY-1 combat control system, under-ice capability and increased weapon storage in the form of 12 vertical launch (VLS) tubes in the forward ballast tank that can carry either TASM anti-ship or TLAM land-strike cruise missiles.
 
 [Player Ship Instances]
 PlayerClassNames=San Juan, Pasadena, Albany, Topeka, Miami, Scranton, Alexandria, Asheville, Jefferson City, Annapolis, Springfield, Columbus, Santa Fe, Boise, Montpelier, Charlotte, Hampton, Hartford, Toledo, Tucson, Columbia, Greeneville, Cheyenne

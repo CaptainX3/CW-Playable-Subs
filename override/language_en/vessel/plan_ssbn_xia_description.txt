@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Xia
 Description=[PLAN] Xia Class SSBN
-History=Self Noise Rating: 152 db\nEscape Depth: 600 ft\n\nLaid down in 1978 and completed in 1981, the Xia is a one-of-a-kind first generation Chinese SSBN. It is basically an enlarged Han-class submarine with a missile compartment added, and so the sensor suite and propulsion plant is probably the same, making it a rather noisy submarine, comparable to early US and Soviet boomers.
+History=Self Noise Rating: 152 dB\nEscape Depth: 600 ft\n\nLaid down in 1978 and completed in 1981, the Xia is a one-of-a-kind first generation Chinese SSBN. It is basically an enlarged Han-class submarine with a missile compartment added, and so the sensor suite and propulsion plant is probably the same, making it a rather noisy submarine, comparable to early US and Soviet boomers.
 
 [Player Ship Instances]
 PlayerClassNames=Xia

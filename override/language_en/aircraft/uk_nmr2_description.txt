@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=Nimrod MR2
+AircraftDescriptiveName=Hawker Siddeley Nimrod MR2
+History=The Nimrod MR2 carried out three main roles – Anti-Submarine Warfare (ASW), Anti-Surface Unit Warfare (ASUW) and Search and Rescue (SAR). Its extended range enabled the crew to monitor maritime areas far to the north of Iceland and up to 4,000 km out into the Western Atlantic. With Air-to-Air Refuelling (AAR), range and endurance was greatly extended. The crew consisted of two pilots and one flight engineer, two navigators (one tactical navigator and a routine navigator), one Air Electronics Officer (AEO), the sonobuoy sensor team of two Weapon System Operators (WSOp ACO) and four Weapon System Operators (WSOp EW) to manage passive and active electronic warfare systems.

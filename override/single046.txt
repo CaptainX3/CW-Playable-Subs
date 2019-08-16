@@ -1,0 +1,34 @@
+//HUDSON BAY INCURSION (WORLD MAP ADDON REUIRED)
+
+UseTerrain=TRUE
+MapCoordinates=1081,1691
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/photos/air plan 6
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/hudsonbay46
+
+//Environment
+Date=10 JUN 2019
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=SnowStorm
+SeaState=HighWind
+DuctStrength=Strong
+SLayerStrength=VeryStrong
+
+//Enemy Ships
+NumberOfEnemyUnits=1-2,3-10
+CombatBehaviour=DEFENSIVE,DEFENSIVE
+EnemyShipClasses=wp_ss_kilo|wp_ss_kilo2|wp_ss_lada,civ_ms_super_p|civ_ms_roro|civ_ms_mercur|civ_ms_encounter
+FormationCruiseSpeed=2
+
+UsePresetPositions=FALSE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh-2f
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=rcn_ssk_victoria

@@ -1,0 +1,11 @@
+Image=campaign/images/kimgonemad.jpg
+MissionLocation=Sea Of Japan
+Briefing=
+Briefing=Kim Jong-un has declared that he intends to launch a SLBM at Japan within the next 4 hours.
+You are to find and sink this hostile submarine before it carries out its intended mission.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the hostile missile submarine.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive

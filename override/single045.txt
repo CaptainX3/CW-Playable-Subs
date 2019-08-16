@@ -1,0 +1,34 @@
+//STRAIT OF HORMUZ (WORLD MAP ADDON REUIRED)
+
+UseTerrain=TRUE
+MapCoordinates=2679,1329
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/photos/air plan 6
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/hormuz45
+
+//Environment
+Date=10 JUN 2019
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=2-3,3-10
+CombatBehaviour=DEFENSIVE,DEFENSIVE
+EnemyShipClasses=plan_ss_kilo,civ_ms_super_p|civ_ms_roro|civ_ms_mercur|civ_ms_encounter
+FormationCruiseSpeed=4
+
+UsePresetPositions=FALSE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh-2f
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack_68,usn_ssn_skipjack,usn_ssn_sturgeon_68,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio,usn_ssbn_ohio_vls,usn_ssn_nautilus,usn_ssn_staynalive,uk_ssn_astute,uk_ssn_trafalgar,uk_ssn_swiftsure,uk_ss_upholder,uk_ssbn_vanguard,jmsdf_ss_oyashio,jmsdf_ss_yushio,aus_ss_collins,aus_ss_oberon,fra_ssn_rubis,fra_ssbn_redoubtable,fra_ssbn_triomphant,ger_ss_209,ger_ssn_212a,HNLMS_SS_Walrus,it_ss_sauro_iv,it_ss_toti,rcn_ssk_victoria,knm_ssk_ula,spa_ssk_galerna,swe_ss_gotland,wp_ssn_akula1,wp_ssn_akula2,wp_ssn_alfa,wp_ssn_alfa2,wp_ssn_mike,wp_ssn_november,wp_ssn_novemberii,wp_ssn_sierra,wp_ssn_sierra2,wp_ssn_victor1,wp_ssn_victor2,wp_ssn_victor3,wp_ss_foxtrot,wp_ss_kilo,wp_ss_kilo2,wp_ss_lada,wp_ss_romeo,wp_ss_tango,wp_ss_whiskey,wp_ssbn_borei,wp_ssbn_delta4,wp_ssbn_delta3,wp_ssb_golf,wp_ssbn_redoctober,wp_ssbn_redoctober_silent,wp_ssbn_typhoon,wp_ssbn_typhoon_vls,wp_ssbn_yankee,wp_ssgn_charlie1,wp_ssgn_charlie2,wp_ssgn_echo2,wp_ssgn_yankee,wp_ssg_juliet,wp_ssgn_oscar,wp_ssgn_papa,wp_ssgn_yasen,plan_ssn_han,plan_ssn_shang,plan_ssn_sui,plan_ss_kilo,plan_ss_ming,plan_ss_romeo,plan_ssk_song,plan_ssbn_xia,dprk_ss_romeo,dprk_ssb_sinpo,roc_ssk_hailung,vnm_ss_kilo,multi_ssk_scorpene

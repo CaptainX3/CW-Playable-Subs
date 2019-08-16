@@ -1283,5 +1283,8 @@ RADARRange=269374
 RADARModel=usn_aps-124
 RADARRange=251146
 
+RADARModel=uk_searchwater
+RADARRange=269374
+
 RADARModel=ara_tcsfc
 RADARRange=56710

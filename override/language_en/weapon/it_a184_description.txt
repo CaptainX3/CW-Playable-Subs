@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=A-184
 WeaponDescriptiveName=Whitehead A-184 torpedo
-WeaponDescription=This torpedo is a double role heavy torpedo, wire-guided with a final active autoguiding system
+WeaponDescription=This torpedo is a double role heavy torpedo, wire-guided with a final active auto guiding system

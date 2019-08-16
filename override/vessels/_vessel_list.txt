@@ -20,12 +20,13 @@ usn_ssbn_washington
 usn_ssn_nautilus
 usn_ssn_staynalive
 uk_ssn_astute
+uk_ssn_trafalgar
+uk_ssn_swiftsure
 uk_ssn_churchill
 uk_ssbn_resolution
-uk_ssn_trafalgar
 uk_ssbn_vanguard
-uk_ss_oberon
 uk_ss_upholder
+uk_ss_oberon
 jmsdf_ss_oyashio
 jmsdf_ss_yushio
 aus_ss_collins

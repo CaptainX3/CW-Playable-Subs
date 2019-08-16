@@ -47,7 +47,7 @@ MeshHullCollider=wp_vt_dubna_coll_hull
 MeshSuperstructureCollider=wp_vt_dubna_coll_ss
 
 Material=ships/wp_vt_dubna/wp_vt_dubna_mat
-MaterialTexture=ships/wp_vt_dubna/wp_vt_dubna_tx,ships/wp_vt_dubna/wp_vt_dubna_spec,ships/wp_vt_dubna/wp_vt_dubna_nm
+MaterialTextures=vessels/textures/grey3.png
 Mesh=wp_vt_dubna,wp_vt_dubna_d
 MeshPosition=0,0,0
 //Material=ships/materials/decal_soviet

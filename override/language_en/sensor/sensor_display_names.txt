@@ -103,7 +103,7 @@ ksm_sonderapparat=SU-Apparat Nibelung=This array was developed in World War II u
 
 uk_asdic=ASDIC Sonar=This array was one of the first of its kind, using a loud directional noise and measuring the echo to determine the location of hidden submarines.
 
-// USN Surface Ships 
+// USN Surface Ships
 
 usn_an_sqs-56=AN/SQS-56=The AN/SQS-56 is a modern hull-mounted sonar which features digital implementation, system control by a built-in mini computer, and an advanced display system. Computer controlled functions provide a system that is extremely flexible and easy to operate. The computer is also used to provide automated fault detection and localization with a built-in training capability. The sonar is an active/passive, preformed beam, digital sonar providing panoramic echo ranging and panoramic (DIMUS) passive surveillance. A single operator can search, track, classify and designate multiple targets from the active system while simultaneously maintaining anti-torpedo surveillance on the passive display.
 
@@ -222,9 +222,9 @@ wp_horse_jaw=Horse Jaw=This is a follow-on to the Moose Jaw that equips the Kiro
 wp_moose_jaw=Moose Jaw=This is a very large low-frequency array first observed on the Moskva, but which also equips the Kiev Class.
 
 //WP SONOBUOYS
-wp_rgb_56=Crow Egg=First generation sonobuoy introduced 1956. 8 to a container. 
+wp_rgb_56=Crow Egg=First generation sonobuoy introduced 1956. 8 to a container.
 
-wp_rgb_64=Rook Egg 1=Second generation sonobuoy with detection range of 1 to 5 km introduced 1964. 18 to a container. 
+wp_rgb_64=Rook Egg 1=Second generation sonobuoy with detection range of 1 to 5 km introduced 1964. 18 to a container.
 
 wp_rgb_73=Rook Egg 2=Third generation sonobuoy with detection range of 3 to 8 km introduced 1973. Assumed 18 to a container.
 
@@ -237,7 +237,7 @@ wp_bm_2=Snipe Egg 2=Directional passive sonobuoy.
 wp_bm_3=Snipe Egg 3=Active/passive sonobuoy.
 
 //WP HELO DIPPING SONARS
-wp_elk_tail=Elk Tail=This is the earlier generation VGS-2 Oka dipping sonar used by the Ka-25Bsh ASW helicopter in the 1960s
+wp_elk_tail=Elk Tail=This is the earlier generation VGS-2 Oka dipping sonar used by the Ka-25Bsh ASW helicopter in the 1960s.
 
 wp_stork_tail=Stork Tail=This is the later generation VGS-2 Oka-2 Stork Tail dipping sonar used by the Ka-25Bsh ASW helicopter in the 1980s.
 
@@ -260,7 +260,7 @@ ts_nav=Terma Scanter=Mast-mounted surface search radar allows submarines to dete
 
 zw07=ZW 07=Mast-mounted surface search radar allows submarines to detect otherwise undetectable surface contacts, at the risk of counter-detection by enemies equipped with ESM.
 
-uk_t277=Type 277=Type 277 combined air and surface-search radar. 
+uk_t277=Type 277=Type 277 combined air and surface-search radar.
 
 uk_t1002=Type 1002=Type 1002 surface-search and navigation radar.
 
@@ -322,7 +322,7 @@ wp_octopus=Splash Drop=Helicopter-mounted surface search set for Ka-27PL, optimi
 wp_wet_eye=Wet Eye=Airborne pulse doppler panoramic surface search set optimized for ASW. Integrated ASW suite for Il-38 and early Tu-142 (Mod 1).
 
 // Korshun radar of Tu-142M Mod2
-wp_korshun=Wet Eye II=Airborne pulse doppler panoramic surface search ASW-integrated radar for later 1970s Tu-142M (Mod 2). 
+wp_korshun=Wet Eye II=Airborne pulse doppler panoramic surface search ASW-integrated radar for later 1970s Tu-142M (Mod 2).
 
 // Korshun-K radar of Tu-142M Mod3
 wp_korshun_k=Wet Eye 2=Airborne pulse doppler panoramic surface search ASW-integrated radar plus digital attack avionics suite for 1980s Tu-142M (Mod 3).

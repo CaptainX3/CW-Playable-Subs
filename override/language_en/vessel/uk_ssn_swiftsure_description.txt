@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Swiftsure
+Description=[GBR] Swiftsure Class SSN (1984 Era)
+History=Self Noise Rating: 128 db\nEscape Depth: 600 ft\n\nThe Swiftsure class were a class of nuclear-powered fleet submarines in service with the Royal Navy from the early 1970s until 2010.
+
+[Player Ship Instances]
+
+PlayerClassNames=HMS Swiftsure,HMS Sovereign,HMS Superb,HMS Sceptre,HMS Spartan,HMS Splendid
+
+PlayerClassHullNumbers=S126, S108, S109, S104, S105, S106

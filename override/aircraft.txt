@@ -850,6 +850,48 @@ AudioPitch=1
 
 //---------------------------------USN ASW Planes End -----------------
 
+//---------------------------------UK ASW Planes Start -----------------
+// Nimrod MR2
+AircraftObjectReference=uk_nmr2
+AircraftType=FIXED WING
+CruiseSpeed=426
+Length=38.6
+Height=9.4
+Weight=87090
+Crew=13
+RADAR=uk_searchwater
+RADARSignature=LARGE
+ActiveSonarModel=FALSE
+PassiveSonarModel=FALSE
+
+SonobuoyTypes=usn_ssq62,usn_ssq53b
+SonobuoyNumbers=16,10
+
+[Weapon Systems]
+TorpedoTypes=usn_mk46
+TorpedoNumbers=2
+DepthBomb=usn_depth_bomb
+DepthBombNumbers=10
+
+MinCameraDistance=1
+
+[Model]
+ModelFile=aircraft/wp_il-38_may/wp_il-38_may
+MeshPosition=0,0,0
+MeshRotation=0,0,0
+Material=aircraft/wp_il-38_may/wp_il-38_may_mat
+MaterialTextures=vessels/textures/uk_nimrod_mr2.png
+MeshAircraftBody=May
+
+AudioClip=audio/units/turboprop
+AudioRollOff=LINEAR
+AudioDistance=2,25
+AudioPitch=1
+[/Model]
+
+//---------------------------------UK ASW Planes End -----------------
+
+
 AircraftObjectReference=wp_il-38_may_68
 AircraftType=FIXED WING
 CruiseSpeed=216

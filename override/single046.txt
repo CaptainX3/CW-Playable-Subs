@@ -18,9 +18,9 @@ DuctStrength=Strong
 SLayerStrength=VeryStrong
 
 //Enemy Ships
-NumberOfEnemyUnits=1-2,3-10
+NumberOfEnemyUnits=2-3,3-10
 CombatBehaviour=DEFENSIVE,DEFENSIVE
-EnemyShipClasses=wp_ss_kilo|wp_ss_kilo2|wp_ss_lada,civ_ms_super_p|civ_ms_roro|civ_ms_mercur|civ_ms_encounter
+EnemyShipClasses=wp_ss_lada,civ_ms_super_p|civ_ms_roro|civ_ms_mercur|civ_ms_encounter
 FormationCruiseSpeed=2
 
 UsePresetPositions=FALSE

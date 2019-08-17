@@ -37,92 +37,78 @@ RADAR=FALSE
 RADARSignature=MEDIUM
 
 [Model]
-ModelFile=ships/wp_vtr_amguema/wp_vtr_amguema
+ModelFile=ships/civ_ms_mercur/civ_ms_mercur
 
 //Hull and Deck
 MeshPosition=0,0,0
 MeshRotation=0,0,0
 
-MeshHullCollider=wp_vtr_amguema_coll_hull
-MeshSuperstructureCollider=wp_vtr_amguema_coll_ss
+MeshHullCollider=civ_ms_mercur_coll_hull
+MeshSuperstructureCollider=civ_ms_mercur_coll_ss
 
-Material=ships/wp_vtr_amguema/wp_vtr_amguema_mat
-MaterialTextures=ships/wp_vtr_amguema/wp_vtr_amguema_tx,ships/wp_vtr_amguema/wp_vtr_amguema_spec,ships/wp_vtr_amguema/wp_vtr_amguema_nm
-Mesh=wp_vtr_amguema,wp_vtr_amguema_d
-MeshPosition=0,-0.0647,-0.849
-MeshRudder=wp_vtr_amguema_rudder
-
+Material=ships/civ_ms_mercur/civ_ms_mercur_mat
+MaterialTextures=vessels/textures/grey3.png
+Mesh=civ_ms_mercur,civ_ms_mercur_d
+MeshPosition=0,-0.0494,-1.2245
+MeshRudder=civ_ms_mercur_rudder
 
 MeshPosition=0,0,0
 
-
-Mesh=wp_vtr_amguema_deck,wp_vtr_amguema_deck_d
-
-//Material=ships/materials/decal_soviet
-//Mesh=wp_vtr_amguema_funnel_decal,HIDE
-
-
 Material=ships/materials/underside
-Mesh=wp_vtr_amguema_undersides,wp_vtr_amguema_undersides_d
+Mesh=civ_ms_mercur_undersides,civ_ms_mercur_undersides_d
 
 Material=ships/materials/trans
-Mesh=wp_vtr_amguema_trans,wp_vtr_amguema_trans_d
+Mesh=civ_ms_mercur_trans,civ_ms_mercur_trans_d
 
 Material=ships/materials/modular_parts
-Mesh=wp_vtr_amguema_parts,wp_vtr_amguema_parts_d
-
-Material=ships/materials/crew_soviet
-Mesh=wp_vtr_amguema_crew,HIDE
+Mesh=civ_ms_mercur_parts,civ_ms_mercur_parts_d
 
 Material=ships/materials/modular_parts
-MeshPosition=0,-0.06835,-0.7925
-MeshProp=wp_vtr_amguema_prop
+MeshPosition=0,-0.0912,-1.188
+MeshProp=civ_ms_mercur_prop
 
 //Flags
 
 MeshPosition=0,0,0
 MeshRotation=270,90,0
 Material=ships/materials/flag_us
-MeshMainFlag=wp_vtr_amguema_animatedflag
+MeshMainFlag=civ_ms_mercur_animatedflag
 
-//Deck Props
-MeshRotation=0,0,0
-Material=ships/materials/ms_cargoatlas
-Mesh=wp_vtr_amguema_container,wp_vtr_amguema_container
-Material=ships/materials/blobshadow
-Mesh=wp_vtr_amguema_container_shadow,wp_vtr_amguema_container_shadow
 
 //RADARs
 RADARSpeed=100
 RADARDirection=1
-Material=ships/materials/modular_parts
-MeshPosition=-0,0.26,0.1746
-MeshRADAR=wp_vtr_amguema_navradar
 
-MeshPosition=-0.0126,0.3633,0.1682
-MeshRADAR=wp_vtr_amguema_navradar2
+MeshPosition=0,0.4065,-0.6588
+MeshRotation=0,180,0
+Material=ships/civ_ms_mercur/civ_ms_mercur_mat
+MeshRADAR=civ_ms_mercur_surfacesearch
+
+MeshPosition=0,0.4504,-0.6762
+MeshRotation=0,0,0
+MeshRADAR=civ_ms_mercur_surfacesearch
 
 //Wake and Smoke
-MeshPosition=0,0.058,0.6425
+MeshPosition=0,0,0
 Material=FALSE
-BowWaveParticle=ships/particles/bowwave_small
-PropWashParticle=ships/particles/bowwave_small
-CavitationParticle=ships/particles/wp_vtr_amguema_cavitation
-FunnelSmokeParticle=ships/particles/wp_vtr_amguema_smokeemitter
+BowWaveParticle=ships/particles/bowwave
+PropWashParticle=ships/particles/bowwave
+CavitationParticle=ships/particles/civ_ms_encounter_cavitation
+FunnelSmokeParticle=ships/particles/civ_ms_encounter_smokeemitter
 
-MeshPosition=0,0,0.655
-MeshHullWake=wp_vtr_amguema_hullwake
+MeshPosition=0,0,1.017
+MeshHullWake=civ_ms_mercur_hullwake
 
-MeshPosition=0,0,-0.5962
-MeshSternWake=wp_vtr_amguema_sternwake
+MeshPosition=0,0,-0.822
+MeshSternWake=civ_ms_mercur_sternwake
 
-ParticleBowWavePosition=0,0,0.873
-ParticlePropWashPosition=0,-0.069,-0.815
-ParticleHullFoamPosition=0,0,0.509
+ParticleBowWavePosition=0,0,1.155
+ParticlePropWashPosition=0,-0.091,-1.064
+ParticleHullFoamPosition=0,0,0.482
 ParticleHullFoamParameters=10,0.35,0.35,0.055,0,0,0.25
-ParticleSternFoamPosition=0,0,-1.087
+ParticleSternFoamPosition=0,0,-1.28
 ParticleSternFoamParameters=25,0.35,0.2,0.025,0.01,0,0.25
-KelvinWaves=3.2,3.2
+KelvinWaves=4.4,4.2
 
 EngineAudioClip=audio/units/diesel_large
 EngineAudioRollOff=LOGARITHMIC

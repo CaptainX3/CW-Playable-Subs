@@ -1,0 +1,32 @@
+//SEA OF JAPAN
+
+MapCoordinates=2488,1920
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/kimgonemad47
+
+Date=1 JAN 2000
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,2-4,1-4,1-2
+CombatBehaviour=OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyShipClasses=dprk_ssb_sinpo,dprk_ss_romeo,civ_ms_super_p|civ_ms_roro|civ_ms_mercur|civ_ms_encounter,wp_vt_boris_chilikin
+FormationCruiseSpeed=2
+
+UsePresetPositions=FALSE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh-2f
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_permit_68,usn_ssn_permit,usn_ssn_seawolf,usn_ssn_skipjack,usn_ssn_sturgeon,usn_ssn_virginia,usn_ssn_virginia_imp,usn_ss_stingray,usn_ssbn_ohio,usn_ssbn_ohio_vls,usn_ssn_nautilus,usn_ssn_staynalive,jmsdf_ss_oyashio,jmsdf_ss_yushio,aus_ss_collins,aus_ss_oberon,multi_ssk_scorpene

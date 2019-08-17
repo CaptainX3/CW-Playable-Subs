@@ -47,7 +47,7 @@ MeshHullCollider=wp_vt_kazbek_coll_hull
 MeshSuperstructureCollider=wp_vt_kazbek_coll_ss
 
 Material=ships/wp_vt_kazbek/wp_vt_kazbek_mat
-MaterialTexture=ships/wp_vt_kazbek/wp_vt_kazbek_tx,ships/wp_vt_kazbek/wp_vt_kazbek_spec,ships/wp_vt_kazbek/wp_vt_kazbek_nm
+MaterialTextures=vessels/textures/grey3.png
 Mesh=wp_vt_kazbek,wp_vt_kazbek_d
 
 MeshPosition=0,0,0

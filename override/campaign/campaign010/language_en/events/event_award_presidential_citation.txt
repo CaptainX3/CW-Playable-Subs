@@ -8,6 +8,6 @@ Font=0
 Outline=FALSE
 Color=57,61,73,255
 Title=By virtue of the authority vested in me as Prime Minister of the United Kingdom and as Commander in Chief of the Armed Forces of the United Kingdom, I have today 
-Sentence1=<b><size=22>MENTIONED IN DISPATCHES<n>FOR EXTRAORDINARY HEROISM TO<n>THE OFFICERS AND MEN OF<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
-Sentence2=The officers and crew of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> are cited for extraordinary heroism and outstanding performance of duty on <DATE> while engaged in armed conflict against enemy forces of the United Kingdom in and around <PLAYERMAPREGION>. As a result of their intrepidity, resolution and offensive tactics mission outcome exceeded all expectations. The selfless dedication and inspiring  professional performance of the officers and men of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> reflect credit upon themselves and were in keeping with the highest traditions of the Royal Navy.
+Sentence1=<b><size=22>MENTIONED IN DISPATCHES<n>FOR EXTRAORDINARY HEROISM TO<n>THE OFFICERS AND CREW OF<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=The officers and crew of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> are cited for extraordinary heroism and outstanding performance of duty on <DATE> while engaged in armed conflict against enemy forces of the United Kingdom in and around <PLAYERMAPREGION>. As a result of their intrepidity, resolution and offensive tactics mission outcome exceeded all expectations. The selfless dedication and inspiring professional performance of the officers and crew of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> reflect credit upon themselves and were in keeping with the highest traditions of the Royal Navy.
 Header=FALSE

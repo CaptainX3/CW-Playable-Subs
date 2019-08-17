@@ -42,3 +42,6 @@
 <color=Yellow>Convoy Strike (NATO)</color>
 <color=Yellow>Convoy Strike (RUS)</color>
 <color=Yellow>Convoy Strike (PLAN)</color>
+<color=Green>Straight of Hormuz (<b>WORLD MAP REQ'D</b>)</color>
+<color=Green>Hudson Bay Incursion (<b>WORLD MAP REQ'D</b>)</color>
+<color=Green>Kim Gone Mad</color>

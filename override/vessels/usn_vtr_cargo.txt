@@ -47,7 +47,7 @@ MeshHullCollider=wp_vtr_andizhan_coll_hull
 MeshSuperstructureCollider=wp_vtr_andizhan_coll_ss
 
 Material=ships/wp_vtr_andizhan/wp_vtr_andizhan_mat
-MaterialTextures=ships/wp_vtr_andizhan/wp_vtr_andizhan_tx,ships/wp_vtr_andizhan/wp_vtr_andizhan_spec,ships/wp_vtr_andizhan/wp_vtr_andizhan_nm
+MaterialTextures=vessels/textures/grey3.png
 Mesh=wp_vtr_andizhan,wp_vtr_andizhan_d
 MeshPosition=0,-0.0129,-0.6954
 MeshRudder=wp_vtr_andizhan_rudder

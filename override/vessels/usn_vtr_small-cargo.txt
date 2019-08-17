@@ -47,7 +47,7 @@ MeshHullCollider=wp_vtr_yuniy_partizan_coll_hull
 MeshSuperstructureCollider=wp_vtr_yuniy_partizan_coll_ss
 
 Material=ships/wp_vtr_yuniy_partizan/wp_vtr_yuniy_partizan_mat
-MaterialTextures=ships/wp_vtr_yuniy_partizan/wp_vtr_yuniy_partizan_tx,ships/wp_vtr_yuniy_partizan/wp_vtr_yuniy_partizan_spec,ships/wp_vtr_yuniy_partizan/wp_vtr_yuniy_partizan_nm
+MaterialTextures=vessels/textures/grey3.png
 Mesh=wp_vtr_yuniy_partizan,wp_vtr_yuniy_partizan_d
 MeshPosition=0,-0.0084,-0.5503
 MeshRudder=wp_vtr_yuniy_partizan_rudder

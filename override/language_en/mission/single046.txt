@@ -1,0 +1,10 @@
+Image=campaign/images/hudsonbay.jpg
+MissionLocation=Hudson Bay
+Briefing=
+Briefing=Some rouge submarines have been found in your back yard. SINK THEM !
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all hostile submarines
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive

@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=Amguema
 Description=Amguema Class Military Transport
-History=This is a class of medium-sized icebreaking passenger cargo ships designed to operate in northern climates. Normally under civilian flag they would likely be used as troop transports at the outbreak of hostilities, with each ship being able to carry a respectable 6,600 tons.
+History=This is a class of medium-sized ice breaking passenger cargo ships designed to operate in northern climates. Normally under civilian flag they would likely be used as troop transports at the outbreak of hostilities, with each ship being able to carry a respectable 6,600 tons.

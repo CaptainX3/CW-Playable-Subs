@@ -4,6 +4,6 @@ Description=[DEU] 212A Class SS
 History=Self Noise Rating: 110 dB\nEscape Depth: 600 ft\n\nThe German Type 212 class, also Italian Todaro class, is a highly advanced design of non-nuclear submarine developed by Howaldtswerke-Deutsche Werft AG (HDW) for the German and Italian navies. It features diesel propulsion and an additional air-independent propulsion (AIP) system using Siemens proton exchange membrane (PEM) compressed hydrogen fuel cells. The submarines can operate at high speed on diesel power or switch to the AIP system for silent slow cruising, staying submerged for up to three weeks without surfacing and with little exhaust heat. The system is also said to be vibration-free, extremely quiet and virtually undetectable.
 
 [Player Ship Instances]
-PlayerClassNames=FGS U31,FGS U32,FGS U33,FGS U34,FGS U35,FGS U36 
+PlayerClassNames=FGS U31,FGS U32,FGS U33,FGS U34,FGS U35,FGS U36
 
 PlayerClassHullNumbers=S181,S182,S183,S184,S185,S186

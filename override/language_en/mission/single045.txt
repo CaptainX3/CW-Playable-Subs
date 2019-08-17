@@ -1,0 +1,10 @@
+Image=campaign/images/hormuz.jpg
+MissionLocation=Straight of Hormuz
+Briefing=
+Briefing=Iran have been targeting neutral shipping in the area over the past few weeks. They have now sent some rented Kilo Class SSKs to sea and are thought to be trying to sink neutral shipping in the straights to close it.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all hostile submarines
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive

@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=US Fleet Oil Tanker
 Description=US Fleet Oil Tanker
-History= US Fleet Oil Tanker. Cargo capacity is 13,500 tons of fuel and fresh water, 400 tons of munitions, and 800 tons of stores and provisions.
+History=Based upon the Wichita Class Replenishment Oilers. They comprised of a class of seven replenishment oilers used by the USN from the late 1960s to mid 1990s.

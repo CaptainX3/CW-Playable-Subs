@@ -41,7 +41,7 @@ RADARSignature=SMALL
 
 [Weapon Systems]
 TorpedoTypes=wp_test-71,wp_set-65,russian_moss
-TorpedoNumbers=2,18,5
+TorpedoNumbers=18,2,5
 TorpedoTubes=7
 NumberOfWires=4
 TubeConfig=1,1,1,1,1,1,1

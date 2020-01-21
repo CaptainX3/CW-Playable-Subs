@@ -7,4 +7,4 @@
 <color=Red>Red Dawn Rising (RUS)</color>
 <color=Red>The Wrath of Brezhnev (RUS)</color>
 <color=Red>Operation Polar Glory (RUS)</color>
-<color=Green>No Deal (UK)</color> <color=Red>(Testing)</color>
+<color=Green>Life Is Like A Box Of Brexits (UK)</color>

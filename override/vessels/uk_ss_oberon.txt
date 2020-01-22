@@ -28,7 +28,7 @@ CavitationParameters=20,-100
 PropRotationSpeed=-450,450,450
 TestDepth=650
 EscapeDepth=450
-PeriscopeDepthInFeet=37					   
+PeriscopeDepthInFeet=37
 
 [Acoustics & Sensors]
 SelfNoise=142
@@ -43,9 +43,9 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=uk_tf
 TorpedoNumbers=20
-TorpedoTubes=6
+TorpedoTubes=8
 NumberOfWires=6
-TubeConfig=1,1,1,1,1,1
+TubeConfig=1,1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
@@ -287,6 +287,18 @@ MeshRotation=0,0,0
 MeshPosition=-0.005,-0.0287,0.6
 TorpedoSpawnPosition=-0.005,-0.0287,0.6
 TorpedoEffectPosition=0,0,0.0232
+
+//Tube 7
+MeshRotation=0,180,0
+MeshPosition=0.015,-0.002,-0.5
+TorpedoSpawnPosition=0.015,-0.002,-0.5
+TorpedoEffectPosition=0.015,-0.002,-0.5
+
+//Tube 8
+MeshRotation=0,-180,0
+MeshPosition=-0.015,-0.002,-0.5
+TorpedoSpawnPosition=-0.015,-0.002,-0.5
+TorpedoEffectPosition=-0.015,-0.002,-0.5
 
 //Noisemaker Mount
 MeshRotation=0,0,0

@@ -42,9 +42,9 @@ RADARSignature=SMALL
 [Weapon Systems]
 TorpedoTypes=wp_test-71,wp_set-65,russian_moss
 TorpedoNumbers=22,0,5
-TorpedoTubes=5
+TorpedoTubes=7
 NumberOfWires=4
-TubeConfig=1,1,1,1,1
+TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=21
 TubeReloadTime=30
 
@@ -162,6 +162,18 @@ MeshRotation=0,0,0
 MeshPosition=-0.014,0.0018,0.803
 TorpedoSpawnPosition=-0.014,0.0018,0.842
 TorpedoEffectPosition=0,0,0.0232
+
+//Tube 5
+MeshRotation=0,180,0
+MeshPosition=0.015,-0.002,-0.5
+TorpedoSpawnPosition=0.015,-0.002,-0.5
+TorpedoEffectPosition=0.015,-0.002,-0.5
+
+//Tube 6
+MeshRotation=0,-180,0
+MeshPosition=-0.015,-0.002,-0.5
+TorpedoSpawnPosition=-0.015,-0.002,-0.5
+TorpedoEffectPosition=-0.015,-0.002,-0.5
 
 //VLS Launch Position
 MeshPosition=0.0357,0.0785,0.4816

@@ -141,6 +141,9 @@ MeshPosition=0,0.0,0.1487
 MastHeight=0.114
 MeshMast=usn_ssn_permit_radar_mast
 
+
+MaterialTextures=vessels/textures/darkgrey.png
+
 //Bow dome
 MeshPosition=-0.002,0.017,0.9481
 Mesh=usn_ssn_permit_gnats

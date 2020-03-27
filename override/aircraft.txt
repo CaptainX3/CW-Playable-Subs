@@ -24,7 +24,7 @@ ModelFile=aircraft/usn_sh-2f/usn_sh-2f
 MeshPosition=0,0.0,0
 MeshRotation=0,0,0
 Material=aircraft/usn_sh-2f/usn_sh-2f_mat
-MaterialTextures=aircraft/usn_sh-2f/usn_sh-2f_tx,aircraft/usn_sh-2f/usn_sh-2f_spec,aircraft/usn_sh-2f/usn_sh-2f_nm
+MaterialTextures=vessels/textures/usn_sh_2f.png
 MeshAircraftBody=usn_sh-2f
 DippingSonarPosition=0,-0.0086,-0.03
 
@@ -593,6 +593,62 @@ AudioPitch=1
 [/Model]
 
 //---------------------------------USN Helicopters End -----------------
+
+//---------------------------------UK Helicopters Start -----------------
+
+// Seaking HAS5
+AircraftObjectReference=uk_has5
+AircraftType=HELICOPTER
+CruiseSpeed=112
+Length=17
+Height=5.13
+Weight=9525
+Crew=4
+RADAR=uk_searchwater
+RADARSignature=SMALL
+ActiveSonarModel=usn_an_aqs_13
+PassiveSonarModel=usn_an_aqs_13
+SonobuoyTypes=usn_ssq62,usn_ssq53b
+SonobuoyNumbers=10,10
+[Weapon Systems]
+TorpedoTypes=usn_mk46
+TorpedoNumbers=4
+DepthBomb=usn_depth_bomb
+DepthBombNumbers=4
+MinCameraDistance=0.5
+
+[Model]
+ModelFile=aircraft/wp_haze/wp_haze
+MeshPosition=0,0.0,0
+MeshRotation=0,0,0
+Material=aircraft/wp_haze/wp_haze_mat
+MaterialTextures=vessels/textures/uk_has5.png
+MeshAircraftBody=haze
+DippingSonarPosition=0,-0.0138,-0.035
+
+MeshPosition=0,0.03,0
+MeshRotation=4,0,0
+Material=aircraft/materials/prop_5_blade
+MeshSpeed=-100
+MeshAircraftProp=haze_mainrotor
+
+MeshPosition=-0.006,0.029,-0.183
+MeshRotation=0,0,90
+Material=aircraft/materials/prop_3_blade
+MeshSpeed=100
+MeshAircraftProp=haze_tailrotor
+
+HoverParticle=aircraft/heli_hover
+
+AudioClip=audio/units/ka25_inflight
+AudioRollOff=LINEAR
+AudioDistance=0.1,16
+AudioPitch=1
+[/Model]
+
+
+//---------------------------------USN Helicopters End -----------------
+
 
 AircraftObjectReference=wp_tu-142_bear
 AircraftType=FIXED WING
